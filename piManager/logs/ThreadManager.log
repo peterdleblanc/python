@@ -1,0 +1,1150 @@
+2015-10-13 16:51:34,649 - MainThread: adding thread midiMonitor to database
+2015-10-13 16:51:34,653 - MainThread: adding thread getInternalIP to database
+2015-10-13 16:51:34,653 - MainThread: waiting on thread type: report
+2015-10-13 16:51:34,654 - MainThread: Skipping processing main thread
+2015-10-13 16:51:34,662 - MainThread: Found Thread: midiMonitor
+2015-10-13 16:51:34,662 - MainThread: Returning Thread: midiMonitor
+2015-10-13 16:51:52,253 - MainThread: Found Thread: getInternalIP
+2015-10-13 16:51:52,253 - MainThread: Returning Thread: getInternalIP
+2015-10-13 16:51:52,254 - MainThread: All threads in threadType joined
+2015-10-13 16:51:52,254 - MainThread: Getting Thread list
+2015-10-13 16:52:47,610 - MainThread: adding thread midiMonitor to database
+2015-10-13 16:52:47,613 - MainThread: adding thread getInternalIP to database
+2015-10-13 16:52:47,614 - MainThread: waiting on thread type: report
+2015-10-13 16:52:47,615 - MainThread: Skipping processing main thread
+2015-10-13 16:52:47,621 - MainThread: Found Thread: midiMonitor
+2015-10-13 16:52:47,621 - MainThread: Returning Thread: midiMonitor
+2015-10-13 16:52:55,409 - MainThread: Found Thread: getInternalIP
+2015-10-13 16:52:55,409 - MainThread: Returning Thread: getInternalIP
+2015-10-13 16:52:55,409 - MainThread: All threads in threadType joined
+2015-10-13 16:52:55,410 - MainThread: Getting Thread list
+2015-10-13 16:59:54,368 - MainThread: adding thread midiMonitor to database
+2015-10-13 16:59:54,370 - MainThread: adding thread getInternalIP to database
+2015-10-13 16:59:54,371 - MainThread: waiting on thread type: report
+2015-10-13 16:59:54,371 - MainThread: Skipping processing main thread
+2015-10-13 16:59:54,377 - MainThread: Found Thread: midiMonitor
+2015-10-13 16:59:54,377 - MainThread: Returning Thread: midiMonitor
+2015-10-13 17:00:02,585 - MainThread: Found Thread: getInternalIP
+2015-10-13 17:00:02,585 - MainThread: Returning Thread: getInternalIP
+2015-10-13 17:00:02,585 - MainThread: All threads in threadType joined
+2015-10-13 17:00:02,585 - MainThread: Getting Thread list
+2015-10-14 08:45:48,932 - MainThread: adding thread midiMonitor to database
+2015-10-14 08:45:48,934 - MainThread: adding thread getInternalIP to database
+2015-10-14 08:45:48,934 - MainThread: waiting on thread type: report
+2015-10-14 08:45:48,934 - MainThread: Skipping processing main thread
+2015-10-14 08:45:48,938 - MainThread: Found Thread: midiMonitor
+2015-10-14 08:45:48,939 - MainThread: Returning Thread: midiMonitor
+2015-10-14 08:45:49,291 - MainThread: adding thread midiMonitor to database
+2015-10-14 08:45:49,294 - MainThread: adding thread getInternalIP to database
+2015-10-14 08:45:49,295 - MainThread: waiting on thread type: report
+2015-10-14 08:45:49,296 - MainThread: Skipping processing main thread
+2015-10-14 08:45:49,301 - MainThread: Found Thread: midiMonitor
+2015-10-14 08:45:49,301 - MainThread: Returning Thread: midiMonitor
+2015-10-14 08:46:29,266 - MainThread: Found Thread: getInternalIP
+2015-10-14 08:46:29,266 - MainThread: Returning Thread: getInternalIP
+2015-10-14 08:46:29,266 - MainThread: All threads in threadType joined
+2015-10-14 08:46:29,266 - MainThread: Found Thread: getInternalIP
+2015-10-14 08:46:29,266 - MainThread: Getting Thread list
+2015-10-14 08:46:29,266 - MainThread: Returning Thread: getInternalIP
+2015-10-14 08:46:29,266 - MainThread: All threads in threadType joined
+2015-10-14 08:46:29,266 - MainThread: Getting Thread list
+2015-10-14 08:47:20,554 - MainThread: adding thread midiMonitor to database
+2015-10-14 08:47:20,557 - MainThread: adding thread getInternalIP to database
+2015-10-14 08:47:20,558 - MainThread: waiting on thread type: report
+2015-10-14 08:47:20,558 - MainThread: Skipping processing main thread
+2015-10-14 08:47:20,565 - MainThread: Found Thread: midiMonitor
+2015-10-14 08:47:20,565 - MainThread: Returning Thread: midiMonitor
+2015-10-14 09:03:56,958 - MainThread: adding thread midiMonitor to database
+2015-10-14 09:03:56,960 - MainThread: adding thread getInternalIP to database
+2015-10-14 09:03:56,960 - MainThread: waiting on thread type: report
+2015-10-14 09:03:56,961 - MainThread: Skipping processing main thread
+2015-10-14 09:03:56,967 - MainThread: Found Thread: midiMonitor
+2015-10-14 09:03:56,967 - MainThread: Returning Thread: midiMonitor
+2015-10-14 09:04:22,179 - MainThread: Found Thread: getInternalIP
+2015-10-14 09:04:22,179 - MainThread: Returning Thread: getInternalIP
+2015-10-14 09:04:22,180 - MainThread: All threads in threadType joined
+2015-10-14 09:04:22,180 - MainThread: Getting Thread list
+2015-10-14 09:04:55,313 - MainThread: adding thread midiMonitor to database
+2015-10-14 09:04:55,317 - MainThread: adding thread getInternalIP to database
+2015-10-14 09:04:55,318 - MainThread: waiting on thread type: report
+2015-10-14 09:04:55,318 - MainThread: Skipping processing main thread
+2015-10-14 09:04:55,327 - MainThread: Found Thread: midiMonitor
+2015-10-14 09:04:55,327 - MainThread: Returning Thread: midiMonitor
+2015-10-14 09:05:14,378 - MainThread: Found Thread: getInternalIP
+2015-10-14 09:05:14,378 - MainThread: Returning Thread: getInternalIP
+2015-10-14 09:05:14,378 - MainThread: All threads in threadType joined
+2015-10-14 09:05:14,378 - MainThread: Getting Thread list
+2015-10-14 09:25:44,259 - MainThread: adding thread midiMonitor to database
+2015-10-14 09:25:44,262 - MainThread: adding thread getInternalIP to database
+2015-10-14 09:25:44,263 - MainThread: waiting on thread type: report
+2015-10-14 09:25:44,263 - MainThread: Skipping processing main thread
+2015-10-14 09:25:44,266 - MainThread: Found Thread: midiMonitor
+2015-10-14 09:25:44,267 - MainThread: Returning Thread: midiMonitor
+2015-10-14 09:25:54,594 - MainThread: Found Thread: getInternalIP
+2015-10-14 09:25:54,595 - MainThread: Returning Thread: getInternalIP
+2015-10-14 09:25:54,595 - MainThread: All threads in threadType joined
+2015-10-14 09:25:54,595 - MainThread: Getting Thread list
+2015-10-14 09:26:07,309 - MainThread: adding thread midiMonitor to database
+2015-10-14 09:26:07,312 - MainThread: adding thread getInternalIP to database
+2015-10-14 09:26:07,314 - MainThread: waiting on thread type: report
+2015-10-14 09:26:07,314 - MainThread: Skipping processing main thread
+2015-10-14 09:26:07,320 - MainThread: Found Thread: midiMonitor
+2015-10-14 09:26:07,321 - MainThread: Returning Thread: midiMonitor
+2015-10-14 09:27:59,696 - MainThread: Found Thread: getInternalIP
+2015-10-14 09:27:59,696 - MainThread: Returning Thread: getInternalIP
+2015-10-14 09:27:59,697 - MainThread: All threads in threadType joined
+2015-10-14 09:27:59,697 - MainThread: Getting Thread list
+2015-10-14 09:28:33,551 - MainThread: adding thread midiMonitor to database
+2015-10-14 09:28:33,556 - MainThread: adding thread getInternalIP to database
+2015-10-14 09:28:33,558 - MainThread: waiting on thread type: report
+2015-10-14 09:28:33,558 - MainThread: Skipping processing main thread
+2015-10-14 09:28:33,567 - MainThread: Found Thread: midiMonitor
+2015-10-14 09:28:33,568 - MainThread: Returning Thread: midiMonitor
+2015-10-14 09:28:33,571 - MainThread: Found Thread: getInternalIP
+2015-10-14 09:28:33,571 - MainThread: Returning Thread: getInternalIP
+2015-10-14 09:28:34,499 - MainThread: All threads in threadType joined
+2015-10-14 09:28:34,500 - MainThread: Getting Thread list
+2015-10-14 09:33:20,263 - MainThread: adding thread midiMonitor to database
+2015-10-14 09:33:20,265 - MainThread: adding thread getInternalIP to database
+2015-10-14 09:33:20,267 - MainThread: waiting on thread type: report
+2015-10-14 09:33:20,267 - MainThread: Skipping processing main thread
+2015-10-14 09:33:20,272 - MainThread: Found Thread: midiMonitor
+2015-10-14 09:33:20,272 - MainThread: Returning Thread: midiMonitor
+2015-10-14 09:33:20,276 - MainThread: Found Thread: getInternalIP
+2015-10-14 09:33:20,276 - MainThread: Returning Thread: getInternalIP
+2015-10-14 09:33:20,423 - MainThread: All threads in threadType joined
+2015-10-14 09:33:20,423 - MainThread: Getting Thread list
+2015-10-14 09:34:23,211 - MainThread: adding thread midiMonitor to database
+2015-10-14 09:34:23,213 - MainThread: adding thread getInternalIP to database
+2015-10-14 09:34:23,214 - MainThread: waiting on thread type: report
+2015-10-14 09:34:23,214 - MainThread: Skipping processing main thread
+2015-10-14 09:34:23,220 - MainThread: Found Thread: midiMonitor
+2015-10-14 09:34:23,220 - MainThread: Returning Thread: midiMonitor
+2015-10-14 09:47:43,635 - MainThread: adding thread midiMonitor to database
+2015-10-14 09:47:43,637 - MainThread: adding thread getInternalIP to database
+2015-10-14 09:47:43,638 - MainThread: waiting on thread type: report
+2015-10-14 09:47:43,638 - MainThread: Skipping processing main thread
+2015-10-14 09:47:43,642 - MainThread: Found Thread: midiMonitor
+2015-10-14 09:47:43,642 - MainThread: Returning Thread: midiMonitor
+2015-10-14 09:47:49,514 - MainThread: Found Thread: getInternalIP
+2015-10-14 09:47:49,514 - MainThread: Returning Thread: getInternalIP
+2015-10-14 09:47:49,514 - MainThread: All threads in threadType joined
+2015-10-14 09:47:49,514 - MainThread: Getting Thread list
+2015-10-14 09:51:06,216 - MainThread: adding thread midiMonitor to database
+2015-10-14 09:51:06,220 - MainThread: adding thread getInternalIP to database
+2015-10-14 09:51:06,222 - MainThread: waiting on thread type: report
+2015-10-14 09:51:06,222 - MainThread: Skipping processing main thread
+2015-10-14 09:51:06,230 - MainThread: Found Thread: midiMonitor
+2015-10-14 09:51:06,230 - MainThread: Returning Thread: midiMonitor
+2015-10-14 09:53:09,452 - MainThread: adding thread midiMonitor to database
+2015-10-14 09:53:09,455 - MainThread: adding thread getInternalIP to database
+2015-10-14 09:53:09,456 - MainThread: waiting on thread type: report
+2015-10-14 09:53:09,456 - MainThread: Skipping processing main thread
+2015-10-14 09:53:09,462 - MainThread: Found Thread: midiMonitor
+2015-10-14 09:53:09,462 - MainThread: Returning Thread: midiMonitor
+2015-10-14 09:57:36,223 - MainThread: adding thread midiMonitor to database
+2015-10-14 09:57:36,226 - MainThread: adding thread getInternalIP to database
+2015-10-14 09:57:36,227 - MainThread: waiting on thread type: report
+2015-10-14 09:57:36,228 - MainThread: Skipping processing main thread
+2015-10-14 09:57:36,236 - MainThread: Found Thread: midiMonitor
+2015-10-14 09:57:36,236 - MainThread: Returning Thread: midiMonitor
+2015-10-14 09:57:50,202 - MainThread: Found Thread: getInternalIP
+2015-10-14 09:57:50,202 - MainThread: Returning Thread: getInternalIP
+2015-10-14 09:57:50,202 - MainThread: All threads in threadType joined
+2015-10-14 09:57:50,203 - MainThread: Getting Thread list
+2015-10-14 09:59:36,275 - MainThread: adding thread midiMonitor to database
+2015-10-14 09:59:36,279 - MainThread: adding thread getInternalIP to database
+2015-10-14 09:59:36,279 - MainThread: waiting on thread type: report
+2015-10-14 09:59:36,280 - MainThread: Skipping processing main thread
+2015-10-14 09:59:36,286 - MainThread: Found Thread: midiMonitor
+2015-10-14 09:59:36,287 - MainThread: Returning Thread: midiMonitor
+2015-10-14 09:59:40,855 - MainThread: Found Thread: getInternalIP
+2015-10-14 09:59:40,855 - MainThread: Returning Thread: getInternalIP
+2015-10-14 09:59:40,855 - MainThread: All threads in threadType joined
+2015-10-14 09:59:40,855 - MainThread: Getting Thread list
+2015-10-14 10:00:11,294 - MainThread: adding thread midiMonitor to database
+2015-10-14 10:00:11,297 - MainThread: adding thread getInternalIP to database
+2015-10-14 10:00:11,298 - MainThread: waiting on thread type: report
+2015-10-14 10:00:11,298 - MainThread: Skipping processing main thread
+2015-10-14 10:00:11,305 - MainThread: Found Thread: midiMonitor
+2015-10-14 10:00:11,305 - MainThread: Returning Thread: midiMonitor
+2015-10-14 10:00:13,085 - MainThread: Found Thread: getInternalIP
+2015-10-14 10:00:13,085 - MainThread: Returning Thread: getInternalIP
+2015-10-14 10:00:13,085 - MainThread: All threads in threadType joined
+2015-10-14 10:00:13,085 - MainThread: Getting Thread list
+2015-10-14 10:04:03,652 - MainThread: adding thread midiMonitor to database
+2015-10-14 10:04:03,653 - MainThread: adding thread getInternalIP to database
+2015-10-14 10:04:03,654 - MainThread: waiting on thread type: report
+2015-10-14 10:04:03,654 - MainThread: Skipping processing main thread
+2015-10-14 10:04:03,658 - MainThread: Found Thread: midiMonitor
+2015-10-14 10:04:03,658 - MainThread: Returning Thread: midiMonitor
+2015-10-14 10:04:10,324 - MainThread: Found Thread: getInternalIP
+2015-10-14 10:04:10,324 - MainThread: Returning Thread: getInternalIP
+2015-10-14 10:04:10,324 - MainThread: All threads in threadType joined
+2015-10-14 10:04:10,324 - MainThread: Getting Thread list
+2015-10-14 10:05:13,886 - MainThread: adding thread midiMonitor to database
+2015-10-14 10:05:13,889 - MainThread: adding thread getInternalIP to database
+2015-10-14 10:05:13,891 - MainThread: waiting on thread type: report
+2015-10-14 10:05:13,892 - MainThread: Skipping processing main thread
+2015-10-14 10:05:13,901 - MainThread: Found Thread: midiMonitor
+2015-10-14 10:05:13,901 - MainThread: Returning Thread: midiMonitor
+2015-10-14 10:07:28,592 - MainThread: Found Thread: getInternalIP
+2015-10-14 10:07:28,592 - MainThread: Returning Thread: getInternalIP
+2015-10-14 10:07:28,592 - MainThread: All threads in threadType joined
+2015-10-14 10:07:28,592 - MainThread: Getting Thread list
+2015-10-14 10:07:44,083 - MainThread: adding thread midiMonitor to database
+2015-10-14 10:07:44,085 - MainThread: adding thread getInternalIP to database
+2015-10-14 10:07:44,086 - MainThread: waiting on thread type: report
+2015-10-14 10:07:44,086 - MainThread: Skipping processing main thread
+2015-10-14 10:07:44,090 - MainThread: Found Thread: midiMonitor
+2015-10-14 10:07:44,090 - MainThread: Returning Thread: midiMonitor
+2015-10-14 10:08:16,091 - MainThread: Found Thread: getInternalIP
+2015-10-14 10:08:16,091 - MainThread: Returning Thread: getInternalIP
+2015-10-14 10:08:16,092 - MainThread: All threads in threadType joined
+2015-10-14 10:08:16,092 - MainThread: Getting Thread list
+2015-10-14 10:13:21,344 - MainThread: adding thread midiMonitor to database
+2015-10-14 10:13:21,347 - MainThread: adding thread getInternalIP to database
+2015-10-14 10:13:21,348 - MainThread: waiting on thread type: report
+2015-10-14 10:13:21,348 - MainThread: Skipping processing main thread
+2015-10-14 10:13:21,355 - MainThread: Found Thread: midiMonitor
+2015-10-14 10:13:21,355 - MainThread: Returning Thread: midiMonitor
+2015-10-14 10:13:43,069 - MainThread: Found Thread: getInternalIP
+2015-10-14 10:13:43,070 - MainThread: Returning Thread: getInternalIP
+2015-10-14 10:13:43,070 - MainThread: All threads in threadType joined
+2015-10-14 10:13:43,070 - MainThread: Getting Thread list
+2015-10-14 10:30:39,397 - MainThread: adding thread midiMonitor to database
+2015-10-14 10:30:39,401 - MainThread: adding thread getInternalIP to database
+2015-10-14 10:30:39,402 - MainThread: waiting on thread type: report
+2015-10-14 10:30:39,402 - MainThread: Skipping processing main thread
+2015-10-14 10:30:39,411 - MainThread: Found Thread: midiMonitor
+2015-10-14 10:30:39,412 - MainThread: Returning Thread: midiMonitor
+2015-10-14 10:30:48,524 - MainThread: Found Thread: getInternalIP
+2015-10-14 10:30:48,525 - MainThread: Returning Thread: getInternalIP
+2015-10-14 10:30:48,525 - MainThread: All threads in threadType joined
+2015-10-14 10:30:48,525 - MainThread: Getting Thread list
+2015-10-14 10:30:58,484 - MainThread: adding thread midiMonitor to database
+2015-10-14 10:30:58,486 - MainThread: adding thread getInternalIP to database
+2015-10-14 10:30:58,487 - MainThread: waiting on thread type: report
+2015-10-14 10:30:58,488 - MainThread: Skipping processing main thread
+2015-10-14 10:30:58,494 - MainThread: Found Thread: midiMonitor
+2015-10-14 10:30:58,494 - MainThread: Returning Thread: midiMonitor
+2015-10-14 10:36:10,525 - MainThread: Found Thread: getInternalIP
+2015-10-14 10:36:10,526 - MainThread: Returning Thread: getInternalIP
+2015-10-14 10:36:10,526 - MainThread: All threads in threadType joined
+2015-10-14 10:36:10,526 - MainThread: Getting Thread list
+2015-10-16 11:18:38,586 - MainThread: adding thread midiMonitor to database
+2015-10-16 11:18:38,588 - MainThread: adding thread getInternalIP to database
+2015-10-16 11:18:38,590 - MainThread: waiting on thread type: report
+2015-10-16 11:18:38,590 - MainThread: Skipping processing main thread
+2015-10-16 11:18:38,597 - MainThread: Found Thread: midiMonitor
+2015-10-16 11:18:38,597 - MainThread: Returning Thread: midiMonitor
+2015-10-16 11:21:06,522 - MainThread: adding thread midiMonitor to database
+2015-10-16 11:21:06,524 - MainThread: adding thread getInternalIP to database
+2015-10-16 11:21:06,525 - MainThread: waiting on thread type: report
+2015-10-16 11:21:06,525 - MainThread: Skipping processing main thread
+2015-10-16 11:21:06,534 - MainThread: Found Thread: midiMonitor
+2015-10-16 11:21:06,534 - MainThread: Returning Thread: midiMonitor
+2015-10-16 11:22:50,730 - MainThread: adding thread midiMonitor to database
+2015-10-16 11:22:50,732 - MainThread: adding thread getInternalIP to database
+2015-10-16 11:22:50,733 - MainThread: waiting on thread type: report
+2015-10-16 11:22:50,733 - MainThread: Skipping processing main thread
+2015-10-16 11:22:50,737 - MainThread: Found Thread: midiMonitor
+2015-10-16 11:22:50,738 - MainThread: Returning Thread: midiMonitor
+2015-10-16 11:24:55,056 - MainThread: Found Thread: getInternalIP
+2015-10-16 11:24:55,056 - MainThread: Returning Thread: getInternalIP
+2015-10-16 11:24:55,057 - MainThread: All threads in threadType joined
+2015-10-16 11:24:55,057 - MainThread: Getting Thread list
+2015-10-16 11:24:59,578 - MainThread: adding thread midiMonitor to database
+2015-10-16 11:24:59,581 - MainThread: adding thread getInternalIP to database
+2015-10-16 11:24:59,582 - MainThread: waiting on thread type: report
+2015-10-16 11:24:59,583 - MainThread: Skipping processing main thread
+2015-10-16 11:24:59,591 - MainThread: Found Thread: midiMonitor
+2015-10-16 11:24:59,591 - MainThread: Returning Thread: midiMonitor
+2015-10-16 11:30:25,361 - MainThread: Found Thread: getInternalIP
+2015-10-16 11:30:25,361 - MainThread: Returning Thread: getInternalIP
+2015-10-16 11:30:25,361 - MainThread: All threads in threadType joined
+2015-10-16 11:30:25,361 - MainThread: Getting Thread list
+2015-10-16 11:37:26,803 - MainThread: adding thread midiMonitor to database
+2015-10-16 11:37:26,804 - MainThread: adding thread getInternalIP to database
+2015-10-16 11:37:26,805 - MainThread: waiting on thread type: report
+2015-10-16 11:37:26,806 - MainThread: Skipping processing main thread
+2015-10-16 11:37:26,811 - MainThread: Found Thread: midiMonitor
+2015-10-16 11:37:26,811 - MainThread: Returning Thread: midiMonitor
+2015-10-16 11:39:18,738 - MainThread: Found Thread: getInternalIP
+2015-10-16 11:39:18,739 - MainThread: Returning Thread: getInternalIP
+2015-10-16 11:39:18,739 - MainThread: All threads in threadType joined
+2015-10-16 11:39:18,739 - MainThread: Getting Thread list
+2015-10-16 11:42:11,345 - MainThread: adding thread midiMonitor to database
+2015-10-16 11:42:11,348 - MainThread: adding thread getInternalIP to database
+2015-10-16 11:42:11,350 - MainThread: waiting on thread type: report
+2015-10-16 11:42:11,350 - MainThread: Skipping processing main thread
+2015-10-16 11:42:11,359 - MainThread: Found Thread: midiMonitor
+2015-10-16 11:42:11,359 - MainThread: Returning Thread: midiMonitor
+2015-10-16 11:45:39,495 - MainThread: Found Thread: getInternalIP
+2015-10-16 11:45:39,495 - MainThread: Returning Thread: getInternalIP
+2015-10-16 11:45:39,495 - MainThread: All threads in threadType joined
+2015-10-16 11:45:39,495 - MainThread: Getting Thread list
+2015-10-16 13:33:41,872 - MainThread: adding thread midiMonitor to database
+2015-10-16 13:33:41,875 - MainThread: adding thread getInternalIP to database
+2015-10-16 13:33:41,875 - MainThread: waiting on thread type: report
+2015-10-16 13:33:41,876 - MainThread: Skipping processing main thread
+2015-10-16 13:33:41,881 - MainThread: Found Thread: midiMonitor
+2015-10-16 13:33:41,881 - MainThread: Returning Thread: midiMonitor
+2015-10-16 13:33:41,882 - MainThread: Found Thread: getInternalIP
+2015-10-16 13:33:41,882 - MainThread: Returning Thread: getInternalIP
+2015-10-16 13:33:42,020 - MainThread: All threads in threadType joined
+2015-10-16 13:33:42,020 - MainThread: Getting Thread list
+2015-10-16 13:33:56,004 - MainThread: adding thread midiMonitor to database
+2015-10-16 13:33:56,008 - MainThread: adding thread getInternalIP to database
+2015-10-16 13:33:56,010 - MainThread: waiting on thread type: report
+2015-10-16 13:33:56,010 - MainThread: Skipping processing main thread
+2015-10-16 13:33:56,018 - MainThread: Found Thread: midiMonitor
+2015-10-16 13:33:56,019 - MainThread: Returning Thread: midiMonitor
+2015-10-16 13:33:59,244 - MainThread: Found Thread: getInternalIP
+2015-10-16 13:33:59,244 - MainThread: Returning Thread: getInternalIP
+2015-10-16 13:33:59,244 - MainThread: All threads in threadType joined
+2015-10-16 13:33:59,244 - MainThread: Getting Thread list
+2015-10-16 13:35:56,354 - MainThread: adding thread midiMonitor to database
+2015-10-16 13:35:56,357 - MainThread: adding thread getInternalIP to database
+2015-10-16 13:35:56,359 - MainThread: waiting on thread type: report
+2015-10-16 13:35:56,359 - MainThread: Skipping processing main thread
+2015-10-16 13:35:56,367 - MainThread: Found Thread: midiMonitor
+2015-10-16 13:35:56,367 - MainThread: Returning Thread: midiMonitor
+2015-10-16 13:35:56,375 - MainThread: Found Thread: getInternalIP
+2015-10-16 13:35:56,375 - MainThread: Returning Thread: getInternalIP
+2015-10-16 13:35:56,520 - MainThread: All threads in threadType joined
+2015-10-16 13:35:56,520 - MainThread: Getting Thread list
+2015-10-16 13:36:02,191 - MainThread: adding thread midiMonitor to database
+2015-10-16 13:36:02,193 - MainThread: adding thread getInternalIP to database
+2015-10-16 13:36:02,195 - MainThread: waiting on thread type: report
+2015-10-16 13:36:02,195 - MainThread: Skipping processing main thread
+2015-10-16 13:36:02,204 - MainThread: Found Thread: midiMonitor
+2015-10-16 13:36:02,204 - MainThread: Returning Thread: midiMonitor
+2015-10-16 13:36:04,750 - MainThread: Found Thread: getInternalIP
+2015-10-16 13:36:04,750 - MainThread: Returning Thread: getInternalIP
+2015-10-16 13:36:04,750 - MainThread: All threads in threadType joined
+2015-10-16 13:36:04,750 - MainThread: Getting Thread list
+2015-10-16 13:36:45,164 - MainThread: adding thread midiMonitor to database
+2015-10-16 13:36:45,167 - MainThread: adding thread getInternalIP to database
+2015-10-16 13:36:45,169 - MainThread: waiting on thread type: report
+2015-10-16 13:36:45,169 - MainThread: Skipping processing main thread
+2015-10-16 13:36:45,178 - MainThread: Found Thread: midiMonitor
+2015-10-16 13:36:45,178 - MainThread: Returning Thread: midiMonitor
+2015-10-16 13:36:53,308 - MainThread: Found Thread: getInternalIP
+2015-10-16 13:36:53,308 - MainThread: Returning Thread: getInternalIP
+2015-10-16 13:36:53,308 - MainThread: All threads in threadType joined
+2015-10-16 13:36:53,309 - MainThread: Getting Thread list
+2015-10-16 13:37:27,004 - MainThread: adding thread midiMonitor to database
+2015-10-16 13:37:27,005 - MainThread: adding thread getInternalIP to database
+2015-10-16 13:37:27,006 - MainThread: waiting on thread type: report
+2015-10-16 13:37:27,006 - MainThread: Skipping processing main thread
+2015-10-16 13:37:27,009 - MainThread: Found Thread: midiMonitor
+2015-10-16 13:37:27,009 - MainThread: Returning Thread: midiMonitor
+2015-10-16 13:43:40,988 - MainThread: Found Thread: getInternalIP
+2015-10-16 13:43:40,988 - MainThread: Returning Thread: getInternalIP
+2015-10-16 13:43:40,989 - MainThread: All threads in threadType joined
+2015-10-16 13:43:40,989 - MainThread: Getting Thread list
+2015-10-16 13:52:42,739 - MainThread: adding thread midiMonitor to database
+2015-10-16 13:52:42,742 - MainThread: adding thread getInternalIP to database
+2015-10-16 13:52:42,742 - MainThread: waiting on thread type: report
+2015-10-16 13:52:42,742 - MainThread: Skipping processing main thread
+2015-10-16 13:52:42,748 - MainThread: Found Thread: midiMonitor
+2015-10-16 13:52:42,749 - MainThread: Returning Thread: midiMonitor
+2015-10-16 13:52:46,030 - MainThread: Found Thread: getInternalIP
+2015-10-16 13:52:46,031 - MainThread: Returning Thread: getInternalIP
+2015-10-16 13:52:46,031 - MainThread: All threads in threadType joined
+2015-10-16 13:52:46,031 - MainThread: Getting Thread list
+2015-10-16 13:54:10,724 - MainThread: adding thread midiMonitor to database
+2015-10-16 13:54:10,725 - MainThread: adding thread getInternalIP to database
+2015-10-16 13:54:10,727 - MainThread: waiting on thread type: report
+2015-10-16 13:54:10,727 - MainThread: Skipping processing main thread
+2015-10-16 13:54:10,733 - MainThread: Found Thread: midiMonitor
+2015-10-16 13:54:10,733 - MainThread: Returning Thread: midiMonitor
+2015-10-16 14:49:42,675 - MainThread: Found Thread: getInternalIP
+2015-10-16 14:49:42,675 - MainThread: Returning Thread: getInternalIP
+2015-10-16 14:49:42,675 - MainThread: All threads in threadType joined
+2015-10-16 14:49:42,675 - MainThread: Getting Thread list
+2015-10-17 22:22:16,981 - MainThread: adding thread midiMonitor to database
+2015-10-17 22:22:16,987 - MainThread: adding thread getInternalIP to database
+2015-10-17 22:22:17,004 - MainThread: waiting on thread type: report
+2015-10-17 22:22:17,004 - MainThread: Skipping processing main thread
+2015-10-17 22:22:17,014 - MainThread: Found Thread: midiMonitor
+2015-10-17 22:22:17,014 - MainThread: Returning Thread: midiMonitor
+2015-10-17 22:23:08,986 - MainThread: Found Thread: getInternalIP
+2015-10-17 22:23:08,986 - MainThread: Returning Thread: getInternalIP
+2015-10-17 22:23:08,986 - MainThread: All threads in threadType joined
+2015-10-17 22:23:08,986 - MainThread: Getting Thread list
+2015-10-17 22:24:26,375 - MainThread: adding thread midiMonitor to database
+2015-10-17 22:24:26,383 - MainThread: adding thread getInternalIP to database
+2015-10-17 22:24:26,384 - MainThread: waiting on thread type: report
+2015-10-17 22:24:26,384 - MainThread: Skipping processing main thread
+2015-10-17 22:24:26,394 - MainThread: Found Thread: midiMonitor
+2015-10-17 22:24:26,395 - MainThread: Returning Thread: midiMonitor
+2015-10-17 22:27:53,974 - MainThread: adding thread midiMonitor to database
+2015-10-17 22:27:53,978 - MainThread: adding thread getInternalIP to database
+2015-10-17 22:27:53,983 - MainThread: waiting on thread type: report
+2015-10-17 22:27:53,983 - MainThread: Skipping processing main thread
+2015-10-17 22:27:53,994 - MainThread: Found Thread: midiMonitor
+2015-10-17 22:27:53,995 - MainThread: Returning Thread: midiMonitor
+2015-10-17 22:28:53,873 - MainThread: adding thread midiMonitor to database
+2015-10-17 22:28:53,879 - MainThread: adding thread getInternalIP to database
+2015-10-17 22:28:53,883 - MainThread: waiting on thread type: report
+2015-10-17 22:28:53,884 - MainThread: Skipping processing main thread
+2015-10-17 22:28:53,894 - MainThread: Found Thread: midiMonitor
+2015-10-17 22:28:53,894 - MainThread: Returning Thread: midiMonitor
+2015-10-17 22:29:57,911 - MainThread: adding thread midiMonitor to database
+2015-10-17 22:29:57,916 - MainThread: adding thread getInternalIP to database
+2015-10-17 22:29:57,918 - MainThread: waiting on thread type: report
+2015-10-17 22:29:57,919 - MainThread: Skipping processing main thread
+2015-10-17 22:29:57,928 - MainThread: Found Thread: midiMonitor
+2015-10-17 22:29:57,928 - MainThread: Returning Thread: midiMonitor
+2015-10-17 22:36:51,622 - MainThread: Found Thread: getInternalIP
+2015-10-17 22:36:51,622 - MainThread: Returning Thread: getInternalIP
+2015-10-17 22:36:51,622 - MainThread: All threads in threadType joined
+2015-10-17 22:36:51,623 - MainThread: Getting Thread list
+2015-10-17 22:39:18,074 - MainThread: adding thread midiMonitor to database
+2015-10-17 22:39:18,079 - MainThread: adding thread getInternalIP to database
+2015-10-17 22:39:18,086 - MainThread: waiting on thread type: report
+2015-10-17 22:39:18,086 - MainThread: Skipping processing main thread
+2015-10-17 22:39:18,092 - MainThread: Found Thread: midiMonitor
+2015-10-17 22:39:18,092 - MainThread: Returning Thread: midiMonitor
+2015-10-17 22:42:25,744 - MainThread: Found Thread: getInternalIP
+2015-10-17 22:42:25,745 - MainThread: Returning Thread: getInternalIP
+2015-10-17 22:42:25,745 - MainThread: All threads in threadType joined
+2015-10-17 22:42:25,745 - MainThread: Getting Thread list
+2015-10-17 22:42:35,241 - MainThread: adding thread midiMonitor to database
+2015-10-17 22:42:35,248 - MainThread: adding thread getInternalIP to database
+2015-10-17 22:42:35,250 - MainThread: waiting on thread type: report
+2015-10-17 22:42:35,251 - MainThread: Skipping processing main thread
+2015-10-17 22:42:35,260 - MainThread: Found Thread: midiMonitor
+2015-10-17 22:42:35,261 - MainThread: Returning Thread: midiMonitor
+2015-10-17 22:42:47,431 - MainThread: Found Thread: getInternalIP
+2015-10-17 22:42:47,432 - MainThread: Returning Thread: getInternalIP
+2015-10-17 22:42:47,432 - MainThread: All threads in threadType joined
+2015-10-17 22:42:47,432 - MainThread: Getting Thread list
+2015-10-18 00:02:13,690 - MainThread: adding thread midiMonitor to database
+2015-10-18 00:02:13,696 - MainThread: adding thread getInternalIP to database
+2015-10-18 00:02:13,698 - MainThread: waiting on thread type: report
+2015-10-18 00:02:13,698 - MainThread: Skipping processing main thread
+2015-10-18 00:02:13,708 - MainThread: Found Thread: midiMonitor
+2015-10-18 00:02:13,708 - MainThread: Returning Thread: midiMonitor
+2015-10-18 00:02:13,713 - MainThread: Found Thread: getInternalIP
+2015-10-18 00:02:13,713 - MainThread: Returning Thread: getInternalIP
+2015-10-18 00:02:13,785 - MainThread: All threads in threadType joined
+2015-10-18 00:02:13,785 - MainThread: Getting Thread list
+2015-10-18 00:02:57,868 - MainThread: adding thread midiMonitor to database
+2015-10-18 00:02:57,872 - MainThread: adding thread getInternalIP to database
+2015-10-18 00:02:57,873 - MainThread: waiting on thread type: report
+2015-10-18 00:02:57,874 - MainThread: Skipping processing main thread
+2015-10-18 00:02:57,881 - MainThread: Found Thread: midiMonitor
+2015-10-18 00:02:57,882 - MainThread: Returning Thread: midiMonitor
+2015-10-18 00:02:57,888 - MainThread: Found Thread: getInternalIP
+2015-10-18 00:02:57,889 - MainThread: Returning Thread: getInternalIP
+2015-10-18 00:02:57,959 - MainThread: All threads in threadType joined
+2015-10-18 00:02:57,959 - MainThread: Getting Thread list
+2015-10-18 00:05:23,957 - MainThread: adding thread midiMonitor to database
+2015-10-18 00:05:23,961 - MainThread: adding thread getInternalIP to database
+2015-10-18 00:05:23,965 - MainThread: waiting on thread type: report
+2015-10-18 00:05:23,966 - MainThread: Skipping processing main thread
+2015-10-18 00:05:23,977 - MainThread: Found Thread: midiMonitor
+2015-10-18 00:05:23,978 - MainThread: Returning Thread: midiMonitor
+2015-10-18 00:23:44,971 - MainThread: Found Thread: getInternalIP
+2015-10-18 00:23:44,971 - MainThread: Returning Thread: getInternalIP
+2015-10-18 00:23:44,972 - MainThread: All threads in threadType joined
+2015-10-18 00:23:44,972 - MainThread: Getting Thread list
+2015-10-18 00:29:46,810 - MainThread: adding thread midiMonitor to database
+2015-10-18 00:29:46,814 - MainThread: adding thread getInternalIP to database
+2015-10-18 00:29:46,815 - MainThread: waiting on thread type: report
+2015-10-18 00:29:46,816 - MainThread: Skipping processing main thread
+2015-10-18 00:29:46,827 - MainThread: Found Thread: midiMonitor
+2015-10-18 00:29:46,827 - MainThread: Returning Thread: midiMonitor
+2015-10-18 00:29:46,832 - MainThread: Found Thread: getInternalIP
+2015-10-18 00:29:46,832 - MainThread: Returning Thread: getInternalIP
+2015-10-18 00:29:46,838 - MainThread: All threads in threadType joined
+2015-10-18 00:29:46,838 - MainThread: Getting Thread list
+2015-10-18 01:06:37,136 - MainThread: adding thread midiMonitor to database
+2015-10-18 01:06:37,140 - MainThread: adding thread getInternalIP to database
+2015-10-18 01:06:37,143 - MainThread: waiting on thread type: report
+2015-10-18 01:06:37,143 - MainThread: Skipping processing main thread
+2015-10-18 01:06:37,153 - MainThread: Found Thread: midiMonitor
+2015-10-18 01:06:37,154 - MainThread: Returning Thread: midiMonitor
+2015-10-18 01:06:37,280 - MainThread: Found Thread: getInternalIP
+2015-10-18 01:06:37,280 - MainThread: Returning Thread: getInternalIP
+2015-10-18 01:06:37,281 - MainThread: All threads in threadType joined
+2015-10-18 01:06:37,281 - MainThread: Getting Thread list
+2015-10-18 01:07:17,533 - MainThread: adding thread midiMonitor to database
+2015-10-18 01:07:17,537 - MainThread: adding thread getInternalIP to database
+2015-10-18 01:07:17,538 - MainThread: waiting on thread type: report
+2015-10-18 01:07:17,538 - MainThread: Skipping processing main thread
+2015-10-18 01:07:17,550 - MainThread: Found Thread: midiMonitor
+2015-10-18 01:07:17,550 - MainThread: Returning Thread: midiMonitor
+2015-10-18 01:07:17,554 - MainThread: Found Thread: getInternalIP
+2015-10-18 01:07:17,555 - MainThread: Returning Thread: getInternalIP
+2015-10-18 01:07:17,738 - MainThread: All threads in threadType joined
+2015-10-18 01:07:17,738 - MainThread: Getting Thread list
+2015-10-18 01:07:48,900 - MainThread: adding thread midiMonitor to database
+2015-10-18 01:07:48,904 - MainThread: adding thread getInternalIP to database
+2015-10-18 01:07:48,906 - MainThread: waiting on thread type: report
+2015-10-18 01:07:48,907 - MainThread: Skipping processing main thread
+2015-10-18 01:07:48,917 - MainThread: Found Thread: midiMonitor
+2015-10-18 01:07:48,917 - MainThread: Returning Thread: midiMonitor
+2015-10-18 01:08:07,169 - MainThread: Found Thread: getInternalIP
+2015-10-18 01:08:07,170 - MainThread: Returning Thread: getInternalIP
+2015-10-18 01:08:07,170 - MainThread: All threads in threadType joined
+2015-10-18 01:08:07,170 - MainThread: Getting Thread list
+2015-10-18 01:25:21,923 - MainThread: adding thread midiMonitor to database
+2015-10-18 01:25:21,926 - MainThread: adding thread getInternalIP to database
+2015-10-18 01:25:21,928 - MainThread: waiting on thread type: report
+2015-10-18 01:25:21,928 - MainThread: Skipping processing main thread
+2015-10-18 01:25:21,938 - MainThread: Found Thread: midiMonitor
+2015-10-18 01:25:21,938 - MainThread: Returning Thread: midiMonitor
+2015-10-18 01:29:07,821 - MainThread: adding thread midiMonitor to database
+2015-10-18 01:29:07,827 - MainThread: adding thread getInternalIP to database
+2015-10-18 01:29:07,829 - MainThread: waiting on thread type: report
+2015-10-18 01:29:07,829 - MainThread: Skipping processing main thread
+2015-10-18 01:29:07,836 - MainThread: Found Thread: midiMonitor
+2015-10-18 01:29:07,839 - MainThread: Returning Thread: midiMonitor
+2015-10-18 01:32:59,409 - MainThread: adding thread midiMonitor to database
+2015-10-18 01:32:59,413 - MainThread: adding thread getInternalIP to database
+2015-10-18 01:32:59,414 - MainThread: waiting on thread type: report
+2015-10-18 01:32:59,415 - MainThread: Skipping processing main thread
+2015-10-18 01:32:59,423 - MainThread: Found Thread: midiMonitor
+2015-10-18 01:32:59,423 - MainThread: Returning Thread: midiMonitor
+2015-10-18 01:37:38,861 - MainThread: adding thread midiMonitor to database
+2015-10-18 01:37:38,884 - MainThread: adding thread getInternalIP to database
+2015-10-18 01:37:38,893 - MainThread: waiting on thread type: report
+2015-10-18 01:37:38,894 - MainThread: Skipping processing main thread
+2015-10-18 01:37:38,926 - MainThread: Found Thread: pydevd.Writer
+2015-10-18 01:37:38,927 - MainThread: Returning Thread: pydevd.Writer
+2015-10-18 01:41:33,645 - MainThread: adding thread midiMonitor to database
+2015-10-18 01:41:33,649 - MainThread: adding thread getInternalIP to database
+2015-10-18 01:41:33,651 - MainThread: waiting on thread type: report
+2015-10-18 01:41:33,651 - MainThread: Skipping processing main thread
+2015-10-18 01:41:33,661 - MainThread: Found Thread: midiMonitor
+2015-10-18 01:41:33,661 - MainThread: Returning Thread: midiMonitor
+2015-10-18 01:41:33,969 - MainThread: Found Thread: getInternalIP
+2015-10-18 01:41:33,970 - MainThread: Returning Thread: getInternalIP
+2015-10-18 01:41:33,970 - MainThread: All threads in threadType joined
+2015-10-18 01:41:33,970 - MainThread: Found Thread: getInternalIP
+2015-10-18 01:41:33,970 - MainThread: Getting Thread list
+2015-10-18 01:41:33,970 - MainThread: Returning Thread: getInternalIP
+2015-10-18 01:41:33,971 - MainThread: All threads in threadType joined
+2015-10-18 01:41:33,971 - MainThread: Getting Thread list
+2015-10-18 01:41:53,245 - MainThread: adding thread midiMonitor to database
+2015-10-18 01:41:53,252 - MainThread: adding thread getInternalIP to database
+2015-10-18 01:41:53,253 - MainThread: waiting on thread type: report
+2015-10-18 01:41:53,255 - MainThread: Skipping processing main thread
+2015-10-18 01:41:53,264 - MainThread: Found Thread: midiMonitor
+2015-10-18 01:41:53,264 - MainThread: Returning Thread: midiMonitor
+2015-10-18 01:44:24,043 - MainThread: Found Thread: getInternalIP
+2015-10-18 01:44:24,044 - MainThread: Returning Thread: getInternalIP
+2015-10-18 01:44:24,044 - MainThread: All threads in threadType joined
+2015-10-18 01:44:24,044 - MainThread: Getting Thread list
+2015-10-18 01:44:36,528 - MainThread: adding thread midiMonitor to database
+2015-10-18 01:44:36,532 - MainThread: adding thread getInternalIP to database
+2015-10-18 01:44:36,534 - MainThread: waiting on thread type: report
+2015-10-18 01:44:36,538 - MainThread: Skipping processing main thread
+2015-10-18 01:44:36,546 - MainThread: Found Thread: midiMonitor
+2015-10-18 01:44:36,547 - MainThread: Returning Thread: midiMonitor
+2015-10-18 01:45:13,566 - MainThread: Found Thread: getInternalIP
+2015-10-18 01:45:13,567 - MainThread: Returning Thread: getInternalIP
+2015-10-18 01:45:13,567 - MainThread: All threads in threadType joined
+2015-10-18 01:45:13,567 - MainThread: Getting Thread list
+2015-10-18 01:46:16,723 - MainThread: adding thread midiMonitor to database
+2015-10-18 01:46:16,726 - MainThread: adding thread getInternalIP to database
+2015-10-18 01:46:16,727 - MainThread: waiting on thread type: report
+2015-10-18 01:46:16,728 - MainThread: Skipping processing main thread
+2015-10-18 01:46:16,736 - MainThread: Found Thread: midiMonitor
+2015-10-18 01:46:16,737 - MainThread: Returning Thread: midiMonitor
+2015-10-18 01:47:12,598 - MainThread: Found Thread: getInternalIP
+2015-10-18 01:47:12,598 - MainThread: Returning Thread: getInternalIP
+2015-10-18 01:47:12,599 - MainThread: All threads in threadType joined
+2015-10-18 01:47:12,599 - MainThread: Getting Thread list
+2015-10-18 01:47:47,863 - MainThread: adding thread midiMonitor to database
+2015-10-18 01:47:47,867 - MainThread: adding thread getInternalIP to database
+2015-10-18 01:47:47,868 - MainThread: waiting on thread type: report
+2015-10-18 01:47:47,869 - MainThread: Skipping processing main thread
+2015-10-18 01:47:47,882 - MainThread: Found Thread: midiMonitor
+2015-10-18 01:47:47,882 - MainThread: Returning Thread: midiMonitor
+2015-10-18 01:50:59,879 - MainThread: adding thread midiMonitor to database
+2015-10-18 01:50:59,883 - MainThread: adding thread getInternalIP to database
+2015-10-18 01:50:59,885 - MainThread: waiting on thread type: report
+2015-10-18 01:50:59,886 - MainThread: Skipping processing main thread
+2015-10-18 01:50:59,895 - MainThread: Found Thread: midiMonitor
+2015-10-18 01:50:59,895 - MainThread: Returning Thread: midiMonitor
+2015-10-18 01:51:01,628 - MainThread: Found Thread: getInternalIP
+2015-10-18 01:51:01,628 - MainThread: Returning Thread: getInternalIP
+2015-10-18 01:51:01,629 - MainThread: All threads in threadType joined
+2015-10-18 01:51:01,629 - MainThread: Getting Thread list
+2015-10-18 01:51:01,637 - MainThread: Found Thread: getInternalIP
+2015-10-18 01:51:01,637 - MainThread: Returning Thread: getInternalIP
+2015-10-18 01:51:01,637 - MainThread: All threads in threadType joined
+2015-10-18 01:51:01,638 - MainThread: Getting Thread list
+2015-10-18 01:51:20,399 - MainThread: adding thread midiMonitor to database
+2015-10-18 01:51:20,404 - MainThread: adding thread getInternalIP to database
+2015-10-18 01:51:20,406 - MainThread: waiting on thread type: report
+2015-10-18 01:51:20,407 - MainThread: Skipping processing main thread
+2015-10-18 01:51:20,417 - MainThread: Found Thread: midiMonitor
+2015-10-18 01:51:20,417 - MainThread: Returning Thread: midiMonitor
+2015-10-18 01:54:43,618 - MainThread: Found Thread: getInternalIP
+2015-10-18 01:54:43,618 - MainThread: Returning Thread: getInternalIP
+2015-10-18 01:54:43,619 - MainThread: All threads in threadType joined
+2015-10-18 01:54:43,619 - MainThread: Getting Thread list
+2015-10-18 01:54:53,362 - MainThread: adding thread midiMonitor to database
+2015-10-18 01:54:53,366 - MainThread: adding thread getInternalIP to database
+2015-10-18 01:54:53,376 - MainThread: waiting on thread type: report
+2015-10-18 01:54:53,377 - MainThread: Skipping processing main thread
+2015-10-18 01:54:53,385 - MainThread: Found Thread: midiMonitor
+2015-10-18 01:54:53,386 - MainThread: Returning Thread: midiMonitor
+2015-10-18 01:58:18,184 - MainThread: Found Thread: getInternalIP
+2015-10-18 01:58:18,185 - MainThread: Returning Thread: getInternalIP
+2015-10-18 01:58:18,185 - MainThread: All threads in threadType joined
+2015-10-18 01:58:18,185 - MainThread: Getting Thread list
+2015-10-18 01:59:44,236 - MainThread: adding thread midiMonitor to database
+2015-10-18 01:59:44,239 - MainThread: adding thread getInternalIP to database
+2015-10-18 01:59:44,242 - MainThread: waiting on thread type: report
+2015-10-18 01:59:44,242 - MainThread: Skipping processing main thread
+2015-10-18 01:59:44,251 - MainThread: Found Thread: midiMonitor
+2015-10-18 01:59:44,251 - MainThread: Returning Thread: midiMonitor
+2015-10-18 02:02:50,097 - MainThread: Found Thread: getInternalIP
+2015-10-18 02:02:50,098 - MainThread: Returning Thread: getInternalIP
+2015-10-18 02:02:50,098 - MainThread: All threads in threadType joined
+2015-10-18 02:02:50,098 - MainThread: Getting Thread list
+2015-10-18 02:03:00,587 - MainThread: adding thread midiMonitor to database
+2015-10-18 02:03:00,590 - MainThread: adding thread getInternalIP to database
+2015-10-18 02:03:00,592 - MainThread: waiting on thread type: report
+2015-10-18 02:03:00,592 - MainThread: Skipping processing main thread
+2015-10-18 02:03:00,601 - MainThread: Found Thread: midiMonitor
+2015-10-18 02:03:00,601 - MainThread: Returning Thread: midiMonitor
+2015-10-18 02:07:21,271 - MainThread: Found Thread: getInternalIP
+2015-10-18 02:07:21,271 - MainThread: Returning Thread: getInternalIP
+2015-10-18 02:07:21,271 - MainThread: All threads in threadType joined
+2015-10-18 02:07:21,271 - MainThread: Getting Thread list
+2015-10-18 02:07:30,754 - MainThread: adding thread midiMonitor to database
+2015-10-18 02:07:30,758 - MainThread: adding thread getInternalIP to database
+2015-10-18 02:07:30,760 - MainThread: waiting on thread type: report
+2015-10-18 02:07:30,761 - MainThread: Skipping processing main thread
+2015-10-18 02:07:30,770 - MainThread: Found Thread: midiMonitor
+2015-10-18 02:07:30,770 - MainThread: Returning Thread: midiMonitor
+2015-10-18 02:08:59,323 - MainThread: Found Thread: getInternalIP
+2015-10-18 02:08:59,323 - MainThread: Returning Thread: getInternalIP
+2015-10-18 02:08:59,324 - MainThread: All threads in threadType joined
+2015-10-18 02:08:59,324 - MainThread: Getting Thread list
+2015-10-18 02:09:13,227 - MainThread: adding thread midiMonitor to database
+2015-10-18 02:09:13,232 - MainThread: adding thread getInternalIP to database
+2015-10-18 02:09:13,233 - MainThread: waiting on thread type: report
+2015-10-18 02:09:13,234 - MainThread: Skipping processing main thread
+2015-10-18 02:09:13,245 - MainThread: Found Thread: midiMonitor
+2015-10-18 02:09:13,245 - MainThread: Returning Thread: midiMonitor
+2015-10-18 02:18:07,486 - MainThread: Found Thread: getInternalIP
+2015-10-18 02:18:07,486 - MainThread: Returning Thread: getInternalIP
+2015-10-18 02:18:07,486 - MainThread: All threads in threadType joined
+2015-10-18 02:18:07,486 - MainThread: Getting Thread list
+2015-10-18 02:18:19,919 - MainThread: adding thread midiMonitor to database
+2015-10-18 02:18:19,922 - MainThread: adding thread getInternalIP to database
+2015-10-18 02:18:19,923 - MainThread: waiting on thread type: report
+2015-10-18 02:18:19,924 - MainThread: Skipping processing main thread
+2015-10-18 02:18:19,935 - MainThread: Found Thread: midiMonitor
+2015-10-18 02:18:19,936 - MainThread: Returning Thread: midiMonitor
+2015-10-18 02:19:16,283 - MainThread: Found Thread: getInternalIP
+2015-10-18 02:19:16,284 - MainThread: Returning Thread: getInternalIP
+2015-10-18 02:19:16,284 - MainThread: All threads in threadType joined
+2015-10-18 02:19:16,284 - MainThread: Getting Thread list
+2015-10-18 02:22:13,339 - MainThread: adding thread midiMonitor to database
+2015-10-18 02:22:13,344 - MainThread: adding thread getInternalIP to database
+2015-10-18 02:22:13,345 - MainThread: waiting on thread type: report
+2015-10-18 02:22:13,346 - MainThread: Skipping processing main thread
+2015-10-18 02:22:13,354 - MainThread: Found Thread: midiMonitor
+2015-10-18 02:22:13,354 - MainThread: Returning Thread: midiMonitor
+2015-10-18 02:25:19,372 - MainThread: Found Thread: getInternalIP
+2015-10-18 02:25:19,373 - MainThread: Returning Thread: getInternalIP
+2015-10-18 02:25:19,373 - MainThread: All threads in threadType joined
+2015-10-18 02:25:19,373 - MainThread: Getting Thread list
+2015-10-18 02:25:38,027 - MainThread: adding thread midiMonitor to database
+2015-10-18 02:25:38,031 - MainThread: adding thread getInternalIP to database
+2015-10-18 02:25:38,032 - MainThread: waiting on thread type: report
+2015-10-18 02:25:38,033 - MainThread: Skipping processing main thread
+2015-10-18 02:25:38,041 - MainThread: Found Thread: midiMonitor
+2015-10-18 02:25:38,042 - MainThread: Returning Thread: midiMonitor
+2015-10-18 02:26:56,120 - MainThread: adding thread midiMonitor to database
+2015-10-18 02:26:56,125 - MainThread: adding thread getInternalIP to database
+2015-10-18 02:26:56,127 - MainThread: waiting on thread type: report
+2015-10-18 02:26:56,128 - MainThread: Skipping processing main thread
+2015-10-18 02:26:56,146 - MainThread: Found Thread: midiMonitor
+2015-10-18 02:26:56,146 - MainThread: Returning Thread: midiMonitor
+2015-10-18 02:29:34,274 - MainThread: Found Thread: getInternalIP
+2015-10-18 02:29:34,274 - MainThread: Returning Thread: getInternalIP
+2015-10-18 02:29:34,274 - MainThread: All threads in threadType joined
+2015-10-18 02:29:34,274 - MainThread: Getting Thread list
+2015-10-18 02:35:38,015 - MainThread: adding thread midiMonitor to database
+2015-10-18 02:35:38,020 - MainThread: adding thread getInternalIP to database
+2015-10-18 02:35:38,022 - MainThread: waiting on thread type: report
+2015-10-18 02:35:38,022 - MainThread: Skipping processing main thread
+2015-10-18 02:35:38,033 - MainThread: Found Thread: midiMonitor
+2015-10-18 02:35:38,033 - MainThread: Returning Thread: midiMonitor
+2015-10-18 02:36:11,901 - MainThread: adding thread midiMonitor to database
+2015-10-18 02:36:11,904 - MainThread: adding thread getInternalIP to database
+2015-10-18 02:36:11,906 - MainThread: waiting on thread type: report
+2015-10-18 02:36:11,906 - MainThread: Skipping processing main thread
+2015-10-18 02:36:11,916 - MainThread: Found Thread: midiMonitor
+2015-10-18 02:36:11,916 - MainThread: Returning Thread: midiMonitor
+2015-10-18 02:40:31,546 - MainThread: adding thread midiMonitor to database
+2015-10-18 02:40:31,550 - MainThread: adding thread getInternalIP to database
+2015-10-18 02:40:31,551 - MainThread: waiting on thread type: report
+2015-10-18 02:40:31,551 - MainThread: Skipping processing main thread
+2015-10-18 02:40:31,561 - MainThread: Found Thread: midiMonitor
+2015-10-18 02:40:31,561 - MainThread: Returning Thread: midiMonitor
+2015-10-18 02:41:48,799 - MainThread: Found Thread: getInternalIP
+2015-10-18 02:41:48,800 - MainThread: Returning Thread: getInternalIP
+2015-10-18 02:41:48,800 - MainThread: All threads in threadType joined
+2015-10-18 02:41:48,801 - MainThread: Getting Thread list
+2015-10-18 02:42:43,364 - MainThread: adding thread midiMonitor to database
+2015-10-18 02:42:43,368 - MainThread: adding thread getInternalIP to database
+2015-10-18 02:42:43,369 - MainThread: waiting on thread type: report
+2015-10-18 02:42:43,369 - MainThread: Skipping processing main thread
+2015-10-18 02:42:43,379 - MainThread: Found Thread: midiMonitor
+2015-10-18 02:42:43,379 - MainThread: Returning Thread: midiMonitor
+2015-10-18 02:42:43,381 - MainThread: Found Thread: getInternalIP
+2015-10-18 02:42:43,381 - MainThread: Returning Thread: getInternalIP
+2015-10-18 02:42:43,446 - MainThread: All threads in threadType joined
+2015-10-18 02:42:43,447 - MainThread: Getting Thread list
+2015-10-18 02:43:32,965 - MainThread: adding thread midiMonitor to database
+2015-10-18 02:43:32,969 - MainThread: adding thread getInternalIP to database
+2015-10-18 02:43:32,971 - MainThread: waiting on thread type: report
+2015-10-18 02:43:32,971 - MainThread: Skipping processing main thread
+2015-10-18 02:43:32,990 - MainThread: Found Thread: midiMonitor
+2015-10-18 02:43:32,991 - MainThread: Returning Thread: midiMonitor
+2015-10-18 02:49:48,439 - MainThread: Found Thread: getInternalIP
+2015-10-18 02:49:48,439 - MainThread: Returning Thread: getInternalIP
+2015-10-18 02:49:48,439 - MainThread: All threads in threadType joined
+2015-10-18 02:49:48,439 - MainThread: Getting Thread list
+2015-10-18 02:50:03,851 - MainThread: adding thread midiMonitor to database
+2015-10-18 02:50:03,854 - MainThread: adding thread getInternalIP to database
+2015-10-18 02:50:03,859 - MainThread: waiting on thread type: report
+2015-10-18 02:50:03,859 - MainThread: Skipping processing main thread
+2015-10-18 02:50:03,870 - MainThread: Found Thread: midiMonitor
+2015-10-18 02:50:03,871 - MainThread: Returning Thread: midiMonitor
+2015-10-18 02:53:52,267 - MainThread: adding thread midiMonitor to database
+2015-10-18 02:53:52,270 - MainThread: adding thread getInternalIP to database
+2015-10-18 02:53:52,272 - MainThread: waiting on thread type: report
+2015-10-18 02:53:52,272 - MainThread: Skipping processing main thread
+2015-10-18 02:53:52,282 - MainThread: Found Thread: midiMonitor
+2015-10-18 02:53:52,283 - MainThread: Returning Thread: midiMonitor
+2015-10-18 02:56:42,695 - MainThread: Found Thread: getInternalIP
+2015-10-18 02:56:42,695 - MainThread: Returning Thread: getInternalIP
+2015-10-18 02:56:42,696 - MainThread: All threads in threadType joined
+2015-10-18 02:56:42,696 - MainThread: Getting Thread list
+2015-10-18 02:57:04,890 - MainThread: adding thread midiMonitor to database
+2015-10-18 02:57:04,894 - MainThread: adding thread getInternalIP to database
+2015-10-18 02:57:04,896 - MainThread: waiting on thread type: report
+2015-10-18 02:57:04,897 - MainThread: Skipping processing main thread
+2015-10-18 02:57:04,905 - MainThread: Found Thread: midiMonitor
+2015-10-18 02:57:04,905 - MainThread: Returning Thread: midiMonitor
+2015-10-18 02:59:17,464 - MainThread: Found Thread: getInternalIP
+2015-10-18 02:59:17,464 - MainThread: Returning Thread: getInternalIP
+2015-10-18 02:59:17,464 - MainThread: All threads in threadType joined
+2015-10-18 02:59:17,464 - MainThread: Getting Thread list
+2015-10-18 02:59:30,654 - MainThread: adding thread midiMonitor to database
+2015-10-18 02:59:30,660 - MainThread: adding thread getInternalIP to database
+2015-10-18 02:59:30,662 - MainThread: waiting on thread type: report
+2015-10-18 02:59:30,663 - MainThread: Skipping processing main thread
+2015-10-18 02:59:30,672 - MainThread: Found Thread: midiMonitor
+2015-10-18 02:59:30,673 - MainThread: Returning Thread: midiMonitor
+2015-10-18 03:01:55,983 - MainThread: Found Thread: getInternalIP
+2015-10-18 03:01:55,984 - MainThread: Returning Thread: getInternalIP
+2015-10-18 03:01:55,984 - MainThread: All threads in threadType joined
+2015-10-18 03:01:55,984 - MainThread: Getting Thread list
+2015-10-18 03:02:09,895 - MainThread: adding thread midiMonitor to database
+2015-10-18 03:02:09,899 - MainThread: adding thread getInternalIP to database
+2015-10-18 03:02:09,900 - MainThread: waiting on thread type: report
+2015-10-18 03:02:09,900 - MainThread: Skipping processing main thread
+2015-10-18 03:02:09,911 - MainThread: Found Thread: midiMonitor
+2015-10-18 03:02:09,911 - MainThread: Returning Thread: midiMonitor
+2015-10-18 03:04:42,068 - MainThread: Found Thread: getInternalIP
+2015-10-18 03:04:42,068 - MainThread: Returning Thread: getInternalIP
+2015-10-18 03:04:42,070 - MainThread: All threads in threadType joined
+2015-10-18 03:04:42,070 - MainThread: Getting Thread list
+2015-10-18 03:06:05,069 - MainThread: adding thread midiMonitor to database
+2015-10-18 03:06:05,073 - MainThread: adding thread getInternalIP to database
+2015-10-18 03:06:05,074 - MainThread: waiting on thread type: report
+2015-10-18 03:06:05,074 - MainThread: Skipping processing main thread
+2015-10-18 03:06:05,083 - MainThread: Found Thread: midiMonitor
+2015-10-18 03:06:05,083 - MainThread: Returning Thread: midiMonitor
+2015-10-18 03:09:30,551 - MainThread: Found Thread: getInternalIP
+2015-10-18 03:09:30,552 - MainThread: Returning Thread: getInternalIP
+2015-10-18 03:09:30,552 - MainThread: All threads in threadType joined
+2015-10-18 03:09:30,552 - MainThread: Getting Thread list
+2015-10-18 03:12:57,034 - MainThread: adding thread midiMonitor to database
+2015-10-18 03:12:57,038 - MainThread: adding thread getInternalIP to database
+2015-10-18 03:12:57,039 - MainThread: waiting on thread type: report
+2015-10-18 03:12:57,040 - MainThread: Skipping processing main thread
+2015-10-18 03:12:57,049 - MainThread: Found Thread: midiMonitor
+2015-10-18 03:12:57,050 - MainThread: Returning Thread: midiMonitor
+2015-10-18 03:16:30,468 - MainThread: adding thread midiMonitor to database
+2015-10-18 03:16:30,472 - MainThread: adding thread getInternalIP to database
+2015-10-18 03:16:30,473 - MainThread: waiting on thread type: report
+2015-10-18 03:16:30,475 - MainThread: Skipping processing main thread
+2015-10-18 03:16:30,485 - MainThread: Found Thread: midiMonitor
+2015-10-18 03:16:30,486 - MainThread: Returning Thread: midiMonitor
+2015-10-18 03:18:25,599 - MainThread: Found Thread: getInternalIP
+2015-10-18 03:18:25,600 - MainThread: Returning Thread: getInternalIP
+2015-10-18 03:18:25,600 - MainThread: All threads in threadType joined
+2015-10-18 03:18:25,601 - MainThread: Getting Thread list
+2015-10-18 03:18:39,144 - MainThread: adding thread midiMonitor to database
+2015-10-18 03:18:39,149 - MainThread: adding thread getInternalIP to database
+2015-10-18 03:18:39,150 - MainThread: waiting on thread type: report
+2015-10-18 03:18:39,150 - MainThread: Skipping processing main thread
+2015-10-18 03:18:39,160 - MainThread: Found Thread: midiMonitor
+2015-10-18 03:18:39,160 - MainThread: Returning Thread: midiMonitor
+2015-10-18 03:22:23,341 - MainThread: Found Thread: getInternalIP
+2015-10-18 03:22:23,342 - MainThread: Returning Thread: getInternalIP
+2015-10-18 03:22:23,342 - MainThread: All threads in threadType joined
+2015-10-18 03:22:23,342 - MainThread: Getting Thread list
+2015-10-18 03:22:41,248 - MainThread: adding thread midiMonitor to database
+2015-10-18 03:22:41,251 - MainThread: adding thread getInternalIP to database
+2015-10-18 03:22:41,252 - MainThread: waiting on thread type: report
+2015-10-18 03:22:41,252 - MainThread: Skipping processing main thread
+2015-10-18 03:22:41,262 - MainThread: Found Thread: midiMonitor
+2015-10-18 03:22:41,263 - MainThread: Returning Thread: midiMonitor
+2015-10-18 03:26:09,501 - MainThread: Found Thread: getInternalIP
+2015-10-18 03:26:09,502 - MainThread: Returning Thread: getInternalIP
+2015-10-18 03:26:09,502 - MainThread: All threads in threadType joined
+2015-10-18 03:26:09,502 - MainThread: Getting Thread list
+2015-10-18 19:46:10,236 - MainThread: adding thread midiMonitor to database
+2015-10-18 19:46:10,241 - MainThread: adding thread getInternalIP to database
+2015-10-18 19:46:10,245 - MainThread: waiting on thread type: report
+2015-10-18 19:46:10,245 - MainThread: Skipping processing main thread
+2015-10-18 19:46:10,265 - MainThread: Found Thread: midiMonitor
+2015-10-18 19:46:10,266 - MainThread: Returning Thread: midiMonitor
+2015-10-18 19:48:26,364 - MainThread: Found Thread: getInternalIP
+2015-10-18 19:48:26,364 - MainThread: Returning Thread: getInternalIP
+2015-10-18 19:48:26,364 - MainThread: All threads in threadType joined
+2015-10-18 19:48:26,364 - MainThread: Getting Thread list
+2015-10-18 19:49:59,941 - MainThread: adding thread midiMonitor to database
+2015-10-18 19:49:59,944 - MainThread: adding thread getInternalIP to database
+2015-10-18 19:49:59,948 - MainThread: waiting on thread type: report
+2015-10-18 19:49:59,948 - MainThread: Skipping processing main thread
+2015-10-18 19:49:59,957 - MainThread: Found Thread: midiMonitor
+2015-10-18 19:49:59,957 - MainThread: Returning Thread: midiMonitor
+2015-10-18 19:52:59,667 - MainThread: Found Thread: getInternalIP
+2015-10-18 19:52:59,669 - MainThread: Returning Thread: getInternalIP
+2015-10-18 19:52:59,670 - MainThread: All threads in threadType joined
+2015-10-18 19:52:59,670 - MainThread: Getting Thread list
+2015-10-18 20:02:32,020 - MainThread: adding thread midiMonitor to database
+2015-10-18 20:02:32,024 - MainThread: adding thread getInternalIP to database
+2015-10-18 20:02:32,026 - MainThread: waiting on thread type: report
+2015-10-18 20:02:32,026 - MainThread: Skipping processing main thread
+2015-10-18 20:02:32,034 - MainThread: Found Thread: midiMonitor
+2015-10-18 20:02:32,034 - MainThread: Returning Thread: midiMonitor
+2015-10-18 20:02:43,560 - MainThread: Found Thread: getInternalIP
+2015-10-18 20:02:43,561 - MainThread: Returning Thread: getInternalIP
+2015-10-18 20:02:43,561 - MainThread: All threads in threadType joined
+2015-10-18 20:02:43,561 - MainThread: Getting Thread list
+2015-10-18 20:04:58,318 - MainThread: adding thread midiMonitor to database
+2015-10-18 20:04:58,322 - MainThread: adding thread getInternalIP to database
+2015-10-18 20:04:58,328 - MainThread: waiting on thread type: report
+2015-10-18 20:04:58,328 - MainThread: Skipping processing main thread
+2015-10-18 20:04:58,339 - MainThread: Found Thread: midiMonitor
+2015-10-18 20:04:58,339 - MainThread: Returning Thread: midiMonitor
+2015-10-18 20:04:58,343 - MainThread: Found Thread: getInternalIP
+2015-10-18 20:04:58,344 - MainThread: Returning Thread: getInternalIP
+2015-10-18 20:04:58,346 - MainThread: All threads in threadType joined
+2015-10-18 20:04:58,346 - MainThread: Getting Thread list
+2015-10-18 20:05:27,296 - MainThread: adding thread midiMonitor to database
+2015-10-18 20:05:27,300 - MainThread: adding thread getInternalIP to database
+2015-10-18 20:05:27,301 - MainThread: waiting on thread type: report
+2015-10-18 20:05:27,302 - MainThread: Skipping processing main thread
+2015-10-18 20:05:27,314 - MainThread: Found Thread: midiMonitor
+2015-10-18 20:05:27,314 - MainThread: Returning Thread: midiMonitor
+2015-10-18 20:05:47,107 - MainThread: Found Thread: getInternalIP
+2015-10-18 20:05:47,107 - MainThread: Returning Thread: getInternalIP
+2015-10-18 20:05:47,108 - MainThread: All threads in threadType joined
+2015-10-18 20:05:47,108 - MainThread: Getting Thread list
+2015-10-18 20:06:10,379 - MainThread: adding thread midiMonitor to database
+2015-10-18 20:06:10,383 - MainThread: adding thread getInternalIP to database
+2015-10-18 20:06:10,384 - MainThread: waiting on thread type: report
+2015-10-18 20:06:10,386 - MainThread: Skipping processing main thread
+2015-10-18 20:06:10,395 - MainThread: Found Thread: midiMonitor
+2015-10-18 20:06:10,396 - MainThread: Returning Thread: midiMonitor
+2015-10-18 20:06:10,401 - MainThread: Found Thread: getInternalIP
+2015-10-18 20:06:10,401 - MainThread: Returning Thread: getInternalIP
+2015-10-18 20:06:10,475 - MainThread: All threads in threadType joined
+2015-10-18 20:06:10,475 - MainThread: Getting Thread list
+2015-10-18 20:08:10,291 - MainThread: adding thread midiMonitor to database
+2015-10-18 20:08:10,293 - MainThread: adding thread getInternalIP to database
+2015-10-18 20:08:10,295 - MainThread: waiting on thread type: report
+2015-10-18 20:08:10,295 - MainThread: Skipping processing main thread
+2015-10-18 20:08:10,302 - MainThread: Found Thread: midiMonitor
+2015-10-18 20:08:10,302 - MainThread: Returning Thread: midiMonitor
+2015-10-18 20:09:34,613 - MainThread: Found Thread: getInternalIP
+2015-10-18 20:09:34,614 - MainThread: Returning Thread: getInternalIP
+2015-10-18 20:09:34,616 - MainThread: All threads in threadType joined
+2015-10-18 20:09:34,616 - MainThread: Getting Thread list
+2015-10-18 20:13:19,700 - MainThread: adding thread midiMonitor to database
+2015-10-18 20:13:19,703 - MainThread: adding thread getInternalIP to database
+2015-10-18 20:13:19,704 - MainThread: waiting on thread type: report
+2015-10-18 20:13:19,704 - MainThread: Skipping processing main thread
+2015-10-18 20:13:19,712 - MainThread: Found Thread: midiMonitor
+2015-10-18 20:13:19,712 - MainThread: Returning Thread: midiMonitor
+2015-10-18 20:13:25,959 - MainThread: Found Thread: getInternalIP
+2015-10-18 20:13:25,959 - MainThread: Returning Thread: getInternalIP
+2015-10-18 20:13:25,959 - MainThread: All threads in threadType joined
+2015-10-18 20:13:25,960 - MainThread: Getting Thread list
+2015-10-18 20:16:22,825 - MainThread: adding thread midiMonitor to database
+2015-10-18 20:16:22,828 - MainThread: adding thread getInternalIP to database
+2015-10-18 20:16:22,830 - MainThread: waiting on thread type: report
+2015-10-18 20:16:22,830 - MainThread: Skipping processing main thread
+2015-10-18 20:16:22,840 - MainThread: Found Thread: midiMonitor
+2015-10-18 20:16:22,841 - MainThread: Returning Thread: midiMonitor
+2015-10-18 20:22:15,291 - MainThread: adding thread midiMonitor to database
+2015-10-18 20:22:15,296 - MainThread: adding thread getInternalIP to database
+2015-10-18 20:22:15,299 - MainThread: waiting on thread type: report
+2015-10-18 20:22:15,299 - MainThread: Skipping processing main thread
+2015-10-18 20:22:15,307 - MainThread: Found Thread: midiMonitor
+2015-10-18 20:22:15,307 - MainThread: Returning Thread: midiMonitor
+2015-10-18 20:22:27,655 - MainThread: Found Thread: getInternalIP
+2015-10-18 20:22:27,655 - MainThread: Returning Thread: getInternalIP
+2015-10-18 20:22:27,656 - MainThread: All threads in threadType joined
+2015-10-18 20:22:27,656 - MainThread: Getting Thread list
+2015-10-18 20:23:43,378 - MainThread: adding thread midiMonitor to database
+2015-10-18 20:23:43,382 - MainThread: adding thread getInternalIP to database
+2015-10-18 20:23:43,383 - MainThread: waiting on thread type: report
+2015-10-18 20:23:43,383 - MainThread: Skipping processing main thread
+2015-10-18 20:23:43,392 - MainThread: Found Thread: midiMonitor
+2015-10-18 20:23:43,393 - MainThread: Returning Thread: midiMonitor
+2015-10-18 20:23:43,400 - MainThread: Found Thread: getInternalIP
+2015-10-18 20:23:43,400 - MainThread: Returning Thread: getInternalIP
+2015-10-18 20:23:43,400 - MainThread: All threads in threadType joined
+2015-10-18 20:23:43,400 - MainThread: Getting Thread list
+2015-10-18 20:40:39,416 - MainThread: adding thread midiMonitor to database
+2015-10-18 20:40:39,420 - MainThread: adding thread getInternalIP to database
+2015-10-18 20:40:39,423 - MainThread: waiting on thread type: report
+2015-10-18 20:40:39,423 - MainThread: Skipping processing main thread
+2015-10-18 20:40:39,433 - MainThread: Found Thread: midiMonitor
+2015-10-18 20:40:39,434 - MainThread: Returning Thread: midiMonitor
+2015-10-18 20:40:45,659 - MainThread: Found Thread: getInternalIP
+2015-10-18 20:40:45,660 - MainThread: Returning Thread: getInternalIP
+2015-10-18 20:40:45,660 - MainThread: All threads in threadType joined
+2015-10-18 20:40:45,661 - MainThread: Getting Thread list
+2015-10-18 20:41:05,645 - MainThread: adding thread midiMonitor to database
+2015-10-18 20:41:05,649 - MainThread: adding thread getInternalIP to database
+2015-10-18 20:41:05,650 - MainThread: waiting on thread type: report
+2015-10-18 20:41:05,650 - MainThread: Skipping processing main thread
+2015-10-18 20:41:05,660 - MainThread: Found Thread: midiMonitor
+2015-10-18 20:41:05,660 - MainThread: Returning Thread: midiMonitor
+2015-10-18 20:41:05,664 - MainThread: Found Thread: getInternalIP
+2015-10-18 20:41:05,664 - MainThread: Returning Thread: getInternalIP
+2015-10-18 20:41:06,591 - MainThread: All threads in threadType joined
+2015-10-18 20:41:06,592 - MainThread: Getting Thread list
+2015-10-18 21:00:19,847 - MainThread: adding thread midiMonitor to database
+2015-10-18 21:00:19,851 - MainThread: adding thread getInternalIP to database
+2015-10-18 21:00:19,852 - MainThread: waiting on thread type: report
+2015-10-18 21:00:19,853 - MainThread: Skipping processing main thread
+2015-10-18 21:00:19,863 - MainThread: Found Thread: midiMonitor
+2015-10-18 21:00:19,863 - MainThread: Returning Thread: midiMonitor
+2015-10-18 21:00:19,866 - MainThread: Found Thread: getInternalIP
+2015-10-18 21:00:19,867 - MainThread: Returning Thread: getInternalIP
+2015-10-18 21:00:19,868 - MainThread: All threads in threadType joined
+2015-10-18 21:00:19,868 - MainThread: Getting Thread list
+2015-10-18 21:00:47,436 - MainThread: adding thread midiMonitor to database
+2015-10-18 21:00:47,439 - MainThread: adding thread getInternalIP to database
+2015-10-18 21:00:47,441 - MainThread: waiting on thread type: report
+2015-10-18 21:00:47,441 - MainThread: Skipping processing main thread
+2015-10-18 21:00:47,451 - MainThread: Found Thread: midiMonitor
+2015-10-18 21:00:47,452 - MainThread: Returning Thread: midiMonitor
+2015-10-18 21:01:23,714 - MainThread: Found Thread: getInternalIP
+2015-10-18 21:01:23,715 - MainThread: Returning Thread: getInternalIP
+2015-10-18 21:01:23,715 - MainThread: All threads in threadType joined
+2015-10-18 21:01:23,715 - MainThread: Getting Thread list
+2015-10-18 21:02:01,547 - MainThread: adding thread midiMonitor to database
+2015-10-18 21:02:01,550 - MainThread: adding thread getInternalIP to database
+2015-10-18 21:02:01,554 - MainThread: waiting on thread type: report
+2015-10-18 21:02:01,554 - MainThread: Skipping processing main thread
+2015-10-18 21:02:01,562 - MainThread: Found Thread: midiMonitor
+2015-10-18 21:02:01,562 - MainThread: Returning Thread: midiMonitor
+2015-10-18 21:05:54,365 - MainThread: adding thread midiMonitor to database
+2015-10-18 21:05:54,370 - MainThread: adding thread getInternalIP to database
+2015-10-18 21:05:54,372 - MainThread: waiting on thread type: report
+2015-10-18 21:05:54,373 - MainThread: Skipping processing main thread
+2015-10-18 21:05:54,381 - MainThread: Found Thread: midiMonitor
+2015-10-18 21:05:54,382 - MainThread: Returning Thread: midiMonitor
+2015-10-18 21:06:36,861 - MainThread: Found Thread: getInternalIP
+2015-10-18 21:06:36,862 - MainThread: Returning Thread: getInternalIP
+2015-10-18 21:06:36,862 - MainThread: All threads in threadType joined
+2015-10-18 21:06:36,862 - MainThread: Getting Thread list
+2015-10-18 21:06:36,862 - MainThread: Found Thread: getInternalIP
+2015-10-18 21:06:36,862 - MainThread: Returning Thread: getInternalIP
+2015-10-18 21:06:36,863 - MainThread: All threads in threadType joined
+2015-10-18 21:06:36,863 - MainThread: Getting Thread list
+2015-10-18 21:06:56,160 - MainThread: adding thread midiMonitor to database
+2015-10-18 21:06:56,163 - MainThread: adding thread getInternalIP to database
+2015-10-18 21:06:56,164 - MainThread: waiting on thread type: report
+2015-10-18 21:06:56,165 - MainThread: Skipping processing main thread
+2015-10-18 21:06:56,174 - MainThread: Found Thread: midiMonitor
+2015-10-18 21:06:56,174 - MainThread: Returning Thread: midiMonitor
+2015-10-18 21:07:12,655 - MainThread: Found Thread: getInternalIP
+2015-10-18 21:07:12,655 - MainThread: Returning Thread: getInternalIP
+2015-10-18 21:07:12,656 - MainThread: All threads in threadType joined
+2015-10-18 21:07:12,656 - MainThread: Getting Thread list
+2015-10-18 21:08:32,403 - MainThread: adding thread midiMonitor to database
+2015-10-18 21:08:32,407 - MainThread: adding thread getInternalIP to database
+2015-10-18 21:08:32,409 - MainThread: waiting on thread type: report
+2015-10-18 21:08:32,410 - MainThread: Skipping processing main thread
+2015-10-18 21:08:32,419 - MainThread: Found Thread: midiMonitor
+2015-10-18 21:08:32,420 - MainThread: Returning Thread: midiMonitor
+2015-10-18 21:08:32,426 - MainThread: Found Thread: getInternalIP
+2015-10-18 21:08:32,426 - MainThread: Returning Thread: getInternalIP
+2015-10-18 21:08:32,605 - MainThread: All threads in threadType joined
+2015-10-18 21:08:32,605 - MainThread: Getting Thread list
+2015-10-18 21:09:10,110 - MainThread: adding thread midiMonitor to database
+2015-10-18 21:09:10,114 - MainThread: adding thread getInternalIP to database
+2015-10-18 21:09:10,115 - MainThread: waiting on thread type: report
+2015-10-18 21:09:10,116 - MainThread: Skipping processing main thread
+2015-10-18 21:09:10,126 - MainThread: Found Thread: midiMonitor
+2015-10-18 21:09:10,126 - MainThread: Returning Thread: midiMonitor
+2015-10-18 21:09:10,132 - MainThread: Found Thread: getInternalIP
+2015-10-18 21:09:10,132 - MainThread: Returning Thread: getInternalIP
+2015-10-18 21:09:10,194 - MainThread: All threads in threadType joined
+2015-10-18 21:09:10,194 - MainThread: Getting Thread list
+2015-10-18 21:09:44,876 - MainThread: adding thread midiMonitor to database
+2015-10-18 21:09:44,880 - MainThread: adding thread getInternalIP to database
+2015-10-18 21:09:44,881 - MainThread: waiting on thread type: report
+2015-10-18 21:09:44,881 - MainThread: Skipping processing main thread
+2015-10-18 21:09:44,889 - MainThread: Found Thread: midiMonitor
+2015-10-18 21:09:44,889 - MainThread: Returning Thread: midiMonitor
+2015-10-18 21:11:47,160 - MainThread: adding thread midiMonitor to database
+2015-10-18 21:11:47,164 - MainThread: adding thread getInternalIP to database
+2015-10-18 21:11:47,166 - MainThread: waiting on thread type: report
+2015-10-18 21:11:47,166 - MainThread: Skipping processing main thread
+2015-10-18 21:11:47,176 - MainThread: Found Thread: midiMonitor
+2015-10-18 21:11:47,176 - MainThread: Returning Thread: midiMonitor
+2015-10-18 21:12:22,589 - MainThread: Found Thread: getInternalIP
+2015-10-18 21:12:22,589 - MainThread: Returning Thread: getInternalIP
+2015-10-18 21:12:22,589 - MainThread: All threads in threadType joined
+2015-10-18 21:12:22,589 - MainThread: Getting Thread list
+2015-10-22 00:51:30,058 - MainThread: adding thread midiMonitor to database
+2015-10-22 00:51:30,063 - MainThread: adding thread getInternalIP to database
+2015-10-22 00:51:30,065 - MainThread: waiting on thread type: report
+2015-10-22 00:51:30,065 - MainThread: Skipping processing main thread
+2015-10-22 00:51:30,076 - MainThread: Found Thread: midiMonitor
+2015-10-22 00:51:30,077 - MainThread: Returning Thread: midiMonitor
+2015-10-22 00:52:42,923 - MainThread: Found Thread: getInternalIP
+2015-10-22 00:52:42,924 - MainThread: Returning Thread: getInternalIP
+2015-10-22 00:52:42,924 - MainThread: All threads in threadType joined
+2015-10-22 00:52:42,924 - MainThread: Getting Thread list
+2015-10-22 01:06:53,853 - MainThread: adding thread midiMonitor to database
+2015-10-22 01:06:53,857 - MainThread: adding thread getInternalIP to database
+2015-10-22 01:06:53,858 - MainThread: waiting on thread type: report
+2015-10-22 01:06:53,858 - MainThread: Skipping processing main thread
+2015-10-22 01:06:53,868 - MainThread: Found Thread: midiMonitor
+2015-10-22 01:06:53,868 - MainThread: Returning Thread: midiMonitor
+2015-10-22 01:08:01,548 - MainThread: Found Thread: getInternalIP
+2015-10-22 01:08:01,549 - MainThread: Returning Thread: getInternalIP
+2015-10-22 01:08:01,549 - MainThread: All threads in threadType joined
+2015-10-22 01:08:01,549 - MainThread: Getting Thread list
+2015-10-23 17:54:53,832 - MainThread: adding thread midiMonitor to database
+2015-10-23 17:54:53,837 - MainThread: adding thread getInternalIP to database
+2015-10-23 17:54:53,838 - MainThread: waiting on thread type: report
+2015-10-23 17:54:53,838 - MainThread: Skipping processing main thread
+2015-10-23 17:54:53,844 - MainThread: Found Thread: midiMonitor
+2015-10-23 17:54:53,844 - MainThread: Returning Thread: midiMonitor
+2015-10-23 18:00:29,759 - MainThread: Found Thread: getInternalIP
+2015-10-23 18:00:29,760 - MainThread: Returning Thread: getInternalIP
+2015-10-23 18:00:29,760 - MainThread: All threads in threadType joined
+2015-10-23 18:00:29,760 - MainThread: Getting Thread list
+2015-10-23 18:01:25,913 - MainThread: adding thread midiMonitor to database
+2015-10-23 18:01:25,918 - MainThread: adding thread getInternalIP to database
+2015-10-23 18:01:25,920 - MainThread: waiting on thread type: report
+2015-10-23 18:01:25,920 - MainThread: Skipping processing main thread
+2015-10-23 18:01:25,928 - MainThread: Found Thread: midiMonitor
+2015-10-23 18:01:25,928 - MainThread: Returning Thread: midiMonitor
+2015-10-23 18:05:58,756 - MainThread: Found Thread: getInternalIP
+2015-10-23 18:05:58,757 - MainThread: Returning Thread: getInternalIP
+2015-10-23 18:05:58,757 - MainThread: All threads in threadType joined
+2015-10-23 18:05:58,757 - MainThread: Getting Thread list
+2015-10-23 18:06:34,192 - MainThread: adding thread midiMonitor to database
+2015-10-23 18:06:34,195 - MainThread: adding thread getInternalIP to database
+2015-10-23 18:06:34,199 - MainThread: waiting on thread type: report
+2015-10-23 18:06:34,199 - MainThread: Skipping processing main thread
+2015-10-23 18:06:34,208 - MainThread: Found Thread: midiMonitor
+2015-10-23 18:06:34,208 - MainThread: Returning Thread: midiMonitor
+2015-10-23 18:10:45,853 - MainThread: Found Thread: getInternalIP
+2015-10-23 18:10:45,853 - MainThread: Returning Thread: getInternalIP
+2015-10-23 18:10:45,853 - MainThread: All threads in threadType joined
+2015-10-23 18:10:45,854 - MainThread: Getting Thread list
+2015-10-23 18:10:59,889 - MainThread: adding thread midiMonitor to database
+2015-10-23 18:10:59,893 - MainThread: adding thread getInternalIP to database
+2015-10-23 18:10:59,894 - MainThread: waiting on thread type: report
+2015-10-23 18:10:59,894 - MainThread: Skipping processing main thread
+2015-10-23 18:10:59,902 - MainThread: Found Thread: midiMonitor
+2015-10-23 18:10:59,903 - MainThread: Returning Thread: midiMonitor
+2015-10-23 18:13:14,482 - MainThread: Found Thread: getInternalIP
+2015-10-23 18:13:14,483 - MainThread: Returning Thread: getInternalIP
+2015-10-23 18:13:14,484 - MainThread: All threads in threadType joined
+2015-10-23 18:13:14,485 - MainThread: Getting Thread list
+2015-10-23 18:13:45,603 - MainThread: adding thread midiMonitor to database
+2015-10-23 18:13:45,607 - MainThread: adding thread getInternalIP to database
+2015-10-23 18:13:45,609 - MainThread: waiting on thread type: report
+2015-10-23 18:13:45,610 - MainThread: Skipping processing main thread
+2015-10-23 18:13:45,621 - MainThread: Found Thread: midiMonitor
+2015-10-23 18:13:45,621 - MainThread: Returning Thread: midiMonitor
+2015-10-23 18:16:09,631 - MainThread: Found Thread: getInternalIP
+2015-10-23 18:16:09,631 - MainThread: Returning Thread: getInternalIP
+2015-10-23 18:16:09,632 - MainThread: All threads in threadType joined
+2015-10-23 18:16:09,632 - MainThread: Getting Thread list
+2015-10-23 18:16:55,382 - MainThread: adding thread midiMonitor to database
+2015-10-23 18:16:55,388 - MainThread: adding thread getInternalIP to database
+2015-10-23 18:16:55,389 - MainThread: waiting on thread type: report
+2015-10-23 18:16:55,389 - MainThread: Skipping processing main thread
+2015-10-23 18:16:55,401 - MainThread: Found Thread: midiMonitor
+2015-10-23 18:16:55,401 - MainThread: Returning Thread: midiMonitor
+2015-10-23 21:57:27,813 - MainThread: Found Thread: getInternalIP
+2015-10-23 21:57:27,813 - MainThread: Returning Thread: getInternalIP
+2015-10-23 21:57:27,814 - MainThread: All threads in threadType joined
+2015-10-23 21:57:27,814 - MainThread: Getting Thread list
+2015-10-25 21:37:51,208 - MainThread: adding thread midiMonitor to database
+2015-10-25 21:37:51,211 - MainThread: adding thread getInternalIP to database
+2015-10-25 21:37:51,211 - MainThread: waiting on thread type: report
+2015-10-25 21:37:51,212 - MainThread: Skipping processing main thread
+2015-10-25 21:37:51,216 - MainThread: Found Thread: midiMonitor
+2015-10-25 21:37:51,216 - MainThread: Returning Thread: midiMonitor
+2015-10-25 21:40:28,754 - MainThread: Found Thread: getInternalIP
+2015-10-25 21:40:28,755 - MainThread: Returning Thread: getInternalIP
+2015-10-25 21:40:28,755 - MainThread: All threads in threadType joined
+2015-10-25 21:40:28,755 - MainThread: Getting Thread list
+2015-10-25 21:40:44,903 - MainThread: adding thread midiMonitor to database
+2015-10-25 21:40:44,905 - MainThread: adding thread getInternalIP to database
+2015-10-25 21:40:44,907 - MainThread: waiting on thread type: report
+2015-10-25 21:40:44,907 - MainThread: Skipping processing main thread
+2015-10-25 21:40:44,912 - MainThread: Found Thread: midiMonitor
+2015-10-25 21:40:44,912 - MainThread: Returning Thread: midiMonitor
+2015-10-25 21:42:10,834 - MainThread: adding thread midiMonitor to database
+2015-10-25 21:42:10,836 - MainThread: adding thread getInternalIP to database
+2015-10-25 21:42:10,837 - MainThread: waiting on thread type: report
+2015-10-25 21:42:10,837 - MainThread: Skipping processing main thread
+2015-10-25 21:42:10,845 - MainThread: Found Thread: midiMonitor
+2015-10-25 21:42:10,845 - MainThread: Returning Thread: midiMonitor
+2015-10-25 21:43:56,902 - MainThread: adding thread midiMonitor to database
+2015-10-25 21:43:56,905 - MainThread: adding thread getInternalIP to database
+2015-10-25 21:43:56,906 - MainThread: waiting on thread type: report
+2015-10-25 21:43:56,906 - MainThread: Skipping processing main thread
+2015-10-25 21:43:56,913 - MainThread: Found Thread: midiMonitor
+2015-10-25 21:43:56,913 - MainThread: Returning Thread: midiMonitor
+2015-10-25 21:46:24,602 - MainThread: Found Thread: getInternalIP
+2015-10-25 21:46:24,602 - MainThread: Returning Thread: getInternalIP
+2015-10-25 21:46:24,602 - MainThread: All threads in threadType joined
+2015-10-25 21:46:24,602 - MainThread: Getting Thread list
+2015-10-25 21:46:24,603 - MainThread: Found Thread: getInternalIP
+2015-10-25 21:46:24,603 - MainThread: Returning Thread: getInternalIP
+2015-10-25 21:46:24,603 - MainThread: All threads in threadType joined
+2015-10-25 21:46:24,603 - MainThread: Getting Thread list
+2015-10-25 21:46:45,032 - MainThread: adding thread midiMonitor to database
+2015-10-25 21:46:45,035 - MainThread: adding thread getInternalIP to database
+2015-10-25 21:46:45,036 - MainThread: waiting on thread type: report
+2015-10-25 21:46:45,036 - MainThread: Skipping processing main thread
+2015-10-25 21:46:45,039 - MainThread: Found Thread: midiMonitor
+2015-10-25 21:46:45,039 - MainThread: Returning Thread: midiMonitor
+2015-10-25 21:50:18,589 - MainThread: Found Thread: getInternalIP
+2015-10-25 21:50:18,589 - MainThread: Returning Thread: getInternalIP
+2015-10-25 21:50:18,589 - MainThread: All threads in threadType joined
+2015-10-25 21:50:18,589 - MainThread: Getting Thread list

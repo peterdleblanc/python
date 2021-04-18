@@ -1,0 +1,31 @@
+2015-05-15 23:35:34,934 - __main__ - INFO - Start json request
+2015-05-15 23:35:34,935 - __main__ - INFO - Finished Population
+2015-05-15 23:39:25,001 - __main__ - INFO - Start json request
+2015-05-15 23:39:25,002 - __main__ - INFO - Finished Population
+2015-05-15 23:49:06,185 - __main__ - INFO - Start json request
+2015-05-15 23:49:06,185 - __main__ - INFO - Finished Population
+2015-05-15 23:49:45,960 - __main__ - INFO - Start json request
+2015-05-15 23:49:45,960 - __main__ - INFO - Finished Population
+2015-05-15 23:51:04,377 - __main__ - INFO - Start json request
+2015-05-15 23:51:04,377 - __main__ - INFO - Finished Population
+2015-05-15 23:55:20,178 - __main__ - INFO - Start json request
+2015-05-15 23:55:20,178 - __main__ - INFO - Finished Population
+2015-05-15 23:56:37,777 - __main__ - INFO - Start json request
+2015-05-15 23:56:37,777 - __main__ - INFO - Finished Population
+2015-05-16 01:08:01,256 - __main__ - INFO - Start json request
+2015-05-16 01:08:01,256 - __main__ - INFO - Finished Population
+2015-05-16 01:19:36,026 - __main__ - INFO - Start json request
+2015-05-16 01:19:36,996 - __main__ - INFO - ###############Query Range: 2015-01-01 to  2015-02-01######################################
+2015-05-16 01:19:37,115 - __main__ - INFO - starting json request
+2015-05-16 01:19:37,117 - __main__ - INFO - ################Getting Event Count#######################
+2015-05-16 01:19:37,117 - __main__ - INFO - Total event count: 189
+2015-05-16 01:19:37,117 - __main__ - INFO - getting details
+2015-05-16 01:20:45,801 - __main__ - INFO - ###############Completed Range: 2015-01-01 to  2015-02-01######################################
+2015-05-16 01:20:45,801 - __main__ - INFO - json Population Complete
+2015-05-16 01:20:45,801 - __main__ - INFO - Finished Population
+2015-05-16 01:26:31,912 - __main__ - INFO - Start json request
+2015-05-16 01:26:31,912 - __main__ - INFO - Finished Population
+2015-05-16 01:27:11,519 - __main__ - INFO - Start json request
+2015-05-16 01:27:11,519 - __main__ - INFO - Finished Population
+2015-05-16 01:28:30,617 - __main__ - INFO - Start json request
+2015-05-16 01:28:30,617 - __main__ - INFO - Finished Population

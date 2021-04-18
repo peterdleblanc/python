@@ -1,0 +1,139 @@
+(MainThread) Input Location/opt2/processing/testData/
+(MainThread) Output Location/opt2/processing/testData/generated
+(MainThread) generating jobs table
+(MainThread) going thru the list of tifs
+(Thread-1  ) creating a hillshade worker
+(MainThread) <Thread(Thread-1, started 140512393811712)>
+(Thread-2  ) creating a color relief worker
+(MainThread) <Thread(Thread-2, started 140512384366336)>
+(Thread-3  ) creating a merge worker
+(MainThread) <Thread(Thread-3, started 140512375973632)>
+(Thread-2  ) color relief completed for: srtm_06_15.tif
+(Thread-1  ) hill shade completed for: srtm_06_15.tif
+(Thread-4  ) creating a hillshade worker
+(MainThread) <Thread(Thread-4, started 140512393811712)>
+(MainThread) <Thread(Thread-5, started 140512384366336)>
+(Thread-5  ) creating a color relief worker
+(MainThread) <Thread(Thread-6, started 140512367580928)>
+(Thread-6  ) creating a merge worker
+(Thread-6  ) merging of hillshade and color relief complete for: srtm_05_14.tif
+(Thread-5  ) color relief completed for: srtm_05_14.tif
+(Thread-4  ) hill shade completed for: srtm_05_14.tif
+(Thread-7  ) creating a hillshade worker
+(MainThread) <Thread(Thread-7, started 140512393811712)>
+(Thread-8  ) creating a color relief worker
+(MainThread) <Thread(Thread-8, started 140512384366336)>
+(MainThread) <Thread(Thread-9, started 140512367580928)>
+(Thread-9  ) creating a merge worker
+(Thread-8  ) color relief completed for: srtm_05_08.tif
+(Thread-7  ) hill shade completed for: srtm_05_08.tif
+(MainThread) <Thread(Thread-10, started 140512393811712)>
+(Thread-10 ) creating a hillshade worker
+(MainThread) <Thread(Thread-11, started 140512384366336)>
+(Thread-11 ) creating a color relief worker
+(MainThread) <Thread(Thread-12, started 140512359188224)>
+(Thread-12 ) creating a merge worker
+(Thread-11 ) color relief completed for: srtm_05_01.tif
+(Thread-10 ) hill shade completed for: srtm_05_01.tif
+(Thread-13 ) creating a hillshade worker
+(MainThread) <Thread(Thread-13, started 140512393811712)>
+(MainThread) <Thread(Thread-14, started 140512384366336)>
+(Thread-14 ) creating a color relief worker
+(Thread-15 ) creating a merge worker
+(MainThread) <Thread(Thread-15, started 140512350795520)>
+(Thread-14 ) color relief completed for: srtm_05_16.tif
+(Thread-13 ) hill shade completed for: srtm_05_16.tif
+(Thread-16 ) creating a hillshade worker
+(MainThread) <Thread(Thread-16, started 140512393811712)>
+(MainThread) <Thread(Thread-17, started 140512384366336)>
+(Thread-17 ) creating a color relief worker
+(Thread-18 ) creating a merge worker
+(MainThread) <Thread(Thread-18, started 140512002569984)>
+(Thread-17 ) color relief completed for: srtm_05_12.tif
+(Thread-16 ) hill shade completed for: srtm_05_12.tif
+(Thread-19 ) creating a hillshade worker
+(MainThread) <Thread(Thread-19, started 140512393811712)>
+(MainThread) <Thread(Thread-20, started 140512384366336)>
+(Thread-20 ) creating a color relief worker
+(Thread-21 ) creating a merge worker
+(MainThread) <Thread(Thread-21, started 140511994177280)>
+(Thread-20 ) color relief completed for: srtm_05_17.tif
+(Thread-19 ) hill shade completed for: srtm_05_17.tif
+(Thread-22 ) creating a hillshade worker
+(MainThread) <Thread(Thread-22, started 140512393811712)>
+(Thread-23 ) creating a color relief worker
+(MainThread) <Thread(Thread-23, started 140512384366336)>
+(Thread-24 ) creating a merge worker
+(MainThread) <Thread(Thread-24, started 140511985784576)>
+(Thread-23 ) color relief completed for: srtm_06_13.tif
+(Thread-22 ) hill shade completed for: srtm_06_13.tif
+(Thread-25 ) creating a hillshade worker
+(MainThread) <Thread(Thread-25, started 140512393811712)>
+(MainThread) <Thread(Thread-26, started 140512384366336)>
+(Thread-26 ) creating a color relief worker
+(MainThread) <Thread(Thread-27, started 140511977391872)>
+(Thread-27 ) creating a merge worker
+(Thread-26 ) color relief completed for: srtm_06_09.tif
+(Thread-25 ) hill shade completed for: srtm_06_09.tif
+(MainThread) <Thread(Thread-28, started 140512393811712)>
+(Thread-28 ) creating a hillshade worker
+(MainThread) <Thread(Thread-29, started 140512384366336)>
+(Thread-29 ) creating a color relief worker
+(Thread-30 ) creating a merge worker
+(MainThread) <Thread(Thread-30, started 140511968999168)>
+(Thread-29 ) color relief completed for: srtm_06_16.tif
+(Thread-28 ) hill shade completed for: srtm_06_16.tif
+(MainThread) <Thread(Thread-31, started 140512393811712)>
+(Thread-31 ) creating a hillshade worker
+(MainThread) <Thread(Thread-32, started 140512384366336)>
+(Thread-32 ) creating a color relief worker
+(MainThread) <Thread(Thread-33, started 140511960606464)>
+(Thread-33 ) creating a merge worker
+(Thread-32 ) color relief completed for: srtm_06_01.tif
+(Thread-31 ) hill shade completed for: srtm_06_01.tif
+(MainThread) <Thread(Thread-34, started 140512393811712)>
+(Thread-34 ) creating a hillshade worker
+(MainThread) <Thread(Thread-35, started 140512384366336)>
+(Thread-35 ) creating a color relief worker
+(MainThread) <Thread(Thread-36, started 140511952213760)>
+(Thread-36 ) creating a merge worker
+(Thread-34 ) hill shade completed for: srtm_06_14.tif
+(Thread-35 ) color relief completed for: srtm_06_14.tif
+(MainThread) <Thread(Thread-37, started 140512384366336)>
+(Thread-37 ) creating a hillshade worker
+(Thread-38 ) creating a color relief worker
+(MainThread) <Thread(Thread-38, started 140512393811712)>
+(MainThread) <Thread(Thread-39, started 140511398590208)>
+(Thread-39 ) creating a merge worker
+(Thread-39 ) merging of hillshade and color relief complete for: srtm_06_17.tif
+(Thread-37 ) hill shade completed for: srtm_06_17.tif
+(Thread-38 ) color relief completed for: srtm_06_17.tif
+(MainThread) <Thread(Thread-40, started 140512393811712)>
+(Thread-40 ) creating a hillshade worker
+(MainThread) <Thread(Thread-41, started 140512384366336)>
+(Thread-41 ) creating a color relief worker
+(MainThread) <Thread(Thread-42, started 140511398590208)>
+(Thread-42 ) creating a merge worker
+(Thread-41 ) color relief completed for: srtm_05_02.tif
+(Thread-40 ) hill shade completed for: srtm_05_02.tif
+(MainThread) <Thread(Thread-43, started 140512393811712)>
+(Thread-43 ) creating a hillshade worker
+(MainThread) <Thread(Thread-44, started 140512384366336)>
+(Thread-44 ) creating a color relief worker
+(Thread-45 ) creating a merge worker
+(MainThread) <Thread(Thread-45, started 140511390197504)>
+(Thread-44 ) color relief completed for: srtm_05_09.tif
+(Thread-43 ) hill shade completed for: srtm_05_09.tif
+(Thread-3  ) merging of hillshade and color relief complete for: srtm_06_15.tif
+(Thread-12 ) merging of hillshade and color relief complete for: srtm_05_01.tif
+(Thread-9  ) merging of hillshade and color relief complete for: srtm_05_08.tif
+(Thread-30 ) merging of hillshade and color relief complete for: srtm_06_16.tif
+(Thread-18 ) merging of hillshade and color relief complete for: srtm_05_12.tif
+(Thread-21 ) merging of hillshade and color relief complete for: srtm_05_17.tif
+(Thread-15 ) merging of hillshade and color relief complete for: srtm_05_16.tif
+(Thread-24 ) merging of hillshade and color relief complete for: srtm_06_13.tif
+(Thread-33 ) merging of hillshade and color relief complete for: srtm_06_01.tif
+(Thread-36 ) merging of hillshade and color relief complete for: srtm_06_14.tif
+(Thread-27 ) merging of hillshade and color relief complete for: srtm_06_09.tif
+(Thread-42 ) merging of hillshade and color relief complete for: srtm_05_02.tif
+(Thread-45 ) merging of hillshade and color relief complete for: srtm_05_09.tif

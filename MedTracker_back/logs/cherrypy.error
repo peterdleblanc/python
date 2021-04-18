@@ -1,0 +1,29 @@
+[13/Jul/2017:12:09:32] ENGINE Bus STARTING
+[13/Jul/2017:12:09:32] ENGINE Started monitor thread 'Autoreloader'.
+[13/Jul/2017:12:09:32] ENGINE Started monitor thread '_TimeoutMonitor'.
+[13/Jul/2017:12:09:32] ENGINE Serving on http://0.0.0.0:8080
+[13/Jul/2017:12:09:32] ENGINE Bus STARTED
+[13/Jul/2017:12:11:18] ENGINE Restarting because /opt2/pythonDevelopment/projects/MedTracker/conf/global.conf changed.
+[13/Jul/2017:12:11:18] ENGINE Stopped thread 'Autoreloader'.
+[13/Jul/2017:12:11:18] ENGINE Bus STOPPING
+[13/Jul/2017:12:11:18] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[13/Jul/2017:12:11:18] ENGINE Stopped thread '_TimeoutMonitor'.
+[13/Jul/2017:12:11:18] ENGINE Bus STOPPED
+[13/Jul/2017:12:11:18] ENGINE Bus EXITING
+[13/Jul/2017:12:11:18] ENGINE Bus EXITED
+[13/Jul/2017:12:11:18] ENGINE Waiting for child threads to terminate...
+[13/Jul/2017:12:11:18] ENGINE Re-spawning Home.py
+[13/Jul/2017:12:17:50] ENGINE Bus STARTING
+[13/Jul/2017:12:17:50] ENGINE Started monitor thread 'Autoreloader'.
+[13/Jul/2017:12:17:50] ENGINE Started monitor thread '_TimeoutMonitor'.
+[13/Jul/2017:12:17:50] ENGINE Serving on http://0.0.0.0:8080
+[13/Jul/2017:12:17:50] ENGINE Bus STARTED
+[13/Jul/2017:12:18:06] ENGINE Keyboard Interrupt: shutting down bus
+[13/Jul/2017:12:18:06] ENGINE Bus STOPPING
+[13/Jul/2017:12:18:06] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[13/Jul/2017:12:18:06] ENGINE Stopped thread 'Autoreloader'.
+[13/Jul/2017:12:18:06] ENGINE Stopped thread '_TimeoutMonitor'.
+[13/Jul/2017:12:18:06] ENGINE Bus STOPPED
+[13/Jul/2017:12:18:06] ENGINE Bus EXITING
+[13/Jul/2017:12:18:06] ENGINE Bus EXITED
+[13/Jul/2017:12:18:06] ENGINE Waiting for child threads to terminate...

@@ -1,0 +1,740 @@
+[24/Oct/2015:00:24:49] ENGINE Bus STARTING
+[24/Oct/2015:00:24:49] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:00:24:49] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:00:24:49] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:00:24:49] ENGINE Bus STARTED
+[24/Oct/2015:00:26:45] ENGINE Restarting because config.conf changed.
+[24/Oct/2015:00:26:45] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:00:26:45] ENGINE Bus STOPPING
+[24/Oct/2015:00:26:45] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:00:26:45] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:00:26:45] ENGINE Bus STOPPED
+[24/Oct/2015:00:26:45] ENGINE Bus EXITING
+[24/Oct/2015:00:26:45] ENGINE Bus EXITED
+[24/Oct/2015:00:26:45] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:00:26:45] ENGINE Re-spawning /programming/python/projects/piManager/uno_test.py
+[24/Oct/2015:00:27:21] ENGINE Bus STARTING
+[24/Oct/2015:00:27:21] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:00:27:21] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:00:27:21] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:00:27:21] ENGINE Bus STARTED
+[24/Oct/2015:00:28:50] ENGINE Restarting because /programming/python/projects/piManager/uno_test.py changed.
+[24/Oct/2015:00:28:50] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:00:28:50] ENGINE Bus STOPPING
+[24/Oct/2015:00:28:50] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:00:28:50] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:00:28:50] ENGINE Bus STOPPED
+[24/Oct/2015:00:28:50] ENGINE Bus EXITING
+[24/Oct/2015:00:28:50] ENGINE Bus EXITED
+[24/Oct/2015:00:28:50] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:00:28:50] ENGINE Re-spawning /programming/python/projects/piManager/uno_test.py
+[24/Oct/2015:00:29:12] ENGINE Bus STARTING
+[24/Oct/2015:00:29:12] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:00:29:12] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:00:29:12] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:00:29:12] ENGINE Bus STARTED
+[24/Oct/2015:00:29:27] HTTP 
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+TypeError: generate_control_page() missing 1 required positional argument: 'self'
+[24/Oct/2015:00:29:27] HTTP 
+Request Headers:
+  ACCEPT-ENCODING: gzip, deflate
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+  Remote-Addr: 127.0.0.1
+  CONNECTION: keep-alive
+  USER-AGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+  ACCEPT-LANGUAGE: en-US,en;q=0.5
+  HOST: localhost:8080
+[24/Oct/2015:00:30:44] ENGINE Restarting because /programming/python/projects/piManager/uno_test.py changed.
+[24/Oct/2015:00:30:44] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:00:30:44] ENGINE Bus STOPPING
+[24/Oct/2015:00:30:44] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:00:30:44] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:00:30:44] ENGINE Bus STOPPED
+[24/Oct/2015:00:30:44] ENGINE Bus EXITING
+[24/Oct/2015:00:30:44] ENGINE Bus EXITED
+[24/Oct/2015:00:30:44] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:00:30:44] ENGINE Re-spawning /programming/python/projects/piManager/uno_test.py
+[24/Oct/2015:00:30:50] ENGINE Bus STARTING
+[24/Oct/2015:00:30:50] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:00:30:50] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:00:30:50] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:00:30:50] ENGINE Bus STARTED
+[24/Oct/2015:00:30:51] ENGINE Bus STARTING
+[24/Oct/2015:00:30:51] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:00:30:51] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:00:30:56] ENGINE Error in 'start' listener <bound method Server.start of <cherrypy._cpserver.Server object at 0x7f10a5d1f160>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/process/wspbus.py", line 205, in publish
+    output.append(listener(*args, **kwargs))
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/_cpserver.py", line 168, in start
+    ServerAdapter.start(self)
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/process/servers.py", line 170, in start
+    wait_for_free_port(*self.bind_addr)
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/process/servers.py", line 439, in wait_for_free_port
+    raise IOError("Port %r not free on %r" % (port, host))
+OSError: Port 8080 not free on '0.0.0.0'
+
+[24/Oct/2015:00:30:56] ENGINE Shutting down due to error in start listener:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/process/wspbus.py", line 243, in start
+    self.publish('start')
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/process/wspbus.py", line 223, in publish
+    raise exc
+cherrypy.process.wspbus.ChannelFailures: OSError("Port 8080 not free on '0.0.0.0'",)
+
+[24/Oct/2015:00:30:56] ENGINE Bus STOPPING
+[24/Oct/2015:00:30:56] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) already shut down
+[24/Oct/2015:00:30:56] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:00:30:56] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:00:30:56] ENGINE Bus STOPPED
+[24/Oct/2015:00:30:56] ENGINE Bus EXITING
+[24/Oct/2015:00:30:56] ENGINE Bus EXITED
+[24/Oct/2015:00:30:59] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: localhost:8080
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+  CONNECTION: keep-alive
+  ACCEPT-LANGUAGE: en-US,en;q=0.5
+  ACCEPT-ENCODING: gzip, deflate
+  CACHE-CONTROL: max-age=0
+  USER-AGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+[24/Oct/2015:00:30:59] HTTP 
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+TypeError: generate_control_page() missing 1 required positional argument: 'self'
+[24/Oct/2015:00:31:17] ENGINE Keyboard Interrupt: shutting down bus
+[24/Oct/2015:00:31:17] ENGINE Bus STOPPING
+[24/Oct/2015:00:31:17] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:00:31:17] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:00:31:17] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:00:31:17] ENGINE Bus STOPPED
+[24/Oct/2015:00:31:17] ENGINE Bus EXITING
+[24/Oct/2015:00:31:17] ENGINE Bus EXITED
+[24/Oct/2015:00:31:17] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:00:31:31] ENGINE Bus STARTING
+[24/Oct/2015:00:31:31] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:00:31:31] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:00:31:31] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:00:31:31] ENGINE Bus STARTED
+[24/Oct/2015:00:31:35] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+  ACCEPT-ENCODING: gzip, deflate
+  CACHE-CONTROL: max-age=0
+  USER-AGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+  CONNECTION: keep-alive
+  HOST: localhost:8080
+  ACCEPT-LANGUAGE: en-US,en;q=0.5
+[24/Oct/2015:00:31:35] HTTP 
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+TypeError: generate_control_page() missing 1 required positional argument: 'self'
+[24/Oct/2015:00:32:33] ENGINE Restarting because /programming/python/projects/piManager/uno_test.py changed.
+[24/Oct/2015:00:32:33] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:00:32:33] ENGINE Bus STOPPING
+[24/Oct/2015:00:32:33] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:00:32:33] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:00:32:33] ENGINE Bus STOPPED
+[24/Oct/2015:00:32:33] ENGINE Bus EXITING
+[24/Oct/2015:00:32:33] ENGINE Bus EXITED
+[24/Oct/2015:00:32:33] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:00:32:33] ENGINE Re-spawning /programming/python/projects/piManager/uno_test.py
+[24/Oct/2015:00:41:52] ENGINE Bus STARTING
+[24/Oct/2015:00:41:52] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:00:41:52] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:00:41:53] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:00:41:53] ENGINE Bus STARTED
+[24/Oct/2015:00:44:02] ENGINE Restarting because /programming/python/projects/piManager/uno_test.py changed.
+[24/Oct/2015:00:44:02] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:00:44:02] ENGINE Bus STOPPING
+[24/Oct/2015:00:44:02] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:00:44:02] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:00:44:02] ENGINE Bus STOPPED
+[24/Oct/2015:00:44:02] ENGINE Bus EXITING
+[24/Oct/2015:00:44:02] ENGINE Bus EXITED
+[24/Oct/2015:00:44:02] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:00:44:02] ENGINE Re-spawning /programming/python/projects/piManager/uno_test.py
+[24/Oct/2015:00:44:07] ENGINE Bus STARTING
+[24/Oct/2015:00:44:07] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:00:44:07] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:00:44:07] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:00:44:07] ENGINE Bus STARTED
+[24/Oct/2015:00:44:50] ENGINE Restarting because /programming/python/projects/piManager/uno_test.py changed.
+[24/Oct/2015:00:44:50] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:00:44:50] ENGINE Bus STOPPING
+[24/Oct/2015:00:44:50] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:00:44:50] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:00:44:50] ENGINE Bus STOPPED
+[24/Oct/2015:00:44:50] ENGINE Bus EXITING
+[24/Oct/2015:00:44:50] ENGINE Bus EXITED
+[24/Oct/2015:00:44:50] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:00:44:50] ENGINE Re-spawning /programming/python/projects/piManager/uno_test.py
+[24/Oct/2015:00:44:55] ENGINE Bus STARTING
+[24/Oct/2015:00:44:55] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:00:44:55] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:00:44:55] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:00:44:55] ENGINE Bus STARTED
+[24/Oct/2015:00:45:16] ENGINE Keyboard Interrupt: shutting down bus
+[24/Oct/2015:00:45:16] ENGINE Bus STOPPING
+[24/Oct/2015:00:45:16] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:00:45:16] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:00:45:16] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:00:45:16] ENGINE Bus STOPPED
+[24/Oct/2015:00:45:16] ENGINE Bus EXITING
+[24/Oct/2015:00:45:16] ENGINE Bus EXITED
+[24/Oct/2015:00:45:16] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:00:55:18] ENGINE Bus STARTING
+[24/Oct/2015:00:55:18] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:00:55:18] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:00:55:18] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:00:55:18] ENGINE Bus STARTED
+[24/Oct/2015:00:56:26] ENGINE Keyboard Interrupt: shutting down bus
+[24/Oct/2015:00:56:26] ENGINE Bus STOPPING
+[24/Oct/2015:00:56:26] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:00:56:26] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:00:56:26] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:00:56:26] ENGINE Bus STOPPED
+[24/Oct/2015:00:56:26] ENGINE Bus EXITING
+[24/Oct/2015:00:56:26] ENGINE Bus EXITED
+[24/Oct/2015:00:56:26] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:01:06:29] ENGINE Bus STARTING
+[24/Oct/2015:01:06:29] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:01:06:29] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:01:06:29] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:01:06:29] ENGINE Bus STARTED
+[24/Oct/2015:01:08:24] ENGINE Restarting because /programming/python/projects/piManager/uno_test.py changed.
+[24/Oct/2015:01:08:24] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:01:08:24] ENGINE Bus STOPPING
+[24/Oct/2015:01:08:24] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:01:08:24] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:01:08:24] ENGINE Bus STOPPED
+[24/Oct/2015:01:08:24] ENGINE Bus EXITING
+[24/Oct/2015:01:08:24] ENGINE Bus EXITED
+[24/Oct/2015:01:08:24] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:01:08:24] ENGINE Re-spawning /programming/python/projects/piManager/uno_test.py
+[24/Oct/2015:01:10:18] ENGINE Bus STARTING
+[24/Oct/2015:01:10:18] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:01:10:18] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:01:10:18] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:01:10:18] ENGINE Bus STARTED
+[24/Oct/2015:01:11:25] ENGINE Restarting because /programming/python/projects/piManager/uno_test.py changed.
+[24/Oct/2015:01:11:25] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:01:11:25] ENGINE Bus STOPPING
+[24/Oct/2015:01:11:25] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:01:11:25] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:01:11:25] ENGINE Bus STOPPED
+[24/Oct/2015:01:11:25] ENGINE Bus EXITING
+[24/Oct/2015:01:11:25] ENGINE Bus EXITED
+[24/Oct/2015:01:11:25] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:01:11:25] ENGINE Re-spawning /programming/python/projects/piManager/uno_test.py
+[24/Oct/2015:01:11:30] ENGINE Bus STARTING
+[24/Oct/2015:01:11:30] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:01:11:30] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:01:11:30] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:01:11:30] ENGINE Bus STARTED
+[24/Oct/2015:01:13:14] ENGINE Keyboard Interrupt: shutting down bus
+[24/Oct/2015:01:13:14] ENGINE Bus STOPPING
+[24/Oct/2015:01:13:14] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:01:13:14] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:01:13:14] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:01:13:14] ENGINE Bus STOPPED
+[24/Oct/2015:01:13:14] ENGINE Bus EXITING
+[24/Oct/2015:01:13:14] ENGINE Bus EXITED
+[24/Oct/2015:01:13:14] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:01:13:24] ENGINE Bus STARTING
+[24/Oct/2015:01:13:24] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:01:13:24] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:01:13:24] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:01:13:24] ENGINE Bus STARTED
+[24/Oct/2015:01:14:49] ENGINE Restarting because /programming/python/projects/piManager/uno_test.py changed.
+[24/Oct/2015:01:14:49] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:01:14:49] ENGINE Bus STOPPING
+[24/Oct/2015:01:14:49] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:01:14:49] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:01:14:49] ENGINE Bus STOPPED
+[24/Oct/2015:01:14:49] ENGINE Bus EXITING
+[24/Oct/2015:01:14:49] ENGINE Bus EXITED
+[24/Oct/2015:01:14:49] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:01:14:49] ENGINE Re-spawning /programming/python/projects/piManager/uno_test.py
+[24/Oct/2015:01:14:54] ENGINE Bus STARTING
+[24/Oct/2015:01:14:54] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:01:14:54] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:01:14:54] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:01:14:54] ENGINE Bus STARTED
+[24/Oct/2015:01:15:04] ENGINE Restarting because /programming/python/projects/piManager/uno_test.py changed.
+[24/Oct/2015:01:15:04] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:01:15:04] ENGINE Bus STOPPING
+[24/Oct/2015:01:15:04] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:01:15:04] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:01:15:04] ENGINE Bus STOPPED
+[24/Oct/2015:01:15:04] ENGINE Bus EXITING
+[24/Oct/2015:01:15:04] ENGINE Bus EXITED
+[24/Oct/2015:01:15:04] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:01:15:04] ENGINE Re-spawning /programming/python/projects/piManager/uno_test.py
+[24/Oct/2015:01:15:18] ENGINE Bus STARTING
+[24/Oct/2015:01:15:18] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:01:15:18] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:01:15:18] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:01:15:18] ENGINE Bus STARTED
+[24/Oct/2015:01:16:21] ENGINE Restarting because /programming/python/projects/piManager/uno_test.py changed.
+[24/Oct/2015:01:16:21] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:01:16:21] ENGINE Bus STOPPING
+[24/Oct/2015:01:16:21] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:01:16:21] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:01:16:21] ENGINE Bus STOPPED
+[24/Oct/2015:01:16:21] ENGINE Bus EXITING
+[24/Oct/2015:01:16:21] ENGINE Bus EXITED
+[24/Oct/2015:01:16:21] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:01:16:21] ENGINE Re-spawning /programming/python/projects/piManager/uno_test.py
+[24/Oct/2015:01:16:26] ENGINE Bus STARTING
+[24/Oct/2015:01:16:26] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:01:16:26] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:01:16:26] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:01:16:26] ENGINE Bus STARTED
+[24/Oct/2015:01:16:27] ENGINE Bus STARTING
+[24/Oct/2015:01:16:27] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:01:16:27] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:01:16:32] ENGINE Bus STOPPING
+[24/Oct/2015:01:16:32] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) already shut down
+[24/Oct/2015:01:16:32] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:01:16:32] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:01:16:32] ENGINE Bus STOPPED
+[24/Oct/2015:01:16:32] ENGINE Bus EXITING
+[24/Oct/2015:01:16:32] ENGINE Bus EXITED
+[24/Oct/2015:01:16:34] ENGINE Keyboard Interrupt: shutting down bus
+[24/Oct/2015:01:16:34] ENGINE Bus STOPPING
+[24/Oct/2015:01:16:34] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:01:16:34] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:01:16:34] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:01:16:34] ENGINE Bus STOPPED
+[24/Oct/2015:01:16:34] ENGINE Bus EXITING
+[24/Oct/2015:01:16:34] ENGINE Bus EXITED
+[24/Oct/2015:01:16:34] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:01:16:42] ENGINE Bus STARTING
+[24/Oct/2015:01:16:42] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:01:16:42] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:01:16:42] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:01:16:42] ENGINE Bus STARTED
+[24/Oct/2015:01:16:48] HTTP 
+Request Headers:
+  CONNECTION: keep-alive
+  HOST: localhost:8080
+  ACCEPT-LANGUAGE: en-US,en;q=0.5
+  ACCEPT-ENCODING: gzip, deflate
+  Remote-Addr: 127.0.0.1
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+  USER-AGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+[24/Oct/2015:01:16:48] HTTP 
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+TypeError: generate_control_page() missing 1 required positional argument: 'self'
+[24/Oct/2015:01:17:42] ENGINE Restarting because /programming/python/projects/piManager/uno_test.py changed.
+[24/Oct/2015:01:17:42] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:01:17:42] ENGINE Bus STOPPING
+[24/Oct/2015:01:17:42] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:01:17:42] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:01:17:42] ENGINE Bus STOPPED
+[24/Oct/2015:01:17:42] ENGINE Bus EXITING
+[24/Oct/2015:01:17:42] ENGINE Bus EXITED
+[24/Oct/2015:01:17:42] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:01:17:42] ENGINE Re-spawning /programming/python/projects/piManager/uno_test.py
+[24/Oct/2015:01:17:47] ENGINE Bus STARTING
+[24/Oct/2015:01:17:47] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:01:17:47] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:01:17:48] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:01:17:48] ENGINE Bus STARTED
+[24/Oct/2015:01:17:50] ENGINE Keyboard Interrupt: shutting down bus
+[24/Oct/2015:01:17:50] ENGINE Bus STOPPING
+[24/Oct/2015:01:17:50] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:01:17:50] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:01:17:50] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:01:17:50] ENGINE Bus STOPPED
+[24/Oct/2015:01:17:50] ENGINE Bus EXITING
+[24/Oct/2015:01:17:50] ENGINE Bus EXITED
+[24/Oct/2015:01:17:50] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:01:17:55] ENGINE Bus STARTING
+[24/Oct/2015:01:17:55] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:01:17:55] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:01:17:55] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:01:17:55] ENGINE Bus STARTED
+[24/Oct/2015:01:18:31] ENGINE Restarting because /programming/python/projects/piManager/uno_test.py changed.
+[24/Oct/2015:01:18:31] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:01:18:31] ENGINE Bus STOPPING
+[24/Oct/2015:01:18:31] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:01:18:31] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:01:18:31] ENGINE Bus STOPPED
+[24/Oct/2015:01:18:31] ENGINE Bus EXITING
+[24/Oct/2015:01:18:31] ENGINE Bus EXITED
+[24/Oct/2015:01:18:31] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:01:18:31] ENGINE Re-spawning /programming/python/projects/piManager/uno_test.py
+[24/Oct/2015:01:18:37] ENGINE Bus STARTING
+[24/Oct/2015:01:18:37] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:01:18:37] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:01:18:37] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:01:18:37] ENGINE Bus STARTED
+[24/Oct/2015:01:18:38] ENGINE Bus STARTING
+[24/Oct/2015:01:18:38] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:01:18:38] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:01:18:42] ENGINE Bus STOPPING
+[24/Oct/2015:01:18:42] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) already shut down
+[24/Oct/2015:01:18:42] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:01:18:42] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:01:18:42] ENGINE Bus STOPPED
+[24/Oct/2015:01:18:42] ENGINE Bus EXITING
+[24/Oct/2015:01:18:42] ENGINE Bus EXITED
+[24/Oct/2015:01:18:46] ENGINE Keyboard Interrupt: shutting down bus
+[24/Oct/2015:01:18:46] ENGINE Bus STOPPING
+[24/Oct/2015:01:18:46] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:01:18:46] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:01:18:46] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:01:18:46] ENGINE Bus STOPPED
+[24/Oct/2015:01:18:46] ENGINE Bus EXITING
+[24/Oct/2015:01:18:46] ENGINE Bus EXITED
+[24/Oct/2015:01:18:46] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:01:18:51] ENGINE Bus STARTING
+[24/Oct/2015:01:18:51] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:01:18:51] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:01:18:52] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:01:18:52] ENGINE Bus STARTED
+[24/Oct/2015:01:18:56] HTTP 
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/programming/python/projects/piManager/uno_test.py", line 93, in generate_control_page
+    <input type="hidden" name="STATE" value=''' + str(pin.state) + '''>
+AttributeError: 'str' object has no attribute 'pin'
+[24/Oct/2015:01:18:56] HTTP 
+Request Headers:
+  ACCEPT-LANGUAGE: en-US,en;q=0.5
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+  USER-AGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+  CONNECTION: keep-alive
+  Remote-Addr: 127.0.0.1
+  HOST: localhost:8080
+  ACCEPT-ENCODING: gzip, deflate
+  CACHE-CONTROL: max-age=0
+[24/Oct/2015:01:20:35] ENGINE Restarting because /programming/python/projects/piManager/uno_test.py changed.
+[24/Oct/2015:01:20:35] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:01:20:35] ENGINE Bus STOPPING
+[24/Oct/2015:01:20:35] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:01:20:35] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:01:20:35] ENGINE Bus STOPPED
+[24/Oct/2015:01:20:35] ENGINE Bus EXITING
+[24/Oct/2015:01:20:35] ENGINE Bus EXITED
+[24/Oct/2015:01:20:35] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:01:20:35] ENGINE Re-spawning /programming/python/projects/piManager/uno_test.py
+[24/Oct/2015:01:20:50] ENGINE Bus STARTING
+[24/Oct/2015:01:20:50] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:01:20:50] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:01:20:50] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:01:20:50] ENGINE Bus STARTED
+[24/Oct/2015:01:21:28] ENGINE Restarting because /programming/python/projects/piManager/uno_test.py changed.
+[24/Oct/2015:01:21:28] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:01:21:28] ENGINE Bus STOPPING
+[24/Oct/2015:01:21:28] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:01:21:28] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:01:21:28] ENGINE Bus STOPPED
+[24/Oct/2015:01:21:28] ENGINE Bus EXITING
+[24/Oct/2015:01:21:28] ENGINE Bus EXITED
+[24/Oct/2015:01:21:28] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:01:21:28] ENGINE Re-spawning /programming/python/projects/piManager/uno_test.py
+[24/Oct/2015:01:21:33] ENGINE Bus STARTING
+[24/Oct/2015:01:21:33] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:01:21:33] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:01:21:33] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:01:21:33] ENGINE Bus STARTED
+[24/Oct/2015:01:33:49] HTTP 
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+TypeError: index() missing 1 required positional argument: 'self'
+[24/Oct/2015:01:33:49] HTTP 
+Request Headers:
+  HOST: localhost:8080
+  USER-AGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+  CONNECTION: keep-alive
+  ACCEPT-LANGUAGE: en-US,en;q=0.5
+  Remote-Addr: 127.0.0.1
+  ACCEPT-ENCODING: gzip, deflate
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[24/Oct/2015:01:35:18] ENGINE Restarting because /programming/python/projects/piManager/uno_test.py changed.
+[24/Oct/2015:01:35:18] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:01:35:18] ENGINE Bus STOPPING
+[24/Oct/2015:01:35:18] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:01:35:18] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:01:35:18] ENGINE Bus STOPPED
+[24/Oct/2015:01:35:18] ENGINE Bus EXITING
+[24/Oct/2015:01:35:18] ENGINE Bus EXITED
+[24/Oct/2015:01:35:18] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:01:35:18] ENGINE Re-spawning /programming/python/projects/piManager/uno_test.py
+[24/Oct/2015:01:35:23] ENGINE Bus STARTING
+[24/Oct/2015:01:35:23] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:01:35:23] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:01:35:23] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:01:35:23] ENGINE Bus STARTED
+[24/Oct/2015:01:43:45] HTTP 
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+TypeError: index() missing 1 required positional argument: 'self'
+[24/Oct/2015:01:43:45] HTTP 
+Request Headers:
+  CONNECTION: keep-alive
+  Remote-Addr: 127.0.0.1
+  USER-AGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+  CACHE-CONTROL: max-age=0
+  ACCEPT-LANGUAGE: en-US,en;q=0.5
+  ACCEPT-ENCODING: gzip, deflate
+  HOST: localhost:8080
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[24/Oct/2015:01:45:14] ENGINE Restarting because /programming/python/projects/piManager/uno_test.py changed.
+[24/Oct/2015:01:45:14] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:01:45:14] ENGINE Bus STOPPING
+[24/Oct/2015:01:45:14] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:01:45:14] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:01:45:14] ENGINE Bus STOPPED
+[24/Oct/2015:01:45:14] ENGINE Bus EXITING
+[24/Oct/2015:01:45:14] ENGINE Bus EXITED
+[24/Oct/2015:01:45:14] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:01:45:14] ENGINE Re-spawning /programming/python/projects/piManager/uno_test.py
+[24/Oct/2015:01:46:49] ENGINE Bus STARTING
+[24/Oct/2015:01:46:49] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:01:46:49] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:01:46:49] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:01:46:49] ENGINE Bus STARTED
+[24/Oct/2015:01:46:56] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  CONNECTION: keep-alive
+  ACCEPT-ENCODING: gzip, deflate
+  CACHE-CONTROL: max-age=0
+  HOST: localhost:8080
+  USER-AGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+  ACCEPT-LANGUAGE: en-US,en;q=0.5
+[24/Oct/2015:01:46:56] HTTP 
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/programming/python/projects/piManager/uno_test.py", line 88, in index
+    for pin in UNO.__iter__(self):
+  File "/programming/python/projects/piManager/uno_test.py", line 45, in __next__
+    self.index = self.index - 1
+TypeError: unsupported operand type(s) for -: 'method' and 'int'
+[24/Oct/2015:01:54:15] ENGINE Restarting because /programming/python/projects/piManager/uno_test.py changed.
+[24/Oct/2015:01:54:15] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:01:54:15] ENGINE Bus STOPPING
+[24/Oct/2015:01:54:15] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:01:54:15] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:01:54:15] ENGINE Bus STOPPED
+[24/Oct/2015:01:54:15] ENGINE Bus EXITING
+[24/Oct/2015:01:54:15] ENGINE Bus EXITED
+[24/Oct/2015:01:54:15] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:01:54:15] ENGINE Re-spawning /programming/python/projects/piManager/uno_test.py
+[24/Oct/2015:01:54:21] ENGINE Bus STARTING
+[24/Oct/2015:01:54:21] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:01:54:21] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:01:54:21] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:01:54:21] ENGINE Bus STARTED
+[24/Oct/2015:01:54:23] ENGINE Bus STARTING
+[24/Oct/2015:01:54:23] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:01:54:23] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:01:54:28] ENGINE Error in 'start' listener <bound method Server.start of <cherrypy._cpserver.Server object at 0x7f5af496fe10>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/process/wspbus.py", line 205, in publish
+    output.append(listener(*args, **kwargs))
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/_cpserver.py", line 168, in start
+    ServerAdapter.start(self)
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/process/servers.py", line 170, in start
+    wait_for_free_port(*self.bind_addr)
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/process/servers.py", line 439, in wait_for_free_port
+    raise IOError("Port %r not free on %r" % (port, host))
+OSError: Port 8080 not free on '0.0.0.0'
+
+[24/Oct/2015:01:54:28] ENGINE Shutting down due to error in start listener:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/process/wspbus.py", line 243, in start
+    self.publish('start')
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/process/wspbus.py", line 223, in publish
+    raise exc
+cherrypy.process.wspbus.ChannelFailures: OSError("Port 8080 not free on '0.0.0.0'",)
+
+[24/Oct/2015:01:54:28] ENGINE Bus STOPPING
+[24/Oct/2015:01:54:28] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) already shut down
+[24/Oct/2015:01:54:28] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:01:54:28] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:01:54:28] ENGINE Bus STOPPED
+[24/Oct/2015:01:54:28] ENGINE Bus EXITING
+[24/Oct/2015:01:54:28] ENGINE Bus EXITED
+[24/Oct/2015:01:54:33] ENGINE Keyboard Interrupt: shutting down bus
+[24/Oct/2015:01:54:33] ENGINE Bus STOPPING
+[24/Oct/2015:01:54:33] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:01:54:33] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:01:54:33] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:01:54:33] ENGINE Bus STOPPED
+[24/Oct/2015:01:54:33] ENGINE Bus EXITING
+[24/Oct/2015:01:54:33] ENGINE Bus EXITED
+[24/Oct/2015:01:54:33] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:01:54:45] ENGINE Bus STARTING
+[24/Oct/2015:01:54:45] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:01:54:45] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:01:54:45] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:01:54:45] ENGINE Bus STARTED
+[24/Oct/2015:01:55:41] HTTP 
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/programming/python/projects/piManager/uno_test.py", line 88, in index
+    for pin in UNO:
+TypeError: 'type' object is not iterable
+[24/Oct/2015:01:55:41] HTTP 
+Request Headers:
+  HOST: localhost:8080
+  ACCEPT-LANGUAGE: en-US,en;q=0.5
+  CACHE-CONTROL: max-age=0
+  USER-AGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+  Remote-Addr: 127.0.0.1
+  CONNECTION: keep-alive
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+  ACCEPT-ENCODING: gzip, deflate
+[24/Oct/2015:01:56:40] ENGINE Keyboard Interrupt: shutting down bus
+[24/Oct/2015:01:56:40] ENGINE Bus STOPPING
+[24/Oct/2015:01:56:40] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:01:56:40] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:01:56:40] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:01:56:40] ENGINE Bus STOPPED
+[24/Oct/2015:01:56:40] ENGINE Bus EXITING
+[24/Oct/2015:01:56:40] ENGINE Bus EXITED
+[24/Oct/2015:01:56:40] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:02:00:08] ENGINE Bus STARTING
+[24/Oct/2015:02:00:08] ENGINE Started monitor thread 'Autoreloader'.
+[24/Oct/2015:02:00:08] ENGINE Started monitor thread '_TimeoutMonitor'.
+[24/Oct/2015:02:00:08] ENGINE Serving on http://0.0.0.0:8080
+[24/Oct/2015:02:00:08] ENGINE Bus STARTED
+[24/Oct/2015:02:20:08] ENGINE Restarting because /programming/python/projects/piManager/uno_test.py changed.
+[24/Oct/2015:02:20:08] ENGINE Stopped thread 'Autoreloader'.
+[24/Oct/2015:02:20:08] ENGINE Bus STOPPING
+[24/Oct/2015:02:20:08] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[24/Oct/2015:02:20:08] ENGINE Stopped thread '_TimeoutMonitor'.
+[24/Oct/2015:02:20:08] ENGINE Bus STOPPED
+[24/Oct/2015:02:20:08] ENGINE Bus EXITING
+[24/Oct/2015:02:20:08] ENGINE Bus EXITED
+[24/Oct/2015:02:20:08] ENGINE Waiting for child threads to terminate...
+[24/Oct/2015:02:20:08] ENGINE Re-spawning /programming/python/projects/piManager/uno_test.py
+[25/Oct/2015:21:50:41] ENGINE Bus STARTING
+[25/Oct/2015:21:50:41] ENGINE Started monitor thread '_TimeoutMonitor'.
+[25/Oct/2015:21:50:41] ENGINE Started monitor thread 'Autoreloader'.
+[25/Oct/2015:21:50:41] ENGINE Serving on http://0.0.0.0:8080
+[25/Oct/2015:21:50:41] ENGINE Bus STARTED
+[25/Oct/2015:21:52:30] ENGINE Keyboard Interrupt: shutting down bus
+[25/Oct/2015:21:52:30] ENGINE Bus STOPPING
+[25/Oct/2015:21:52:30] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[25/Oct/2015:21:52:30] ENGINE Stopped thread 'Autoreloader'.
+[25/Oct/2015:21:52:30] ENGINE Stopped thread '_TimeoutMonitor'.
+[25/Oct/2015:21:52:30] ENGINE Bus STOPPED
+[25/Oct/2015:21:52:30] ENGINE Bus EXITING
+[25/Oct/2015:21:52:30] ENGINE Bus EXITED
+[25/Oct/2015:21:52:30] ENGINE Waiting for child threads to terminate...
+[13/Jul/2017:11:34:34] ENGINE Bus STARTING
+[13/Jul/2017:11:34:34] ENGINE Started monitor thread 'Autoreloader'.
+[13/Jul/2017:11:34:34] ENGINE Started monitor thread '_TimeoutMonitor'.
+[13/Jul/2017:11:34:34] ENGINE Serving on http://0.0.0.0:8080
+[13/Jul/2017:11:34:34] ENGINE Bus STARTED
+[13/Jul/2017:11:36:41] ENGINE Restarting because /opt2/pythonDevelopment/projects/piManager/Home.py changed.
+[13/Jul/2017:11:36:41] ENGINE Stopped thread 'Autoreloader'.
+[13/Jul/2017:11:36:41] ENGINE Bus STOPPING
+[13/Jul/2017:11:36:41] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[13/Jul/2017:11:36:41] ENGINE Stopped thread '_TimeoutMonitor'.
+[13/Jul/2017:11:36:41] ENGINE Bus STOPPED
+[13/Jul/2017:11:36:41] ENGINE Bus EXITING
+[13/Jul/2017:11:36:41] ENGINE Bus EXITED
+[13/Jul/2017:11:36:41] ENGINE Waiting for child threads to terminate...
+[13/Jul/2017:11:36:41] ENGINE Re-spawning Home.py
+[13/Jul/2017:11:36:41] ENGINE Bus STARTING
+[13/Jul/2017:11:36:41] ENGINE Started monitor thread 'Autoreloader'.
+[13/Jul/2017:11:36:41] ENGINE Started monitor thread '_TimeoutMonitor'.
+[13/Jul/2017:11:36:41] ENGINE Serving on http://0.0.0.0:8080
+[13/Jul/2017:11:36:41] ENGINE Bus STARTED
+[13/Jul/2017:11:40:50] ENGINE Restarting because /opt2/pythonDevelopment/projects/piManager/Home.py changed.
+[13/Jul/2017:11:40:50] ENGINE Stopped thread 'Autoreloader'.
+[13/Jul/2017:11:40:50] ENGINE Bus STOPPING
+[13/Jul/2017:11:40:50] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[13/Jul/2017:11:40:50] ENGINE Stopped thread '_TimeoutMonitor'.
+[13/Jul/2017:11:40:50] ENGINE Bus STOPPED
+[13/Jul/2017:11:40:50] ENGINE Bus EXITING
+[13/Jul/2017:11:40:50] ENGINE Bus EXITED
+[13/Jul/2017:11:40:50] ENGINE Waiting for child threads to terminate...
+[13/Jul/2017:11:40:50] ENGINE Re-spawning Home.py
+[13/Jul/2017:11:40:50] ENGINE Bus STARTING
+[13/Jul/2017:11:40:50] ENGINE Started monitor thread 'Autoreloader'.
+[13/Jul/2017:11:40:50] ENGINE Started monitor thread '_TimeoutMonitor'.
+[13/Jul/2017:11:40:50] ENGINE Serving on http://0.0.0.0:8080
+[13/Jul/2017:11:40:50] ENGINE Bus STARTED
+[13/Jul/2017:11:52:44] ENGINE Restarting because /opt2/pythonDevelopment/projects/piManager/Home.py changed.
+[13/Jul/2017:11:52:44] ENGINE Stopped thread 'Autoreloader'.
+[13/Jul/2017:11:52:44] ENGINE Bus STOPPING
+[13/Jul/2017:11:52:44] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[13/Jul/2017:11:52:44] ENGINE Stopped thread '_TimeoutMonitor'.
+[13/Jul/2017:11:52:44] ENGINE Bus STOPPED
+[13/Jul/2017:11:52:44] ENGINE Bus EXITING
+[13/Jul/2017:11:52:44] ENGINE Bus EXITED
+[13/Jul/2017:11:52:44] ENGINE Waiting for child threads to terminate...
+[13/Jul/2017:11:52:44] ENGINE Re-spawning Home.py
+[13/Jul/2017:11:52:44] ENGINE Bus STARTING
+[13/Jul/2017:11:52:44] ENGINE Started monitor thread 'Autoreloader'.
+[13/Jul/2017:11:52:44] ENGINE Started monitor thread '_TimeoutMonitor'.
+[13/Jul/2017:11:52:44] ENGINE Serving on http://0.0.0.0:8080
+[13/Jul/2017:11:52:44] ENGINE Bus STARTED
+[13/Jul/2017:11:59:11] ENGINE Keyboard Interrupt: shutting down bus
+[13/Jul/2017:11:59:11] ENGINE Bus STOPPING
+[13/Jul/2017:11:59:11] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[13/Jul/2017:11:59:11] ENGINE Stopped thread 'Autoreloader'.
+[13/Jul/2017:11:59:11] ENGINE Stopped thread '_TimeoutMonitor'.
+[13/Jul/2017:11:59:11] ENGINE Bus STOPPED
+[13/Jul/2017:11:59:11] ENGINE Bus EXITING
+[13/Jul/2017:11:59:11] ENGINE Bus EXITED
+[13/Jul/2017:11:59:11] ENGINE Waiting for child threads to terminate...

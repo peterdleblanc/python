@@ -1,0 +1,189 @@
+__author__ = 'Peter LeBlanc'
+
+
+''' This is a util for manuliplating DEM data
+currently a work in progress new functionality
+can be added upon request
+'''
+#Imports
+import threading
+import os
+import sys
+import subprocess
+import logging
+
+try:
+    import Queue
+except:
+    import queue as Queue
+
+#MemoryCreationImports
+
+from osgeo import gdal
+from numpy import gradient
+from numpy import pi
+from numpy import arctan
+from numpy import arctan2
+from numpy import sin
+from numpy import cos
+from numpy import sqrt
+from numpy import zeros
+from numpy import uint8
+
+import matplotlib.pyplot as plt
+
+
+
+logging.basicConfig(filename = 'output.log', level=logging.DEBUG, format='(%(threadName)-10s) %(message)s',)
+
+class GenerateImage(object):
+    'An toolkit for generating GeoTiffs from DEM data'
+
+    version = '0.3'
+
+    def __init__(self, fileName, fileLocation):
+        self.fileName = fileName
+        self.fileLocation = fileLocation
+
+    def memoryHillShade(self, array, azimuth, angle_altitude):
+        x, y = gradient(array)
+        slope = pi/2. - arctan(sqrt(x*x + y*y))
+        aspect = arctan2(-x,y)
+        azimuthrad = azimuth * pi  /180
+        altituderad = angle_altitude*pi / 180.
+
+        shaded = sin(altituderad) * sin(slope) + cos(altituderad) * cos(slope) * cos (azimuthrad - aspect)
+        return 255*(shaded + 1)/2
+
+    ds = gdal.Open('w001001.tiff')
+    band = ds.GetRasterBand(1)
+    arr = band.ReadAsArray()
+
+    hs_array = hillshade(arr, 315, 45)
+    plt.imshow(hs_array, cmap='Greys')
+    plt.show()
+
+
+    def generateColorRamp(self, rampSelection):
+        'Generates a color ramp file'
+
+        if rampSelection == 'Earth Tones':
+            logging.debug('Generating color ramp')
+            rampFile = open('ramp.txt', 'wt')
+            type(rampFile)
+            rampFile.write('0 255 255 255\n')
+            rampFile.write('1 49 120 181\n')
+            rampFile.write('5 93 159 217\n')
+            rampFile.write('10 150 131 98\n')
+            rampFile.write('15 117 102 77\n')
+            rampFile.write('30 185 156 107\n')
+            rampFile.write('60 219 202 105\n')
+            rampFile.write('300 189 208 156\n')
+            rampFile.write('600 102 141 60\n')
+            rampFile.write('1000 64 79 36\n')
+            rampFile.write('1400 213 117 0\n')
+            rampFile.write('2000 97 51 24\n')
+            rampFile.write('2400 169 161 140\n')
+            rampFile.write('2800 129 108 91\n')
+            rampFile.write('3100 73 56 41\n')
+            rampFile.write('3600 36 24 0\n')
+            rampFile.write('4000 192 212 216\n')
+            rampFile.close()
+        else:
+            logging.debug('No color ramp specified')
+
+
+
+
+class GenerateHillShade:
+    def __init__(self):
+        status='creating job'
+
+    def run (self,fileName, inputLocation, outputLocation):
+        logging.debug('creating a hillshade worker')
+        global hillWorkers
+        modTiff=subprocess.Popen(['gdaldem','hillshade',inputLocation + fileName, outputLocation + '/hillShade_' + fileName, '-z','5','-s','111120'])
+        checkOutput = modTiff.communicate()
+        status='hill shade completed for: ' + fileName
+        logging.debug(status)
+
+class GenerateColorRelief:
+    def __init__(self):
+        status='creating job'
+
+    def run(self, fileName, inputLocation, outputLocation):
+        logging.debug('creating a color relief worker')
+        global colorWorkers
+        modTiff=subprocess.Popen(['gdaldem', 'color-relief',inputLocation + fileName, 'ramp.txt', outputLocation + '/colorRelief_' + fileName])
+        checkOutput = modTiff.communicate()
+        status='color relief completed for: ' + fileName
+        logging.debug(status)
+
+class GenerateMergeImage():
+    def __init__(self):
+        status='creating job'
+
+    def run(self,fileName, inputLocation, outputLocation):
+        logging.debug('creating a merge worker')
+        global mergeWorker
+        modTiff=subprocess.Popen(['./hsv_merge.py', outputLocation + '/colorRelief_' + fileName, outputLocation + '/hillShade_' + fileName, outputLocation + '/merge_'+ fileName])
+        checkOutput = modTiff.communicate()
+        status='merging of hillshade and color relief complete for: ' + fileName
+        logging.debug(status)
+
+def main():
+    #User input switches
+    inputLocation = sys.argv[1]
+    outputLocation = sys.argv[2]
+    filesList = os.listdir(inputLocation)
+
+    logging.debug("Input Location" + inputLocation)
+    logging.debug("Output Location" + outputLocation)
+
+
+    #Generating list of jobs for jobsTable
+    logging.debug('generating jobs table')
+    jobsTable = {}
+    tiffList = []
+    for file in filesList:
+        if file.endswith('.tif'):
+            jobsTable[file]={'hill':'p', 'color':'p','merge':'w', 'trans':'w', 'completed':'n'}
+            tiffList.append(file)
+
+    logging.debug('going thru the list of tifs')
+
+    for fileName in tiffList:
+        h = GenerateHillShade()
+        ht = threading.Thread(target=h.run, args=(fileName, inputLocation, outputLocation))
+        ht.start()
+        logging.debug(ht)
+        jobsTable[fileName]['hill'] = 'c'
+
+
+        c = GenerateColorRelief()
+        ct = threading.Thread(target=c.run, args=(fileName, inputLocation, outputLocation))
+        ct.start()
+        logging.debug(ct)
+        jobsTable[fileName]['color'] = 'c'
+
+        if jobsTable[fileName]['hill'] == 'c' and jobsTable[fileName]['color'] == 'c':
+            m = GenerateMergeImage()
+            mt = threading.Thread(target=m.run, args=(fileName, inputLocation, outputLocation))
+            mt.start()
+            logging.debug(mt)
+
+        ht.join()
+        ct.join()
+
+
+    mt.join()
+
+    for k,v in jobsTable.items():
+        print(k)
+        print(v)
+
+if __name__ == '__main__':
+    hillWorkers = Queue.Queue(2)
+    colorWorkers = Queue.Queue(2)
+    mergeWorkers = Queue.Queue(5)
+    main()

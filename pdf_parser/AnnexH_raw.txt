@@ -1,0 +1,2596 @@
+Description:
+
+Aerial/tower communication
+
+Component Ref #: P00155
+
+Color Token: Black
+
+Origin: Center of open circle
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Lineweight of open circle:
+Lineweight (all or other):
+
+3.45mm
+1.70mm
+0.60mm
+0.10mm
+0.15mm
+
+Description:
+
+Aircraft revetment
+
+Component Ref #: P00295
+
+Color Token: Dk-Brown1815
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Lineweight of open circle:
+Length of stem or segment:
+Lineweight of ticks:
+Angle between elements:
+
+2.25mm
+2.25mm
+1.25mm
+0.15mm
+0.50mm
+0.15mm
+90°
+
+Description:
+
+Aqueduct/penstock/water race "V"
+
+Component Ref #: P00208
+
+Color Token: Cyan
+
+Origin: Apex of "V"
+
+Length of stem or segment:
+Lineweight (all or other):
+Angle between elements:
+Note:
+
+0.90mm
+0.30mm
+90°
+Apex is where the lines connect to form a "V".
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 1
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Basin gate/lock
+
+Component Ref #: P00035
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Length of stem or segment:
+Lineweight (all or other):
+Angle between elements:
+Space between elements:
+
+1.45mm
+1.25mm
+0.80mm
+0.15mm
+90°
+0.50mm
+
+Description:
+
+Bridge fixed
+
+Component Ref #: P00188
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Length of stem or segment:
+Lineweight of stem or base:
+Lineweight of ticks:
+
+1.50mm
+0.30mm
+0.15mm
+
+Description:
+
+Bridge not fixed
+
+Component Ref #: P00202
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Lineweight of open circle:
+Length of stem or segment:
+Lineweight of stem or base:
+Lineweight of ticks:
+Note:
+
+0.20mm
+1.50mm
+0.30mm
+0.15mm
+Diameter of open circle is variable based on the width 
+of the space between the lines.
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 2
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Bridge pedestrian
+
+Component Ref #: P00201
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Length of stem or segment:
+Lineweight of ticks:
+Lineweight (all or other):
+
+1.50mm
+0.15mm
+0.30mm
+
+Description:
+
+Building checkpoint
+
+Component Ref #: P00132
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Lineweight (all or other):
+Space between elements:
+Note:
+
+1.75mm
+1.75mm
+1.75mm
+0.15mm
+0.20mm
+Horizontal lines are centered in the circle
+
+Description:
+
+Building Christian
+
+Component Ref #: P00075
+
+Color Token: Black
+
+Origin: Center of solid square
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Angle between elements:
+Note:
+
+1.60mm
+0.80mm
+0.20mm
+90°
+Solid square 0.50mm each side. 
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 3
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Building Christian cross
+
+Component Ref #: P00013
+
+Color Token: Black
+
+Origin: Center of base of staff
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Angle between elements:
+
+1.10mm
+0.80mm
+0.20mm
+90°
+
+Description:
+
+Building diplomatic
+
+Component Ref #: P00186
+
+Color Token: Black
+
+Origin: Center of solid square
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Angle between elements:
+Note:
+
+2.00mm
+0.90mm
+0.15mm
+90°
+Solid square 0.50mm each side. 
+
+Description:
+
+Building diplomatic flag
+
+Component Ref #: P00285
+
+Color Token: Black
+
+Origin: Center of base of staff
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Angle between elements:
+
+1.50mm
+0.90mm
+0.15mm
+90°
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 4
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Building hospital
+
+Component Ref #: P00012
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Diameter of solid circle:
+Lineweight (all or other):
+Angle between elements:
+Note:
+
+1.75mm
+1.75mm
+1.75mm
+0.25mm
+90°
+White cross bars are 1.25mm centered within solid 
+circle.
+
+Description:
+
+Building hospital with stem
+
+Component Ref #: P00011
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Diameter of solid circle:
+Length of stem or segment:
+Lineweight of stem or base:
+Lineweight (all or other):
+Angle between elements:
+Note:
+
+2.35mm
+1.75mm
+1.75mm
+0.60mm
+0.25mm
+0.25mm
+90°
+White cross bars are 1.25mm centered within solid 
+circle.
+
+Description:
+
+Building Islamic
+
+Component Ref #: P00076
+
+Color Token: Black
+
+Origin: Center of solid square
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Angle between elements:
+Note:
+
+1.60mm
+0.90mm
+0.20mm
+90°
+Solid square 0.50mm each side. 
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 5
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Building Islamic crescent
+
+Component Ref #: P00014
+
+Color Token: Black
+
+Origin: Center of base of staff
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Angle between elements:
+Note:
+
+1.10mm
+0.90mm
+0.20mm
+90°
+Half circle is centered on staff
+
+Description:
+
+Building Judaism
+
+Component Ref #: P00077
+
+Color Token: Black
+
+Origin: Center of solid square
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Angle between elements:
+Note:
+
+1.60mm
+0.80mm
+0.20mm
+90°
+Solid square 0.50mm each side. 
+
+Description:
+
+Building Judaism "T"
+
+Component Ref #: P00017
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Length of stem or segment:
+Lineweight (all or other):
+Angle between elements:
+
+1.10mm
+0.80mm
+0.90mm
+0.20mm
+90°
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 6
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Building minaret
+
+Component Ref #: P00184
+
+Color Token: Black
+
+Origin: Center of open circle
+
+Overall component height:
+Overall component width:
+Diameter of solid circle:
+Diameter of open circle:
+Lineweight of open circle:
+Length of stem or segment:
+Angle between elements:
+
+2.35mm
+1.25mm
+0.30mm
+1.25mm
+0.15mm
+0.2mm
+90°
+
+Description:
+
+Building pagoda
+
+Component Ref #: P00019
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Note:
+
+1.65mm
+1.10mm
+0.20mm
+A white 0.40mm square is placed 0.20mm from 
+bottom. Arc radii is o.44mm.
+
+Description:
+
+Building school
+
+Component Ref #: P00118
+
+Color Token: Black
+
+Origin: Center of solid square
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Note:
+
+1.70mm
+0.90mm
+0.20mm
+Solid square 0.50mm each side. 
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 7
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Building school flag
+
+Component Ref #: P00016
+
+Color Token: Black
+
+Origin: Center of base of staff
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+
+1.20mm
+0.90mm
+0.20mm
+
+Description:
+
+Building stupa
+
+Component Ref #: P00031
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Grid square size:
+Note:
+
+1.80mm
+1.50mm
+0.15mm
+0.10mm x 0.10mm
+Steeple top radius is 0.04mm
+
+Description:
+
+Building temple
+
+Component Ref #: P00018
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Note:
+
+1.36mm
+1.86mm
+0.20mm
+Large arc radius 0.43mm. Small arc radius 0.35mm.
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 8
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Cairn
+
+Component Ref #: P00022
+
+Color Token: Black
+
+Origin: Center of open circle
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Lineweight of open circle:
+Lineweight of stem or base:
+Note:
+
+1.65mm
+2.00mm
+0.50mm
+0.10mm
+0.10mm
+Large circle diameters is 0.90mm. Lineweight 0.13mm.
+
+Description:
+
+Camp/campsite
+
+Component Ref #: P00005
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Length of stem or segment:
+Lineweight (all or other):
+Angle between elements:
+
+1.00mm
+0.92mm
+1.00mm
+0.15mm
+45°
+
+Description:
+
+Cave mouth
+
+Component Ref #: P00183
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Length of stem or segment:
+Lineweight (all or other):
+Angle between elements:
+
+1.10mm
+2.47mm
+1.50mm
+0.10mm
+135°
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 9
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Cemetery/tomb Buddhism
+
+Component Ref #: P00272
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Angle between elements:
+
+1.00mm
+1.50mm
+0.25mm
+90°
+
+Description:
+
+Cemetery/tomb Christian
+
+Component Ref #: P00253
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Angle between elements:
+
+2.00mm
+1.10mm
+0.25mm
+90°
+
+Description:
+
+Cemetery/tomb Islam
+
+Component Ref #: P00254
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Angle between elements:
+Note:
+
+2.00mm
+1.30mm
+0.25mm
+90°
+Half circle is centered on staff
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 10
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Cemetery/tomb Judaism
+
+Component Ref #: P00255
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Angle between elements:
+
+2.00mm
+0.80mm
+0.25mm
+90°
+
+Description:
+
+Cemetery/tomb other
+
+Component Ref #: P00271
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Grid square size:
+Note:
+
+1.45mm
+2.00mm
+0.25mm
+0.20mm x 0.20mm
+Top of symbol is the upper part of an ellipse 1.00mm 
+wide by 1.1 mm high
+
+Description:
+
+Cooling tower
+
+Component Ref #: P00137
+
+Color Token: Black
+
+Origin: Center of open circle
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Lineweight of open circle:
+Grid square size:
+Note:
+
+2.50mm
+1.75mm
+0.60mm
+0.10mm
+0.20mm x 0.20mm
+Width at top 1.10mm. Width at narrowest part 
+0.80mm.  Width at bottom 1.75mm
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 11
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Crane
+
+Component Ref #: P00131
+
+Color Token: Black
+
+Origin: Center of open circle
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Lineweight of open circle:
+Length of stem or segment:
+Lineweight (all or other):
+
+1.40mm
+1.80mm
+1.40mm
+0.15mm
+1.10mm
+0.15mm
+
+Description:
+
+Culvert double "V"
+
+Component Ref #: P00106
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Length of stem or segment:
+Lineweight (all or other):
+Angle between elements:
+Note:
+
+0.80mm
+0.15mm
+90°
+Spacing between "V" elements is variable based on 
+the width of the corresponding transportation feature.
+
+Description:
+
+Culvert/lock/pedestrian bridge/sluice gate "V"
+
+Component Ref #: P00105
+
+Color Token: Black
+
+Origin: Apex of "V"
+
+Length of stem or segment:
+Lineweight (all or other):
+Angle between elements:
+Note:
+
+0.80mm
+0.15mm
+90°
+Apex is where the lines connect to form a "V".
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 12
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Dish aerial
+
+Component Ref #: P00133
+
+Color Token: Black
+
+Origin: Center of open circle
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Lineweight of open circle:
+Lineweight of stem or base:
+Lineweight (all or other):
+Grid square size:
+Note:
+
+2.40mm
+1.25mm
+0.60mm
+0.10mm
+0.10mm
+0.10mm
+0.20mm x 0.20mm
+Length of base 1.00mm. Body tapers from 0.35mm to 
+0.65mm at the base
+
+Description:
+
+Extraction mine not peat intact
+
+Component Ref #: P00001
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+
+1.85mm
+1.85mm
+0.25mm
+
+Description:
+
+Extraction mine not peat not intact
+
+Component Ref #: P00002
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+
+1.85mm
+1.85mm
+0.25mm
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 13
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Extraction mine peat
+
+Component Ref #: P00084
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Note:
+
+2.00mm
+4.50mm
+0.10mm
+Each rectangle 1.50mm x 1.00mm
+
+Description:
+
+Fence "X"
+
+Component Ref #: P00286
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Length of stem or segment:
+Lineweight (all or other):
+Angle between elements:
+
+1.00mm
+1.00mm
+1.00mm
+0.15mm
+90°
+
+Description:
+
+Flare pipe
+
+Component Ref #: P00145
+
+Color Token: Black
+
+Origin: Center of open circle
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Lineweight of open circle:
+Lineweight of stem or base:
+Grid square size:
+
+2.60mm
+1.00mm
+0.60mm
+0.10mm
+0.10mm
+0.10mm x 0.10mm
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 14
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Fortified building
+
+Component Ref #: P00108
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Length of stem or segment:
+Lineweight (all or other):
+Note:
+
+1.50mm
+1.50mm
+0.50mm
+0.10mm
+Open square 0.80mm each side. 
+
+Description:
+
+Geothermal outlet
+
+Component Ref #: P00027
+
+Color Token: Dk-Brown1815
+
+Origin: Center of solid circle
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Grid square size:
+
+2.70mm
+0.80mm
+0.20mm
+0.20mm x 0.20mm
+
+Description:
+
+Greenhouse
+
+Component Ref #: P00171
+
+Color Token: Black/Green362-42
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Note:
+
+0.60mm
+0.60mm
+0.10mm
+Outline is Black. Fill is Green362-42 (42% screen, 45° 
+angle)
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 15
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Hazardous rock/reef
+
+Component Ref #: P00095
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Length of stem or segment:
+Lineweight (all or other):
+Angle between elements:
+
+1.50mm
+1.50mm
+1.50mm
+0.10mm
+60°
+
+Description:
+
+Helipad
+
+Component Ref #: P00090
+
+Color Token: Blue072
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Lineweight (all or other):
+Note:
+
+3.00mm
+3.00mm
+3.00mm
+0.25mm
+The "H" is formed by two 1.50mm vertical lines and 
+one 1.20mm horizontal line.
+
+Description:
+
+Helipad at hospital
+
+Component Ref #: P00089
+
+Color Token: Blue072
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Note:
+
+3.00mm
+3.00mm
+0.25mm
+The "H" is formed by two 1.50mm vertical lines and 
+one 1.20mm horizontal line.
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 16
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Ice peak not frozen water
+
+Component Ref #: P00066
+
+Color Token: Dk-Brown1815
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Length of stem or segment:
+Lineweight (all or other):
+Angle between elements:
+Note:
+
+2.70mm
+2.70mm
+0.60mm
+0.15mm
+45°
+Ticks emanate from a 1.50mm circle
+
+Description:
+
+Lighthouse
+
+Component Ref #: P00135
+
+Color Token: Black
+
+Origin: Center of open circle
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Lineweight of open circle:
+Lineweight of stem or base:
+Lineweight of ticks:
+Note:
+
+3.10mm
+2.65mm
+0.60mm
+0.10mm
+0.10mm
+0.15mm
+Four 0.90mm "rays" rotated 30, 150, 210, and 330 
+degrees. A white 0.30mm square is placed 0.10mm 
+from top.
+
+Description:
+
+Located object
+
+Component Ref #: P00010
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Diameter of solid circle:
+Diameter of open circle:
+Lineweight of open circle:
+
+1.25mm
+1.25mm
+0.30mm
+1.25mm
+0.15mm
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 17
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Memorial monument
+
+Component Ref #: P00136
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Lineweight of open circle:
+Note:
+
+1.50mm
+1.50mm
+1.50mm
+0.10mm
+Equilateral triangle fits within open circle and is 
+1.20mm on each side
+
+Description:
+
+Mooring mast
+
+Component Ref #: P00198
+
+Color Token: Black
+
+Origin: Center of open circle
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Lineweight of open circle:
+Length of stem or segment:
+Lineweight of stem or base:
+
+2.00mm
+1.65mm
+0.60mm
+0.10mm
+1.40mm
+0.10mm
+
+Description:
+
+Motor vehicle station
+
+Component Ref #: P00165
+
+Color Token: Black
+
+Origin: Center of solid square
+
+Overall component height:
+Overall component width:
+Length of stem or segment:
+Lineweight (all or other):
+Angle between elements:
+Note:
+
+2.10mm
+1.10mm
+0.60mm
+0.15mm
+60°
+Solid square 0.50mm each side. 
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 18
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Motor vehicle station symbol
+
+Component Ref #: P00275
+
+Color Token: Black
+
+Origin: Center of base of staff
+
+Overall component height:
+Overall component width:
+Length of stem or segment:
+Lineweight (all or other):
+Angle between elements:
+
+1.60mm
+1.10mm
+0.60mm
+0.15mm
+60°
+
+Description:
+
+Mountain pass
+
+Component Ref #: P00029
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Note:
+
+4.20mm
+2.82mm
+Space between inner and outer arc radii forms the 
+symbol. Inner arc radii is 3.50mm.  Outer arc radii is 
+5.00mm.
+
+Description:
+
+Natural pool intermittent
+
+Component Ref #: P00032
+
+Color Token: Cyan
+
+Origin: Center of open circle
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Lineweight of open circle:
+Lineweight (all or other):
+Grid square size:
+
+2.90mm
+1.00mm
+1.00mm
+0.15mm
+0.20mm
+0.20mm x 0.20mm
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 19
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Natural pool perennial
+
+Component Ref #: P00026
+
+Color Token: Cyan
+
+Origin: Center of solid circle
+
+Overall component height:
+Overall component width:
+Diameter of solid circle:
+Lineweight (all or other):
+Grid square size:
+
+2.70mm
+0.80mm
+0.8mm
+0.20mm
+0.20mm x 0.20mm
+
+Description:
+
+Not intact circle 0.8mm
+
+Component Ref #: P00291
+
+Color Token: Black/Black-12
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Lineweight (all or other):
+Note:
+
+0.80mm
+0.80mm
+0.80mm
+0.10mm
+Fill is Black-12 (12% screen 45° angle)
+
+Description:
+
+Not intact square 0.6mm
+
+Component Ref #: P00293
+
+Color Token: Black/Black-12
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Note:
+
+0.60mm
+0.60mm
+0.10mm
+Fill is Black-12 (12% screen 45° angle)
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 20
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Not intact square 0.8mm
+
+Component Ref #: P00173
+
+Color Token: Black/Black-12
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Note:
+
+0.80mm
+0.80mm
+0.10mm
+Fill is Black-12 (12% screen 45° angle)
+
+Description:
+
+Oasis
+
+Component Ref #: P00260
+
+Color Token: Green362
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight of stem or base:
+Grid square size:
+
+3.00mm
+2.70mm
+0.20mm
+0.20mm x 0.20mm
+
+Description:
+
+Offshore construction point
+
+Component Ref #: P00163
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Diameter of solid circle:
+Lineweight (all or other):
+
+1.20mm
+1.20mm
+0.20mm
+0.10mm
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 21
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Pipeline elevated "V"
+
+Component Ref #: P00045
+
+Color Token: Black
+
+Origin: Apex of "V"
+
+Length of stem or segment:
+Lineweight (all or other):
+Angle between elements:
+Note:
+
+0.70mm
+0.20mm
+90°
+Apex is where the lines connect to form a "V".
+
+Description:
+
+Pipeline water elevated "V"
+
+Component Ref #: P00058
+
+Color Token: Cyan
+
+Origin: Apex of "V"
+
+Length of stem or segment:
+Lineweight (all or other):
+Angle between elements:
+Note:
+
+0.70mm
+0.20mm
+90°
+Apex is where the lines connect to form a "V".
+
+Description:
+
+Power substation
+
+Component Ref #: P00138
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Angle between elements:
+
+2.00mm
+0.80mm
+0.15mm
+60°
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 22
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Radio aid
+
+Component Ref #: P00294
+
+Color Token: Blue072
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Diameter of solid circle:
+Diameter of open circle:
+Lineweight of open circle:
+
+1.90mm
+1.90mm
+0.40mm
+1.90mm
+0.30mm
+
+Description:
+
+Railway station
+
+Component Ref #: P00079
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Note:
+
+1.00mm
+1.00mm
+0.10mm
+Open square 1.00mm each side. Solid square 0.50mm 
+each side.  
+
+Description:
+
+Railway tick broad double
+
+Component Ref #: P00278
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Length of stem or segment:
+Lineweight (all or other):
+Space between elements:
+
+1.50mm
+0.80mm
+1.50mm
+0.15mm
+0.50mm
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 23
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Railway tick broad electrified
+
+Component Ref #: P00280
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Length of stem or segment:
+Lineweight (all or other):
+Angle between elements:
+Note:
+
+1.50mm
+0.70mm
+1.50mm
+0.15mm
+90°
+Length of top segment 0.70mm
+
+Description:
+
+Railway tick broad electrified double
+
+Component Ref #: P00282
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Length of stem or segment:
+Lineweight (all or other):
+Angle between elements:
+Space between elements:
+Note:
+
+1.50mm
+1.90mm
+1.50mm
+0.15mm
+90°
+0.50mm
+Length of top segment 0.70mm
+
+Description:
+
+Railway tick narrow double
+
+Component Ref #: P00277
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Length of stem or segment:
+Lineweight (all or other):
+Space between elements:
+
+0.75mm
+0.80mm
+0.75mm
+0.15mm
+0.50mm
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 24
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Railway tick narrow electrified
+
+Component Ref #: P00279
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Length of stem or segment:
+Lineweight (all or other):
+Angle between elements:
+Note:
+
+0.75mm
+0.70mm
+0.75mm
+0.15mm
+90°
+Length of top segment 0.70mm
+
+Description:
+
+Railway tick narrow electrified double
+
+Component Ref #: P00281
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Length of stem or segment:
+Lineweight (all or other):
+Angle between elements:
+Space between elements:
+Note:
+
+0.75mm
+1.90mm
+0.75mm
+0.15mm
+90°
+0.50mm
+Length of top segment 0.70mm
+
+Description:
+
+Railway turntable
+
+Component Ref #: P00238
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Lineweight of open circle:
+Lineweight (all or other):
+Note:
+
+1.50mm
+1.50mm
+1.50mm
+0.15mm
+0.15mm
+Interior line orientation is 45° centered inside the 
+circle
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 25
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Rapids
+
+Component Ref #: P00195
+
+Color Token: Cyan
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Length of stem or segment:
+Lineweight (all or other):
+Space between elements:
+
+0.90mm
+1.30mm
+1.30mm
+0.20mm
+0.50mm
+
+Description:
+
+Reef arc
+
+Component Ref #: P00207
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Angle between elements:
+Note:
+
+0.80mm
+0.80mm
+0.10mm
+10°
+Arc radius 0.35mm
+
+Description:
+
+Rig inland
+
+Component Ref #: P00162
+
+Color Token: Black
+
+Origin: Center of open circle
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Lineweight of open circle:
+Grid square size:
+Note:
+
+2.30mm
+1.60mm
+0.60mm
+0.10mm
+0.20mm x 0.20mm
+Base leg end radius is 1.125mm. Tip radius is 0.25mm.
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 26
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+River flow arrow
+
+Component Ref #: P00200
+
+Color Token: Cyan
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Grid square size:
+
+1.50mm
+9.00mm
+0.25mm
+0.20mm x 0.20mm
+
+Description:
+
+Road route marker national
+
+Component Ref #: P00268
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Note:
+
+2.25mm
+4.50mm
+0.10mm
+Arc radius 0.70mm
+
+Description:
+
+Rock formation
+
+Component Ref #: P00071
+
+Color Token: Dk-Brown1815
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Length of stem or segment:
+Lineweight (all or other):
+Angle between elements:
+Note:
+
+1.44mm
+1.44mm
+0.25mm
+0.60mm
+0.25mm
+60°
+Ticks emanate from a 0.25mm circle
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 27
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Ruins
+
+Component Ref #: P00265
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Diameter of solid circle:
+Angle between elements:
+Space between elements:
+
+1.20mm
+1.20mm
+0.40mm
+60°
+0.40mm
+
+Description:
+
+Settling pond
+
+Component Ref #: P00288
+
+Color Token: Black/Cyan
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Note:
+
+0.80mm
+0.80mm
+0.10mm
+Outline is Black. Fill is Cyan-31 (31% screen 45° angle)
+
+Description:
+
+Ski jump
+
+Component Ref #: P00274
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Grid square size:
+Note:
+
+2.00mm
+2.50mm
+0.20mm
+0.20mm x 0.20mm
+Width of top 0.40mm. Width of bottom of thick base 
+1.00mm.  Height of thick base to apex of ramp 
+1.50mm.
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 28
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Smokestack
+
+Component Ref #: P00140
+
+Color Token: Black
+
+Origin: Center of open circle
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Lineweight of open circle:
+Lineweight of stem or base:
+
+2.50mm
+1.25mm
+0.60mm
+0.10mm
+0.10mm
+
+Description:
+
+Sports ground
+
+Component Ref #: P00210
+
+Color Token: Green362/Green362-12
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Note:
+
+0.80mm
+0.80mm
+0.15mm
+Fill is Green362-12 (12% screen 45° angle)
+
+Description:
+
+Surface bunker
+
+Component Ref #: P00283
+
+Color Token: Black/Dk-Brown1815
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight of ticks:
+Lineweight (all or other):
+Note:
+
+1.50mm
+2.20mm
+0.15mm
+0.10mm
+Tick spacing (intersecting the ellipse) is 0.35mm. Angle 
+of sides 65 and 115 degrees.  Base is Black.  Rays are 
+Dk-Brown1815.
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 29
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Survey point geodetic
+
+Component Ref #: P00179
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Diameter of solid circle:
+Length of stem or segment:
+Lineweight (all or other):
+Angle between elements:
+
+1.30mm
+1.50mm
+0.30mm
+1.50mm
+0.10mm
+60°
+
+Description:
+
+Swimming pool
+
+Component Ref #: P00088
+
+Color Token: Black/Cyan-31
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Note:
+
+0.50mm
+1.00mm
+0.10mm
+Outline is Black. Fill is Cyan-31 (31% screen 45° angle)
+
+Description:
+
+Tower non-communication
+
+Component Ref #: P00141
+
+Color Token: Black
+
+Origin: Center of open circle
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Lineweight of open circle:
+Lineweight of stem or base:
+Lineweight (all or other):
+
+2.40mm
+1.00mm
+0.60mm
+0.10mm
+0.10mm
+0.15mm
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 30
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Tree other
+
+Component Ref #: P00030
+
+Color Token: Green362
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Lineweight (all or other):
+Grid square size:
+
+2.50mm
+1.65mm
+0.20mm
+0.20mm x 0.20mm
+
+Description:
+
+Tunnel entrance not water
+
+Component Ref #: P00073
+
+Color Token: Black
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Length of stem or segment:
+Lineweight (all or other):
+Angle between elements:
+Note:
+
+2.85mm
+0.65mm
+2.00mm
+0.20mm
+45°
+Tick length 0.60mm
+
+Description:
+
+Vanishing point disappearing
+
+Component Ref #: P00028
+
+Color Token: Cyan
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Diameter of solid circle:
+Diameter of open circle:
+Note:
+
+1.50mm
+1.50mm
+1.50mm
+0.50mm
+Open circle is offset 0.35mm from center of the 
+symbol
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 31
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Vanishing point dissipating
+
+Component Ref #: P00059
+
+Color Token: Cyan
+
+Origin: Apex of "V"
+
+Length of stem or segment:
+Lineweight (all or other):
+Angle between elements:
+Note:
+
+1.00mm
+0.20mm
+90°
+Apex is where the lines connect to form a "V".
+
+Description:
+
+Vertical obstruction
+
+Component Ref #: P00008
+
+Color Token: Blue072
+
+Origin: Center of solid circle
+
+Overall component height:
+Overall component width:
+Diameter of solid circle:
+Note:
+
+3.70mm
+2.85mm
+0.40mm
+Base leg end radius is 1.125mm. Tip radius is 0.25mm.
+
+Description:
+
+Vertical obstruction linear
+
+Component Ref #: P00113
+
+Color Token: Blue072
+
+Origin: Center of open circle
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Lineweight of open circle:
+Lineweight (all or other):
+Grid square size:
+Note:
+
+4.00mm
+4.16mm
+0.60mm
+0.10mm
+0.20mm
+0.20mm x 0.20mm
+Base leg end radius is 1.125mm. Tip radius is 0.25mm.
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 32
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Vertical obstruction multiple
+
+Component Ref #: P00101
+
+Color Token: Blue072
+
+Origin: Center of solid circle
+
+Overall component height:
+Overall component width:
+Diameter of solid circle:
+Grid square size:
+Note:
+
+3.70mm
+4.16mm
+0.50mm
+0.20mm x 0.20mm
+Base leg end radius is 1.125mm. Tip radius is 0.25mm.  
+Bottom arc radius is 1.85mm
+
+Description:
+
+Vertical obstruction pylon
+
+Component Ref #: P00292
+
+Color Token: Blue072
+
+Origin: Center of open circle
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Lineweight of open circle:
+Note:
+
+4.00mm
+2.85mm
+0.60mm
+0.10mm
+Base leg end radius is 1.125mm. Tip radius is 0.25mm.
+
+Description:
+
+Volcano
+
+Component Ref #: P00064
+
+Color Token: Dk-Brown1815
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Lineweight of open circle:
+Length of stem or segment:
+Lineweight (all or other):
+Angle between elements:
+
+3.0mm
+3.0mm
+1.0mm
+0.10mm
+1.0mm
+0.10mm
+45°
+
+MGCP Portrayal Standard, Annex H (v2.0)
+
+DRAFT
+
+H - 33
+
+DRAFT
+
+17 November 2014
+
+Description:
+
+Water aerodrome
+
+Component Ref #: P00257
+
+Color Token: Blue072
+
+Origin: Center of symbol
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Lineweight of open circle:
+Grid square size:
+
+5.0mm
+5.0mm
+5.0mm
+0.40mm
+0.20mm x 0.20mm
+
+Description:
+
+Water intake tower
+
+Component Ref #: P00148
+
+Color Token: Black
+
+Origin: Center of solid circle
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Lineweight of open circle:
+Lineweight of stem or base:
+Note:
+
+2.25mm
+1.25mm
+0.60mm
+0.10mm
+0.10mm
+Body tapers from 0.60mm to 0.80mm at the base
+
+Description:
+
+Water tower
+
+Component Ref #: P00142
+
+Color Token: Black/Cyan
+
+Origin: Center of open circle
+
+Overall component height:
+Overall component width:
+Diameter of open circle:
+Lineweight of open circle:
+Lineweight of stem or base:
+Lineweight (all or other):
+
+2.40mm
+1.00mm
+0.60mm
+0.10mm
+0.10mm
+0.10mm
+

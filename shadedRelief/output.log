@@ -1,0 +1,1753 @@
+(MainThread) Wed, 25 Feb 2015 22:55:36 +0000
+(MainThread) Input Location: /opt2/processing/srtm_version4/
+(MainThread) Output Location: /opt2/processing/srtm_version4/
+(MainThread) Wed, 25 Feb 2015 22:55:36 +0000
+(MainThread) Total tiffs found: 872
+(MainThread) Wed, 25 Feb 2015 22:55:36 +0000
+(MainThread) Using default azimuth of 315 and angle altitude of 45
+(MainThread) Wed, 25 Feb 2015 22:55:36 +0000
+(MainThread) Processing file: 1 of 872
+(MainThread) Wed, 25 Feb 2015 22:56:44 +0000
+(MainThread) Processing file: 2 of 872
+(MainThread) Wed, 25 Feb 2015 22:57:44 +0000
+(MainThread) Processing file: 3 of 872
+(MainThread) Wed, 25 Feb 2015 22:58:53 +0000
+(MainThread) Processing file: 4 of 872
+(MainThread) Wed, 25 Feb 2015 22:59:56 +0000
+(MainThread) Processing file: 5 of 872
+(MainThread) Wed, 25 Feb 2015 23:00:56 +0000
+(MainThread) Processing file: 6 of 872
+(MainThread) Wed, 25 Feb 2015 23:01:49 +0000
+(MainThread) Processing file: 7 of 872
+(MainThread) Wed, 25 Feb 2015 23:02:54 +0000
+(MainThread) Processing file: 8 of 872
+(MainThread) Wed, 25 Feb 2015 23:03:46 +0000
+(MainThread) Processing file: 9 of 872
+(MainThread) Wed, 25 Feb 2015 23:04:43 +0000
+(MainThread) Processing file: 10 of 872
+(MainThread) Wed, 25 Feb 2015 23:05:38 +0000
+(MainThread) Processing file: 11 of 872
+(MainThread) Wed, 25 Feb 2015 23:06:38 +0000
+(MainThread) Processing file: 12 of 872
+(MainThread) Wed, 25 Feb 2015 23:07:34 +0000
+(MainThread) Processing file: 13 of 872
+(MainThread) Wed, 25 Feb 2015 23:08:38 +0000
+(MainThread) Processing file: 14 of 872
+(MainThread) Wed, 25 Feb 2015 23:09:35 +0000
+(MainThread) Processing file: 15 of 872
+(MainThread) Wed, 25 Feb 2015 23:10:40 +0000
+(MainThread) Processing file: 16 of 872
+(MainThread) Wed, 25 Feb 2015 23:11:41 +0000
+(MainThread) Processing file: 17 of 872
+(MainThread) Wed, 25 Feb 2015 23:12:25 +0000
+(MainThread) Processing file: 18 of 872
+(MainThread) Wed, 25 Feb 2015 23:13:15 +0000
+(MainThread) Processing file: 19 of 872
+(MainThread) Wed, 25 Feb 2015 23:14:09 +0000
+(MainThread) Processing file: 20 of 872
+(MainThread) Wed, 25 Feb 2015 23:15:11 +0000
+(MainThread) Processing file: 21 of 872
+(MainThread) Wed, 25 Feb 2015 23:16:04 +0000
+(MainThread) Processing file: 22 of 872
+(MainThread) Wed, 25 Feb 2015 23:17:02 +0000
+(MainThread) Processing file: 23 of 872
+(MainThread) Wed, 25 Feb 2015 23:17:59 +0000
+(MainThread) Processing file: 24 of 872
+(MainThread) Wed, 25 Feb 2015 23:18:53 +0000
+(MainThread) Processing file: 25 of 872
+(MainThread) Wed, 25 Feb 2015 23:19:56 +0000
+(MainThread) Processing file: 26 of 872
+(MainThread) Wed, 25 Feb 2015 23:20:52 +0000
+(MainThread) Processing file: 27 of 872
+(MainThread) Wed, 25 Feb 2015 23:21:54 +0000
+(MainThread) Processing file: 28 of 872
+(MainThread) Wed, 25 Feb 2015 23:22:44 +0000
+(MainThread) Processing file: 29 of 872
+(MainThread) Wed, 25 Feb 2015 23:23:39 +0000
+(MainThread) Processing file: 30 of 872
+(MainThread) Wed, 25 Feb 2015 23:24:38 +0000
+(MainThread) Processing file: 31 of 872
+(MainThread) Wed, 25 Feb 2015 23:25:30 +0000
+(MainThread) Processing file: 32 of 872
+(MainThread) Wed, 25 Feb 2015 23:26:11 +0000
+(MainThread) Processing file: 33 of 872
+(MainThread) Wed, 25 Feb 2015 23:27:02 +0000
+(MainThread) Processing file: 34 of 872
+(MainThread) Wed, 25 Feb 2015 23:27:54 +0000
+(MainThread) Processing file: 35 of 872
+(MainThread) Wed, 25 Feb 2015 23:28:55 +0000
+(MainThread) Processing file: 36 of 872
+(MainThread) Wed, 25 Feb 2015 23:29:54 +0000
+(MainThread) Processing file: 37 of 872
+(MainThread) Wed, 25 Feb 2015 23:30:54 +0000
+(MainThread) Processing file: 38 of 872
+(MainThread) Wed, 25 Feb 2015 23:31:47 +0000
+(MainThread) Processing file: 39 of 872
+(MainThread) Wed, 25 Feb 2015 23:32:38 +0000
+(MainThread) Processing file: 40 of 872
+(MainThread) Wed, 25 Feb 2015 23:33:40 +0000
+(MainThread) Processing file: 41 of 872
+(MainThread) Wed, 25 Feb 2015 23:34:38 +0000
+(MainThread) Processing file: 42 of 872
+(MainThread) Wed, 25 Feb 2015 23:35:37 +0000
+(MainThread) Processing file: 43 of 872
+(MainThread) Wed, 25 Feb 2015 23:36:40 +0000
+(MainThread) Processing file: 44 of 872
+(MainThread) Wed, 25 Feb 2015 23:37:34 +0000
+(MainThread) Processing file: 45 of 872
+(MainThread) Wed, 25 Feb 2015 23:38:35 +0000
+(MainThread) Processing file: 46 of 872
+(MainThread) Wed, 25 Feb 2015 23:39:27 +0000
+(MainThread) Processing file: 47 of 872
+(MainThread) Wed, 25 Feb 2015 23:40:24 +0000
+(MainThread) Processing file: 48 of 872
+(MainThread) Wed, 25 Feb 2015 23:41:20 +0000
+(MainThread) Processing file: 49 of 872
+(MainThread) Wed, 25 Feb 2015 23:42:23 +0000
+(MainThread) Processing file: 50 of 872
+(MainThread) Wed, 25 Feb 2015 23:43:14 +0000
+(MainThread) Processing file: 51 of 872
+(MainThread) Wed, 25 Feb 2015 23:43:57 +0000
+(MainThread) Processing file: 52 of 872
+(MainThread) Wed, 25 Feb 2015 23:44:55 +0000
+(MainThread) Processing file: 53 of 872
+(MainThread) Wed, 25 Feb 2015 23:45:35 +0000
+(MainThread) Processing file: 54 of 872
+(MainThread) Wed, 25 Feb 2015 23:46:18 +0000
+(MainThread) Processing file: 55 of 872
+(MainThread) Wed, 25 Feb 2015 23:47:03 +0000
+(MainThread) Processing file: 56 of 872
+(MainThread) Wed, 25 Feb 2015 23:48:02 +0000
+(MainThread) Processing file: 57 of 872
+(MainThread) Wed, 25 Feb 2015 23:48:54 +0000
+(MainThread) Processing file: 58 of 872
+(MainThread) Wed, 25 Feb 2015 23:49:49 +0000
+(MainThread) Processing file: 59 of 872
+(MainThread) Wed, 25 Feb 2015 23:50:45 +0000
+(MainThread) Processing file: 60 of 872
+(MainThread) Wed, 25 Feb 2015 23:51:36 +0000
+(MainThread) Processing file: 61 of 872
+(MainThread) Wed, 25 Feb 2015 23:52:34 +0000
+(MainThread) Processing file: 62 of 872
+(MainThread) Wed, 25 Feb 2015 23:53:32 +0000
+(MainThread) Processing file: 63 of 872
+(MainThread) Wed, 25 Feb 2015 23:54:37 +0000
+(MainThread) Processing file: 64 of 872
+(MainThread) Wed, 25 Feb 2015 23:55:43 +0000
+(MainThread) Processing file: 65 of 872
+(MainThread) Wed, 25 Feb 2015 23:56:41 +0000
+(MainThread) Processing file: 66 of 872
+(MainThread) Wed, 25 Feb 2015 23:57:32 +0000
+(MainThread) Processing file: 67 of 872
+(MainThread) Wed, 25 Feb 2015 23:58:29 +0000
+(MainThread) Processing file: 68 of 872
+(MainThread) Wed, 25 Feb 2015 23:59:30 +0000
+(MainThread) Processing file: 69 of 872
+(MainThread) Thu, 26 Feb 2015 00:00:27 +0000
+(MainThread) Processing file: 70 of 872
+(MainThread) Thu, 26 Feb 2015 00:01:30 +0000
+(MainThread) Processing file: 71 of 872
+(MainThread) Thu, 26 Feb 2015 00:02:14 +0000
+(MainThread) Processing file: 72 of 872
+(MainThread) Thu, 26 Feb 2015 00:03:14 +0000
+(MainThread) Processing file: 73 of 872
+(MainThread) Thu, 26 Feb 2015 00:04:20 +0000
+(MainThread) Processing file: 74 of 872
+(MainThread) Thu, 26 Feb 2015 00:05:18 +0000
+(MainThread) Processing file: 75 of 872
+(MainThread) Thu, 26 Feb 2015 00:06:13 +0000
+(MainThread) Processing file: 76 of 872
+(MainThread) Thu, 26 Feb 2015 00:06:56 +0000
+(MainThread) Processing file: 77 of 872
+(MainThread) Thu, 26 Feb 2015 00:07:55 +0000
+(MainThread) Processing file: 78 of 872
+(MainThread) Thu, 26 Feb 2015 00:08:55 +0000
+(MainThread) Processing file: 79 of 872
+(MainThread) Thu, 26 Feb 2015 00:09:56 +0000
+(MainThread) Processing file: 80 of 872
+(MainThread) Thu, 26 Feb 2015 00:10:54 +0000
+(MainThread) Processing file: 81 of 872
+(MainThread) Thu, 26 Feb 2015 00:11:53 +0000
+(MainThread) Processing file: 82 of 872
+(MainThread) Thu, 26 Feb 2015 00:12:35 +0000
+(MainThread) Processing file: 83 of 872
+(MainThread) Thu, 26 Feb 2015 00:13:36 +0000
+(MainThread) Processing file: 84 of 872
+(MainThread) Thu, 26 Feb 2015 00:14:31 +0000
+(MainThread) Processing file: 85 of 872
+(MainThread) Thu, 26 Feb 2015 00:15:32 +0000
+(MainThread) Processing file: 86 of 872
+(MainThread) Thu, 26 Feb 2015 00:16:33 +0000
+(MainThread) Processing file: 87 of 872
+(MainThread) Thu, 26 Feb 2015 00:17:16 +0000
+(MainThread) Processing file: 88 of 872
+(MainThread) Thu, 26 Feb 2015 00:17:58 +0000
+(MainThread) Processing file: 89 of 872
+(MainThread) Thu, 26 Feb 2015 00:18:47 +0000
+(MainThread) Processing file: 90 of 872
+(MainThread) Thu, 26 Feb 2015 00:19:40 +0000
+(MainThread) Processing file: 91 of 872
+(MainThread) Thu, 26 Feb 2015 00:20:36 +0000
+(MainThread) Processing file: 92 of 872
+(MainThread) Thu, 26 Feb 2015 00:21:26 +0000
+(MainThread) Processing file: 93 of 872
+(MainThread) Thu, 26 Feb 2015 00:22:24 +0000
+(MainThread) Processing file: 94 of 872
+(MainThread) Thu, 26 Feb 2015 00:23:23 +0000
+(MainThread) Processing file: 95 of 872
+(MainThread) Thu, 26 Feb 2015 00:24:14 +0000
+(MainThread) Processing file: 96 of 872
+(MainThread) Thu, 26 Feb 2015 00:25:11 +0000
+(MainThread) Processing file: 97 of 872
+(MainThread) Thu, 26 Feb 2015 00:26:17 +0000
+(MainThread) Processing file: 98 of 872
+(MainThread) Thu, 26 Feb 2015 00:27:16 +0000
+(MainThread) Processing file: 99 of 872
+(MainThread) Thu, 26 Feb 2015 00:28:23 +0000
+(MainThread) Processing file: 100 of 872
+(MainThread) Thu, 26 Feb 2015 00:29:10 +0000
+(MainThread) Processing file: 101 of 872
+(MainThread) Thu, 26 Feb 2015 00:30:12 +0000
+(MainThread) Processing file: 102 of 872
+(MainThread) Thu, 26 Feb 2015 00:31:04 +0000
+(MainThread) Processing file: 103 of 872
+(MainThread) Thu, 26 Feb 2015 00:31:47 +0000
+(MainThread) Processing file: 104 of 872
+(MainThread) Thu, 26 Feb 2015 00:32:48 +0000
+(MainThread) Processing file: 105 of 872
+(MainThread) Thu, 26 Feb 2015 00:33:45 +0000
+(MainThread) Processing file: 106 of 872
+(MainThread) Thu, 26 Feb 2015 00:34:44 +0000
+(MainThread) Processing file: 107 of 872
+(MainThread) Thu, 26 Feb 2015 00:35:26 +0000
+(MainThread) Processing file: 108 of 872
+(MainThread) Thu, 26 Feb 2015 00:36:23 +0000
+(MainThread) Processing file: 109 of 872
+(MainThread) Thu, 26 Feb 2015 00:37:16 +0000
+(MainThread) Processing file: 110 of 872
+(MainThread) Thu, 26 Feb 2015 00:38:07 +0000
+(MainThread) Processing file: 111 of 872
+(MainThread) Thu, 26 Feb 2015 00:39:13 +0000
+(MainThread) Processing file: 112 of 872
+(MainThread) Thu, 26 Feb 2015 00:40:08 +0000
+(MainThread) Processing file: 113 of 872
+(MainThread) Thu, 26 Feb 2015 00:41:07 +0000
+(MainThread) Processing file: 114 of 872
+(MainThread) Thu, 26 Feb 2015 00:41:55 +0000
+(MainThread) Processing file: 115 of 872
+(MainThread) Thu, 26 Feb 2015 00:42:55 +0000
+(MainThread) Processing file: 116 of 872
+(MainThread) Thu, 26 Feb 2015 00:43:56 +0000
+(MainThread) Processing file: 117 of 872
+(MainThread) Thu, 26 Feb 2015 00:44:42 +0000
+(MainThread) Processing file: 118 of 872
+(MainThread) Thu, 26 Feb 2015 00:45:36 +0000
+(MainThread) Processing file: 119 of 872
+(MainThread) Thu, 26 Feb 2015 00:46:18 +0000
+(MainThread) Processing file: 120 of 872
+(MainThread) Thu, 26 Feb 2015 00:47:25 +0000
+(MainThread) Processing file: 121 of 872
+(MainThread) Thu, 26 Feb 2015 00:48:08 +0000
+(MainThread) Processing file: 122 of 872
+(MainThread) Thu, 26 Feb 2015 00:49:03 +0000
+(MainThread) Processing file: 123 of 872
+(MainThread) Thu, 26 Feb 2015 00:50:00 +0000
+(MainThread) Processing file: 124 of 872
+(MainThread) Thu, 26 Feb 2015 00:50:44 +0000
+(MainThread) Processing file: 125 of 872
+(MainThread) Thu, 26 Feb 2015 00:51:45 +0000
+(MainThread) Processing file: 126 of 872
+(MainThread) Thu, 26 Feb 2015 00:52:43 +0000
+(MainThread) Processing file: 127 of 872
+(MainThread) Thu, 26 Feb 2015 00:53:34 +0000
+(MainThread) Processing file: 128 of 872
+(MainThread) Thu, 26 Feb 2015 00:54:35 +0000
+(MainThread) Processing file: 129 of 872
+(MainThread) Thu, 26 Feb 2015 00:55:26 +0000
+(MainThread) Processing file: 130 of 872
+(MainThread) Thu, 26 Feb 2015 00:56:21 +0000
+(MainThread) Processing file: 131 of 872
+(MainThread) Thu, 26 Feb 2015 00:57:09 +0000
+(MainThread) Processing file: 132 of 872
+(MainThread) Thu, 26 Feb 2015 00:58:04 +0000
+(MainThread) Processing file: 133 of 872
+(MainThread) Thu, 26 Feb 2015 00:58:51 +0000
+(MainThread) Processing file: 134 of 872
+(MainThread) Thu, 26 Feb 2015 00:59:53 +0000
+(MainThread) Processing file: 135 of 872
+(MainThread) Thu, 26 Feb 2015 01:00:38 +0000
+(MainThread) Processing file: 136 of 872
+(MainThread) Thu, 26 Feb 2015 01:01:30 +0000
+(MainThread) Processing file: 137 of 872
+(MainThread) Thu, 26 Feb 2015 01:02:30 +0000
+(MainThread) Processing file: 138 of 872
+(MainThread) Thu, 26 Feb 2015 01:03:38 +0000
+(MainThread) Processing file: 139 of 872
+(MainThread) Thu, 26 Feb 2015 01:04:25 +0000
+(MainThread) Processing file: 140 of 872
+(MainThread) Thu, 26 Feb 2015 01:05:20 +0000
+(MainThread) Processing file: 141 of 872
+(MainThread) Thu, 26 Feb 2015 01:06:01 +0000
+(MainThread) Processing file: 142 of 872
+(MainThread) Thu, 26 Feb 2015 01:06:51 +0000
+(MainThread) Processing file: 143 of 872
+(MainThread) Thu, 26 Feb 2015 01:07:47 +0000
+(MainThread) Processing file: 144 of 872
+(MainThread) Thu, 26 Feb 2015 01:08:38 +0000
+(MainThread) Processing file: 145 of 872
+(MainThread) Thu, 26 Feb 2015 01:09:35 +0000
+(MainThread) Processing file: 146 of 872
+(MainThread) Thu, 26 Feb 2015 01:10:30 +0000
+(MainThread) Processing file: 147 of 872
+(MainThread) Thu, 26 Feb 2015 01:11:21 +0000
+(MainThread) Processing file: 148 of 872
+(MainThread) Thu, 26 Feb 2015 01:12:17 +0000
+(MainThread) Processing file: 149 of 872
+(MainThread) Thu, 26 Feb 2015 01:13:13 +0000
+(MainThread) Processing file: 150 of 872
+(MainThread) Thu, 26 Feb 2015 01:14:06 +0000
+(MainThread) Processing file: 151 of 872
+(MainThread) Thu, 26 Feb 2015 01:14:50 +0000
+(MainThread) Processing file: 152 of 872
+(MainThread) Thu, 26 Feb 2015 01:15:53 +0000
+(MainThread) Processing file: 153 of 872
+(MainThread) Thu, 26 Feb 2015 01:16:52 +0000
+(MainThread) Processing file: 154 of 872
+(MainThread) Thu, 26 Feb 2015 01:17:55 +0000
+(MainThread) Processing file: 155 of 872
+(MainThread) Thu, 26 Feb 2015 01:18:42 +0000
+(MainThread) Processing file: 156 of 872
+(MainThread) Thu, 26 Feb 2015 01:19:34 +0000
+(MainThread) Processing file: 157 of 872
+(MainThread) Thu, 26 Feb 2015 01:20:23 +0000
+(MainThread) Processing file: 158 of 872
+(MainThread) Thu, 26 Feb 2015 01:21:15 +0000
+(MainThread) Processing file: 159 of 872
+(MainThread) Thu, 26 Feb 2015 01:22:07 +0000
+(MainThread) Processing file: 160 of 872
+(MainThread) Thu, 26 Feb 2015 01:22:59 +0000
+(MainThread) Processing file: 161 of 872
+(MainThread) Thu, 26 Feb 2015 01:23:56 +0000
+(MainThread) Processing file: 162 of 872
+(MainThread) Thu, 26 Feb 2015 01:24:44 +0000
+(MainThread) Processing file: 163 of 872
+(MainThread) Thu, 26 Feb 2015 01:25:38 +0000
+(MainThread) Processing file: 164 of 872
+(MainThread) Thu, 26 Feb 2015 01:26:34 +0000
+(MainThread) Processing file: 165 of 872
+(MainThread) Thu, 26 Feb 2015 01:27:16 +0000
+(MainThread) Processing file: 166 of 872
+(MainThread) Thu, 26 Feb 2015 01:28:04 +0000
+(MainThread) Processing file: 167 of 872
+(MainThread) Thu, 26 Feb 2015 01:29:09 +0000
+(MainThread) Processing file: 168 of 872
+(MainThread) Thu, 26 Feb 2015 01:29:59 +0000
+(MainThread) Processing file: 169 of 872
+(MainThread) Thu, 26 Feb 2015 01:30:54 +0000
+(MainThread) Processing file: 170 of 872
+(MainThread) Thu, 26 Feb 2015 01:31:48 +0000
+(MainThread) Processing file: 171 of 872
+(MainThread) Thu, 26 Feb 2015 01:32:45 +0000
+(MainThread) Processing file: 172 of 872
+(MainThread) Thu, 26 Feb 2015 01:33:50 +0000
+(MainThread) Processing file: 173 of 872
+(MainThread) Thu, 26 Feb 2015 01:34:46 +0000
+(MainThread) Processing file: 174 of 872
+(MainThread) Thu, 26 Feb 2015 01:35:32 +0000
+(MainThread) Processing file: 175 of 872
+(MainThread) Thu, 26 Feb 2015 01:36:25 +0000
+(MainThread) Processing file: 176 of 872
+(MainThread) Thu, 26 Feb 2015 01:37:07 +0000
+(MainThread) Processing file: 177 of 872
+(MainThread) Thu, 26 Feb 2015 01:37:50 +0000
+(MainThread) Processing file: 178 of 872
+(MainThread) Thu, 26 Feb 2015 01:38:53 +0000
+(MainThread) Processing file: 179 of 872
+(MainThread) Thu, 26 Feb 2015 01:39:48 +0000
+(MainThread) Processing file: 180 of 872
+(MainThread) Thu, 26 Feb 2015 01:40:39 +0000
+(MainThread) Processing file: 181 of 872
+(MainThread) Thu, 26 Feb 2015 01:41:36 +0000
+(MainThread) Processing file: 182 of 872
+(MainThread) Thu, 26 Feb 2015 01:42:29 +0000
+(MainThread) Processing file: 183 of 872
+(MainThread) Thu, 26 Feb 2015 01:43:30 +0000
+(MainThread) Processing file: 184 of 872
+(MainThread) Thu, 26 Feb 2015 01:44:31 +0000
+(MainThread) Processing file: 185 of 872
+(MainThread) Thu, 26 Feb 2015 01:45:25 +0000
+(MainThread) Processing file: 186 of 872
+(MainThread) Thu, 26 Feb 2015 01:46:20 +0000
+(MainThread) Processing file: 187 of 872
+(MainThread) Thu, 26 Feb 2015 01:47:16 +0000
+(MainThread) Processing file: 188 of 872
+(MainThread) Thu, 26 Feb 2015 01:48:11 +0000
+(MainThread) Processing file: 189 of 872
+(MainThread) Thu, 26 Feb 2015 01:49:07 +0000
+(MainThread) Processing file: 190 of 872
+(MainThread) Thu, 26 Feb 2015 01:49:57 +0000
+(MainThread) Processing file: 191 of 872
+(MainThread) Thu, 26 Feb 2015 01:50:49 +0000
+(MainThread) Processing file: 192 of 872
+(MainThread) Thu, 26 Feb 2015 01:51:46 +0000
+(MainThread) Processing file: 193 of 872
+(MainThread) Thu, 26 Feb 2015 01:52:34 +0000
+(MainThread) Processing file: 194 of 872
+(MainThread) Thu, 26 Feb 2015 01:53:17 +0000
+(MainThread) Processing file: 195 of 872
+(MainThread) Thu, 26 Feb 2015 01:54:16 +0000
+(MainThread) Processing file: 196 of 872
+(MainThread) Thu, 26 Feb 2015 01:55:07 +0000
+(MainThread) Processing file: 197 of 872
+(MainThread) Thu, 26 Feb 2015 01:55:53 +0000
+(MainThread) Processing file: 198 of 872
+(MainThread) Thu, 26 Feb 2015 01:56:46 +0000
+(MainThread) Processing file: 199 of 872
+(MainThread) Thu, 26 Feb 2015 01:57:45 +0000
+(MainThread) Processing file: 200 of 872
+(MainThread) Thu, 26 Feb 2015 01:58:27 +0000
+(MainThread) Processing file: 201 of 872
+(MainThread) Thu, 26 Feb 2015 01:59:14 +0000
+(MainThread) Processing file: 202 of 872
+(MainThread) Thu, 26 Feb 2015 02:00:07 +0000
+(MainThread) Processing file: 203 of 872
+(MainThread) Thu, 26 Feb 2015 02:00:57 +0000
+(MainThread) Processing file: 204 of 872
+(MainThread) Thu, 26 Feb 2015 02:01:46 +0000
+(MainThread) Processing file: 205 of 872
+(MainThread) Thu, 26 Feb 2015 02:02:36 +0000
+(MainThread) Processing file: 206 of 872
+(MainThread) Thu, 26 Feb 2015 02:03:17 +0000
+(MainThread) Processing file: 207 of 872
+(MainThread) Thu, 26 Feb 2015 02:04:17 +0000
+(MainThread) Processing file: 208 of 872
+(MainThread) Thu, 26 Feb 2015 02:04:58 +0000
+(MainThread) Processing file: 209 of 872
+(MainThread) Thu, 26 Feb 2015 02:05:56 +0000
+(MainThread) Processing file: 210 of 872
+(MainThread) Thu, 26 Feb 2015 02:06:37 +0000
+(MainThread) Processing file: 211 of 872
+(MainThread) Thu, 26 Feb 2015 02:07:37 +0000
+(MainThread) Processing file: 212 of 872
+(MainThread) Thu, 26 Feb 2015 02:08:30 +0000
+(MainThread) Processing file: 213 of 872
+(MainThread) Thu, 26 Feb 2015 02:09:36 +0000
+(MainThread) Processing file: 214 of 872
+(MainThread) Thu, 26 Feb 2015 02:10:44 +0000
+(MainThread) Processing file: 215 of 872
+(MainThread) Thu, 26 Feb 2015 02:11:46 +0000
+(MainThread) Processing file: 216 of 872
+(MainThread) Thu, 26 Feb 2015 02:12:39 +0000
+(MainThread) Processing file: 217 of 872
+(MainThread) Thu, 26 Feb 2015 02:13:31 +0000
+(MainThread) Processing file: 218 of 872
+(MainThread) Thu, 26 Feb 2015 02:14:31 +0000
+(MainThread) Processing file: 219 of 872
+(MainThread) Thu, 26 Feb 2015 02:15:28 +0000
+(MainThread) Processing file: 220 of 872
+(MainThread) Thu, 26 Feb 2015 02:16:08 +0000
+(MainThread) Processing file: 221 of 872
+(MainThread) Thu, 26 Feb 2015 02:17:01 +0000
+(MainThread) Processing file: 222 of 872
+(MainThread) Thu, 26 Feb 2015 02:17:43 +0000
+(MainThread) Processing file: 223 of 872
+(MainThread) Thu, 26 Feb 2015 02:18:43 +0000
+(MainThread) Processing file: 224 of 872
+(MainThread) Thu, 26 Feb 2015 02:19:42 +0000
+(MainThread) Processing file: 225 of 872
+(MainThread) Thu, 26 Feb 2015 02:20:40 +0000
+(MainThread) Processing file: 226 of 872
+(MainThread) Thu, 26 Feb 2015 02:21:46 +0000
+(MainThread) Processing file: 227 of 872
+(MainThread) Thu, 26 Feb 2015 02:22:35 +0000
+(MainThread) Processing file: 228 of 872
+(MainThread) Thu, 26 Feb 2015 02:23:40 +0000
+(MainThread) Processing file: 229 of 872
+(MainThread) Thu, 26 Feb 2015 02:24:48 +0000
+(MainThread) Processing file: 230 of 872
+(MainThread) Thu, 26 Feb 2015 02:25:53 +0000
+(MainThread) Processing file: 231 of 872
+(MainThread) Thu, 26 Feb 2015 02:26:36 +0000
+(MainThread) Processing file: 232 of 872
+(MainThread) Thu, 26 Feb 2015 02:27:39 +0000
+(MainThread) Processing file: 233 of 872
+(MainThread) Thu, 26 Feb 2015 02:28:27 +0000
+(MainThread) Processing file: 234 of 872
+(MainThread) Thu, 26 Feb 2015 02:29:20 +0000
+(MainThread) Processing file: 235 of 872
+(MainThread) Thu, 26 Feb 2015 02:30:16 +0000
+(MainThread) Processing file: 236 of 872
+(MainThread) Thu, 26 Feb 2015 02:31:12 +0000
+(MainThread) Processing file: 237 of 872
+(MainThread) Thu, 26 Feb 2015 02:31:59 +0000
+(MainThread) Processing file: 238 of 872
+(MainThread) Thu, 26 Feb 2015 02:33:00 +0000
+(MainThread) Processing file: 239 of 872
+(MainThread) Thu, 26 Feb 2015 02:34:00 +0000
+(MainThread) Processing file: 240 of 872
+(MainThread) Thu, 26 Feb 2015 02:34:44 +0000
+(MainThread) Processing file: 241 of 872
+(MainThread) Thu, 26 Feb 2015 02:35:45 +0000
+(MainThread) Processing file: 242 of 872
+(MainThread) Thu, 26 Feb 2015 02:36:39 +0000
+(MainThread) Processing file: 243 of 872
+(MainThread) Thu, 26 Feb 2015 02:37:31 +0000
+(MainThread) Processing file: 244 of 872
+(MainThread) Thu, 26 Feb 2015 02:38:20 +0000
+(MainThread) Processing file: 245 of 872
+(MainThread) Thu, 26 Feb 2015 02:39:13 +0000
+(MainThread) Processing file: 246 of 872
+(MainThread) Thu, 26 Feb 2015 02:39:59 +0000
+(MainThread) Processing file: 247 of 872
+(MainThread) Thu, 26 Feb 2015 02:40:39 +0000
+(MainThread) Processing file: 248 of 872
+(MainThread) Thu, 26 Feb 2015 02:41:38 +0000
+(MainThread) Processing file: 249 of 872
+(MainThread) Thu, 26 Feb 2015 02:42:41 +0000
+(MainThread) Processing file: 250 of 872
+(MainThread) Thu, 26 Feb 2015 02:43:31 +0000
+(MainThread) Processing file: 251 of 872
+(MainThread) Thu, 26 Feb 2015 02:44:24 +0000
+(MainThread) Processing file: 252 of 872
+(MainThread) Thu, 26 Feb 2015 02:45:21 +0000
+(MainThread) Processing file: 253 of 872
+(MainThread) Thu, 26 Feb 2015 02:46:11 +0000
+(MainThread) Processing file: 254 of 872
+(MainThread) Thu, 26 Feb 2015 02:46:59 +0000
+(MainThread) Processing file: 255 of 872
+(MainThread) Thu, 26 Feb 2015 02:47:56 +0000
+(MainThread) Processing file: 256 of 872
+(MainThread) Thu, 26 Feb 2015 02:48:45 +0000
+(MainThread) Processing file: 257 of 872
+(MainThread) Thu, 26 Feb 2015 02:49:41 +0000
+(MainThread) Processing file: 258 of 872
+(MainThread) Thu, 26 Feb 2015 02:50:26 +0000
+(MainThread) Processing file: 259 of 872
+(MainThread) Thu, 26 Feb 2015 02:51:24 +0000
+(MainThread) Processing file: 260 of 872
+(MainThread) Thu, 26 Feb 2015 02:52:08 +0000
+(MainThread) Processing file: 261 of 872
+(MainThread) Thu, 26 Feb 2015 02:52:53 +0000
+(MainThread) Processing file: 262 of 872
+(MainThread) Thu, 26 Feb 2015 02:53:46 +0000
+(MainThread) Processing file: 263 of 872
+(MainThread) Thu, 26 Feb 2015 02:54:39 +0000
+(MainThread) Processing file: 264 of 872
+(MainThread) Thu, 26 Feb 2015 02:55:39 +0000
+(MainThread) Processing file: 265 of 872
+(MainThread) Thu, 26 Feb 2015 02:56:23 +0000
+(MainThread) Processing file: 266 of 872
+(MainThread) Thu, 26 Feb 2015 02:57:27 +0000
+(MainThread) Processing file: 267 of 872
+(MainThread) Thu, 26 Feb 2015 02:58:12 +0000
+(MainThread) Processing file: 268 of 872
+(MainThread) Thu, 26 Feb 2015 02:59:05 +0000
+(MainThread) Processing file: 269 of 872
+(MainThread) Thu, 26 Feb 2015 03:00:02 +0000
+(MainThread) Processing file: 270 of 872
+(MainThread) Thu, 26 Feb 2015 03:01:03 +0000
+(MainThread) Processing file: 271 of 872
+(MainThread) Thu, 26 Feb 2015 03:01:56 +0000
+(MainThread) Processing file: 272 of 872
+(MainThread) Thu, 26 Feb 2015 03:02:46 +0000
+(MainThread) Processing file: 273 of 872
+(MainThread) Thu, 26 Feb 2015 03:03:52 +0000
+(MainThread) Processing file: 274 of 872
+(MainThread) Thu, 26 Feb 2015 03:04:50 +0000
+(MainThread) Processing file: 275 of 872
+(MainThread) Thu, 26 Feb 2015 03:05:48 +0000
+(MainThread) Processing file: 276 of 872
+(MainThread) Thu, 26 Feb 2015 03:06:45 +0000
+(MainThread) Processing file: 277 of 872
+(MainThread) Thu, 26 Feb 2015 03:07:45 +0000
+(MainThread) Processing file: 278 of 872
+(MainThread) Thu, 26 Feb 2015 03:08:46 +0000
+(MainThread) Processing file: 279 of 872
+(MainThread) Thu, 26 Feb 2015 03:09:42 +0000
+(MainThread) Processing file: 280 of 872
+(MainThread) Thu, 26 Feb 2015 03:10:34 +0000
+(MainThread) Processing file: 281 of 872
+(MainThread) Thu, 26 Feb 2015 03:11:35 +0000
+(MainThread) Processing file: 282 of 872
+(MainThread) Thu, 26 Feb 2015 03:12:18 +0000
+(MainThread) Processing file: 283 of 872
+(MainThread) Thu, 26 Feb 2015 03:13:21 +0000
+(MainThread) Processing file: 284 of 872
+(MainThread) Thu, 26 Feb 2015 03:14:13 +0000
+(MainThread) Processing file: 285 of 872
+(MainThread) Thu, 26 Feb 2015 03:14:59 +0000
+(MainThread) Processing file: 286 of 872
+(MainThread) Thu, 26 Feb 2015 03:15:40 +0000
+(MainThread) Processing file: 287 of 872
+(MainThread) Thu, 26 Feb 2015 03:16:24 +0000
+(MainThread) Processing file: 288 of 872
+(MainThread) Thu, 26 Feb 2015 03:17:07 +0000
+(MainThread) Processing file: 289 of 872
+(MainThread) Thu, 26 Feb 2015 03:17:54 +0000
+(MainThread) Processing file: 290 of 872
+(MainThread) Thu, 26 Feb 2015 03:18:51 +0000
+(MainThread) Processing file: 291 of 872
+(MainThread) Thu, 26 Feb 2015 03:19:54 +0000
+(MainThread) Processing file: 292 of 872
+(MainThread) Thu, 26 Feb 2015 03:20:52 +0000
+(MainThread) Processing file: 293 of 872
+(MainThread) Thu, 26 Feb 2015 03:21:37 +0000
+(MainThread) Processing file: 294 of 872
+(MainThread) Thu, 26 Feb 2015 03:22:26 +0000
+(MainThread) Processing file: 295 of 872
+(MainThread) Thu, 26 Feb 2015 03:23:14 +0000
+(MainThread) Processing file: 296 of 872
+(MainThread) Thu, 26 Feb 2015 03:23:59 +0000
+(MainThread) Processing file: 297 of 872
+(MainThread) Thu, 26 Feb 2015 03:24:47 +0000
+(MainThread) Processing file: 298 of 872
+(MainThread) Thu, 26 Feb 2015 03:25:49 +0000
+(MainThread) Processing file: 299 of 872
+(MainThread) Thu, 26 Feb 2015 03:26:41 +0000
+(MainThread) Processing file: 300 of 872
+(MainThread) Thu, 26 Feb 2015 03:27:43 +0000
+(MainThread) Processing file: 301 of 872
+(MainThread) Thu, 26 Feb 2015 03:28:27 +0000
+(MainThread) Processing file: 302 of 872
+(MainThread) Thu, 26 Feb 2015 03:29:26 +0000
+(MainThread) Processing file: 303 of 872
+(MainThread) Thu, 26 Feb 2015 03:30:19 +0000
+(MainThread) Processing file: 304 of 872
+(MainThread) Thu, 26 Feb 2015 03:31:18 +0000
+(MainThread) Processing file: 305 of 872
+(MainThread) Thu, 26 Feb 2015 03:32:19 +0000
+(MainThread) Processing file: 306 of 872
+(MainThread) Thu, 26 Feb 2015 03:33:08 +0000
+(MainThread) Processing file: 307 of 872
+(MainThread) Thu, 26 Feb 2015 03:34:13 +0000
+(MainThread) Processing file: 308 of 872
+(MainThread) Thu, 26 Feb 2015 03:35:08 +0000
+(MainThread) Processing file: 309 of 872
+(MainThread) Thu, 26 Feb 2015 03:36:00 +0000
+(MainThread) Processing file: 310 of 872
+(MainThread) Thu, 26 Feb 2015 03:36:50 +0000
+(MainThread) Processing file: 311 of 872
+(MainThread) Thu, 26 Feb 2015 03:37:50 +0000
+(MainThread) Processing file: 312 of 872
+(MainThread) Thu, 26 Feb 2015 03:38:52 +0000
+(MainThread) Processing file: 313 of 872
+(MainThread) Thu, 26 Feb 2015 03:39:45 +0000
+(MainThread) Processing file: 314 of 872
+(MainThread) Thu, 26 Feb 2015 03:40:46 +0000
+(MainThread) Processing file: 315 of 872
+(MainThread) Thu, 26 Feb 2015 03:41:27 +0000
+(MainThread) Processing file: 316 of 872
+(MainThread) Thu, 26 Feb 2015 03:42:28 +0000
+(MainThread) Processing file: 317 of 872
+(MainThread) Thu, 26 Feb 2015 03:43:07 +0000
+(MainThread) Processing file: 318 of 872
+(MainThread) Thu, 26 Feb 2015 03:43:50 +0000
+(MainThread) Processing file: 319 of 872
+(MainThread) Thu, 26 Feb 2015 03:44:50 +0000
+(MainThread) Processing file: 320 of 872
+(MainThread) Thu, 26 Feb 2015 03:45:38 +0000
+(MainThread) Processing file: 321 of 872
+(MainThread) Thu, 26 Feb 2015 03:46:29 +0000
+(MainThread) Processing file: 322 of 872
+(MainThread) Thu, 26 Feb 2015 03:47:18 +0000
+(MainThread) Processing file: 323 of 872
+(MainThread) Thu, 26 Feb 2015 03:48:16 +0000
+(MainThread) Processing file: 324 of 872
+(MainThread) Thu, 26 Feb 2015 03:49:06 +0000
+(MainThread) Processing file: 325 of 872
+(MainThread) Thu, 26 Feb 2015 03:50:02 +0000
+(MainThread) Processing file: 326 of 872
+(MainThread) Thu, 26 Feb 2015 03:50:53 +0000
+(MainThread) Processing file: 327 of 872
+(MainThread) Thu, 26 Feb 2015 03:51:57 +0000
+(MainThread) Processing file: 328 of 872
+(MainThread) Thu, 26 Feb 2015 03:52:52 +0000
+(MainThread) Processing file: 329 of 872
+(MainThread) Thu, 26 Feb 2015 03:53:48 +0000
+(MainThread) Processing file: 330 of 872
+(MainThread) Thu, 26 Feb 2015 03:54:41 +0000
+(MainThread) Processing file: 331 of 872
+(MainThread) Thu, 26 Feb 2015 03:55:34 +0000
+(MainThread) Processing file: 332 of 872
+(MainThread) Thu, 26 Feb 2015 03:56:34 +0000
+(MainThread) Processing file: 333 of 872
+(MainThread) Thu, 26 Feb 2015 03:57:25 +0000
+(MainThread) Processing file: 334 of 872
+(MainThread) Thu, 26 Feb 2015 03:58:05 +0000
+(MainThread) Processing file: 335 of 872
+(MainThread) Thu, 26 Feb 2015 03:58:56 +0000
+(MainThread) Processing file: 336 of 872
+(MainThread) Thu, 26 Feb 2015 03:59:51 +0000
+(MainThread) Processing file: 337 of 872
+(MainThread) Thu, 26 Feb 2015 04:00:42 +0000
+(MainThread) Processing file: 338 of 872
+(MainThread) Thu, 26 Feb 2015 04:01:39 +0000
+(MainThread) Processing file: 339 of 872
+(MainThread) Thu, 26 Feb 2015 04:02:38 +0000
+(MainThread) Processing file: 340 of 872
+(MainThread) Thu, 26 Feb 2015 04:03:19 +0000
+(MainThread) Processing file: 341 of 872
+(MainThread) Thu, 26 Feb 2015 04:04:09 +0000
+(MainThread) Processing file: 342 of 872
+(MainThread) Thu, 26 Feb 2015 04:04:57 +0000
+(MainThread) Processing file: 343 of 872
+(MainThread) Thu, 26 Feb 2015 04:05:53 +0000
+(MainThread) Processing file: 344 of 872
+(MainThread) Thu, 26 Feb 2015 04:06:42 +0000
+(MainThread) Processing file: 345 of 872
+(MainThread) Thu, 26 Feb 2015 04:07:30 +0000
+(MainThread) Processing file: 346 of 872
+(MainThread) Thu, 26 Feb 2015 04:08:20 +0000
+(MainThread) Processing file: 347 of 872
+(MainThread) Thu, 26 Feb 2015 04:09:14 +0000
+(MainThread) Processing file: 348 of 872
+(MainThread) Thu, 26 Feb 2015 04:10:00 +0000
+(MainThread) Processing file: 349 of 872
+(MainThread) Thu, 26 Feb 2015 04:10:55 +0000
+(MainThread) Processing file: 350 of 872
+(MainThread) Thu, 26 Feb 2015 04:11:44 +0000
+(MainThread) Processing file: 351 of 872
+(MainThread) Thu, 26 Feb 2015 04:12:47 +0000
+(MainThread) Processing file: 352 of 872
+(MainThread) Thu, 26 Feb 2015 04:13:45 +0000
+(MainThread) Processing file: 353 of 872
+(MainThread) Thu, 26 Feb 2015 04:14:42 +0000
+(MainThread) Processing file: 354 of 872
+(MainThread) Thu, 26 Feb 2015 04:15:30 +0000
+(MainThread) Processing file: 355 of 872
+(MainThread) Thu, 26 Feb 2015 04:16:25 +0000
+(MainThread) Processing file: 356 of 872
+(MainThread) Thu, 26 Feb 2015 04:17:21 +0000
+(MainThread) Processing file: 357 of 872
+(MainThread) Thu, 26 Feb 2015 04:18:14 +0000
+(MainThread) Processing file: 358 of 872
+(MainThread) Thu, 26 Feb 2015 04:19:11 +0000
+(MainThread) Processing file: 359 of 872
+(MainThread) Thu, 26 Feb 2015 04:19:55 +0000
+(MainThread) Processing file: 360 of 872
+(MainThread) Thu, 26 Feb 2015 04:20:35 +0000
+(MainThread) Processing file: 361 of 872
+(MainThread) Thu, 26 Feb 2015 04:21:21 +0000
+(MainThread) Processing file: 362 of 872
+(MainThread) Thu, 26 Feb 2015 04:22:06 +0000
+(MainThread) Processing file: 363 of 872
+(MainThread) Thu, 26 Feb 2015 04:22:50 +0000
+(MainThread) Processing file: 364 of 872
+(MainThread) Thu, 26 Feb 2015 04:23:43 +0000
+(MainThread) Processing file: 365 of 872
+(MainThread) Thu, 26 Feb 2015 04:24:29 +0000
+(MainThread) Processing file: 366 of 872
+(MainThread) Thu, 26 Feb 2015 04:25:21 +0000
+(MainThread) Processing file: 367 of 872
+(MainThread) Thu, 26 Feb 2015 04:26:18 +0000
+(MainThread) Processing file: 368 of 872
+(MainThread) Thu, 26 Feb 2015 04:26:57 +0000
+(MainThread) Processing file: 369 of 872
+(MainThread) Thu, 26 Feb 2015 04:27:52 +0000
+(MainThread) Processing file: 370 of 872
+(MainThread) Thu, 26 Feb 2015 04:28:38 +0000
+(MainThread) Processing file: 371 of 872
+(MainThread) Thu, 26 Feb 2015 04:29:42 +0000
+(MainThread) Processing file: 372 of 872
+(MainThread) Thu, 26 Feb 2015 04:30:23 +0000
+(MainThread) Processing file: 373 of 872
+(MainThread) Thu, 26 Feb 2015 04:31:23 +0000
+(MainThread) Processing file: 374 of 872
+(MainThread) Thu, 26 Feb 2015 04:32:20 +0000
+(MainThread) Processing file: 375 of 872
+(MainThread) Thu, 26 Feb 2015 04:33:14 +0000
+(MainThread) Processing file: 376 of 872
+(MainThread) Thu, 26 Feb 2015 04:34:09 +0000
+(MainThread) Processing file: 377 of 872
+(MainThread) Thu, 26 Feb 2015 04:34:55 +0000
+(MainThread) Processing file: 378 of 872
+(MainThread) Thu, 26 Feb 2015 04:35:43 +0000
+(MainThread) Processing file: 379 of 872
+(MainThread) Thu, 26 Feb 2015 04:36:22 +0000
+(MainThread) Processing file: 380 of 872
+(MainThread) Thu, 26 Feb 2015 04:37:12 +0000
+(MainThread) Processing file: 381 of 872
+(MainThread) Thu, 26 Feb 2015 04:38:08 +0000
+(MainThread) Processing file: 382 of 872
+(MainThread) Thu, 26 Feb 2015 04:39:05 +0000
+(MainThread) Processing file: 383 of 872
+(MainThread) Thu, 26 Feb 2015 04:39:53 +0000
+(MainThread) Processing file: 384 of 872
+(MainThread) Thu, 26 Feb 2015 04:40:45 +0000
+(MainThread) Processing file: 385 of 872
+(MainThread) Thu, 26 Feb 2015 04:41:40 +0000
+(MainThread) Processing file: 386 of 872
+(MainThread) Thu, 26 Feb 2015 04:42:20 +0000
+(MainThread) Processing file: 387 of 872
+(MainThread) Thu, 26 Feb 2015 04:43:22 +0000
+(MainThread) Processing file: 388 of 872
+(MainThread) Thu, 26 Feb 2015 04:44:12 +0000
+(MainThread) Processing file: 389 of 872
+(MainThread) Thu, 26 Feb 2015 04:44:57 +0000
+(MainThread) Processing file: 390 of 872
+(MainThread) Thu, 26 Feb 2015 04:45:55 +0000
+(MainThread) Processing file: 391 of 872
+(MainThread) Thu, 26 Feb 2015 04:46:34 +0000
+(MainThread) Processing file: 392 of 872
+(MainThread) Thu, 26 Feb 2015 04:47:30 +0000
+(MainThread) Processing file: 393 of 872
+(MainThread) Thu, 26 Feb 2015 04:48:25 +0000
+(MainThread) Processing file: 394 of 872
+(MainThread) Thu, 26 Feb 2015 04:49:14 +0000
+(MainThread) Processing file: 395 of 872
+(MainThread) Thu, 26 Feb 2015 04:49:57 +0000
+(MainThread) Processing file: 396 of 872
+(MainThread) Thu, 26 Feb 2015 04:50:47 +0000
+(MainThread) Processing file: 397 of 872
+(MainThread) Thu, 26 Feb 2015 04:51:47 +0000
+(MainThread) Processing file: 398 of 872
+(MainThread) Thu, 26 Feb 2015 04:52:34 +0000
+(MainThread) Processing file: 399 of 872
+(MainThread) Thu, 26 Feb 2015 04:53:28 +0000
+(MainThread) Processing file: 400 of 872
+(MainThread) Thu, 26 Feb 2015 04:54:18 +0000
+(MainThread) Processing file: 401 of 872
+(MainThread) Thu, 26 Feb 2015 04:55:07 +0000
+(MainThread) Processing file: 402 of 872
+(MainThread) Thu, 26 Feb 2015 04:56:08 +0000
+(MainThread) Processing file: 403 of 872
+(MainThread) Thu, 26 Feb 2015 04:56:50 +0000
+(MainThread) Processing file: 404 of 872
+(MainThread) Thu, 26 Feb 2015 04:57:37 +0000
+(MainThread) Processing file: 405 of 872
+(MainThread) Thu, 26 Feb 2015 04:58:17 +0000
+(MainThread) Processing file: 406 of 872
+(MainThread) Thu, 26 Feb 2015 04:59:07 +0000
+(MainThread) Processing file: 407 of 872
+(MainThread) Thu, 26 Feb 2015 05:00:02 +0000
+(MainThread) Processing file: 408 of 872
+(MainThread) Thu, 26 Feb 2015 05:00:55 +0000
+(MainThread) Processing file: 409 of 872
+(MainThread) Thu, 26 Feb 2015 05:01:35 +0000
+(MainThread) Processing file: 410 of 872
+(MainThread) Thu, 26 Feb 2015 05:02:22 +0000
+(MainThread) Processing file: 411 of 872
+(MainThread) Thu, 26 Feb 2015 05:03:04 +0000
+(MainThread) Processing file: 412 of 872
+(MainThread) Thu, 26 Feb 2015 05:04:05 +0000
+(MainThread) Processing file: 413 of 872
+(MainThread) Thu, 26 Feb 2015 05:05:00 +0000
+(MainThread) Processing file: 414 of 872
+(MainThread) Thu, 26 Feb 2015 05:05:52 +0000
+(MainThread) Processing file: 415 of 872
+(MainThread) Thu, 26 Feb 2015 05:06:44 +0000
+(MainThread) Processing file: 416 of 872
+(MainThread) Thu, 26 Feb 2015 05:07:33 +0000
+(MainThread) Processing file: 417 of 872
+(MainThread) Thu, 26 Feb 2015 05:08:31 +0000
+(MainThread) Processing file: 418 of 872
+(MainThread) Thu, 26 Feb 2015 05:09:23 +0000
+(MainThread) Processing file: 419 of 872
+(MainThread) Thu, 26 Feb 2015 05:10:17 +0000
+(MainThread) Processing file: 420 of 872
+(MainThread) Thu, 26 Feb 2015 05:11:18 +0000
+(MainThread) Processing file: 421 of 872
+(MainThread) Thu, 26 Feb 2015 05:12:15 +0000
+(MainThread) Processing file: 422 of 872
+(MainThread) Thu, 26 Feb 2015 05:13:04 +0000
+(MainThread) Processing file: 423 of 872
+(MainThread) Thu, 26 Feb 2015 05:14:02 +0000
+(MainThread) Processing file: 424 of 872
+(MainThread) Thu, 26 Feb 2015 05:14:48 +0000
+(MainThread) Processing file: 425 of 872
+(MainThread) Thu, 26 Feb 2015 05:15:43 +0000
+(MainThread) Processing file: 426 of 872
+(MainThread) Thu, 26 Feb 2015 05:16:43 +0000
+(MainThread) Processing file: 427 of 872
+(MainThread) Thu, 26 Feb 2015 05:17:35 +0000
+(MainThread) Processing file: 428 of 872
+(MainThread) Thu, 26 Feb 2015 05:18:31 +0000
+(MainThread) Processing file: 429 of 872
+(MainThread) Thu, 26 Feb 2015 05:19:20 +0000
+(MainThread) Processing file: 430 of 872
+(MainThread) Thu, 26 Feb 2015 05:20:15 +0000
+(MainThread) Processing file: 431 of 872
+(MainThread) Thu, 26 Feb 2015 05:21:06 +0000
+(MainThread) Processing file: 432 of 872
+(MainThread) Thu, 26 Feb 2015 05:21:53 +0000
+(MainThread) Processing file: 433 of 872
+(MainThread) Thu, 26 Feb 2015 05:22:39 +0000
+(MainThread) Processing file: 434 of 872
+(MainThread) Thu, 26 Feb 2015 05:23:27 +0000
+(MainThread) Processing file: 435 of 872
+(MainThread) Thu, 26 Feb 2015 05:24:18 +0000
+(MainThread) Processing file: 436 of 872
+(MainThread) Thu, 26 Feb 2015 05:25:12 +0000
+(MainThread) Processing file: 437 of 872
+(MainThread) Thu, 26 Feb 2015 05:26:07 +0000
+(MainThread) Processing file: 438 of 872
+(MainThread) Thu, 26 Feb 2015 05:26:57 +0000
+(MainThread) Processing file: 439 of 872
+(MainThread) Thu, 26 Feb 2015 05:27:50 +0000
+(MainThread) Processing file: 440 of 872
+(MainThread) Thu, 26 Feb 2015 05:28:27 +0000
+(MainThread) Processing file: 441 of 872
+(MainThread) Thu, 26 Feb 2015 05:29:19 +0000
+(MainThread) Processing file: 442 of 872
+(MainThread) Thu, 26 Feb 2015 05:30:02 +0000
+(MainThread) Processing file: 443 of 872
+(MainThread) Thu, 26 Feb 2015 05:30:58 +0000
+(MainThread) Processing file: 444 of 872
+(MainThread) Thu, 26 Feb 2015 05:31:58 +0000
+(MainThread) Processing file: 445 of 872
+(MainThread) Thu, 26 Feb 2015 05:32:47 +0000
+(MainThread) Processing file: 446 of 872
+(MainThread) Thu, 26 Feb 2015 05:33:45 +0000
+(MainThread) Processing file: 447 of 872
+(MainThread) Thu, 26 Feb 2015 05:34:28 +0000
+(MainThread) Processing file: 448 of 872
+(MainThread) Thu, 26 Feb 2015 05:35:16 +0000
+(MainThread) Processing file: 449 of 872
+(MainThread) Thu, 26 Feb 2015 05:36:01 +0000
+(MainThread) Processing file: 450 of 872
+(MainThread) Thu, 26 Feb 2015 05:36:52 +0000
+(MainThread) Processing file: 451 of 872
+(MainThread) Thu, 26 Feb 2015 05:37:46 +0000
+(MainThread) Processing file: 452 of 872
+(MainThread) Thu, 26 Feb 2015 05:38:27 +0000
+(MainThread) Processing file: 453 of 872
+(MainThread) Thu, 26 Feb 2015 05:39:19 +0000
+(MainThread) Processing file: 454 of 872
+(MainThread) Thu, 26 Feb 2015 05:39:58 +0000
+(MainThread) Processing file: 455 of 872
+(MainThread) Thu, 26 Feb 2015 05:40:36 +0000
+(MainThread) Processing file: 456 of 872
+(MainThread) Thu, 26 Feb 2015 05:41:31 +0000
+(MainThread) Processing file: 457 of 872
+(MainThread) Thu, 26 Feb 2015 05:42:27 +0000
+(MainThread) Processing file: 458 of 872
+(MainThread) Thu, 26 Feb 2015 05:43:19 +0000
+(MainThread) Processing file: 459 of 872
+(MainThread) Thu, 26 Feb 2015 05:44:03 +0000
+(MainThread) Processing file: 460 of 872
+(MainThread) Thu, 26 Feb 2015 05:45:01 +0000
+(MainThread) Processing file: 461 of 872
+(MainThread) Thu, 26 Feb 2015 05:45:46 +0000
+(MainThread) Processing file: 462 of 872
+(MainThread) Thu, 26 Feb 2015 05:46:48 +0000
+(MainThread) Processing file: 463 of 872
+(MainThread) Thu, 26 Feb 2015 05:47:35 +0000
+(MainThread) Processing file: 464 of 872
+(MainThread) Thu, 26 Feb 2015 05:48:29 +0000
+(MainThread) Processing file: 465 of 872
+(MainThread) Thu, 26 Feb 2015 05:49:22 +0000
+(MainThread) Processing file: 466 of 872
+(MainThread) Thu, 26 Feb 2015 05:50:09 +0000
+(MainThread) Processing file: 467 of 872
+(MainThread) Thu, 26 Feb 2015 05:50:58 +0000
+(MainThread) Processing file: 468 of 872
+(MainThread) Thu, 26 Feb 2015 05:51:54 +0000
+(MainThread) Processing file: 469 of 872
+(MainThread) Thu, 26 Feb 2015 05:52:47 +0000
+(MainThread) Processing file: 470 of 872
+(MainThread) Thu, 26 Feb 2015 05:53:27 +0000
+(MainThread) Processing file: 471 of 872
+(MainThread) Thu, 26 Feb 2015 05:54:17 +0000
+(MainThread) Processing file: 472 of 872
+(MainThread) Thu, 26 Feb 2015 05:55:17 +0000
+(MainThread) Processing file: 473 of 872
+(MainThread) Thu, 26 Feb 2015 05:56:15 +0000
+(MainThread) Processing file: 474 of 872
+(MainThread) Thu, 26 Feb 2015 05:57:07 +0000
+(MainThread) Processing file: 475 of 872
+(MainThread) Thu, 26 Feb 2015 05:58:05 +0000
+(MainThread) Processing file: 476 of 872
+(MainThread) Thu, 26 Feb 2015 05:58:45 +0000
+(MainThread) Processing file: 477 of 872
+(MainThread) Thu, 26 Feb 2015 05:59:23 +0000
+(MainThread) Processing file: 478 of 872
+(MainThread) Thu, 26 Feb 2015 06:00:20 +0000
+(MainThread) Processing file: 479 of 872
+(MainThread) Thu, 26 Feb 2015 06:00:59 +0000
+(MainThread) Processing file: 480 of 872
+(MainThread) Thu, 26 Feb 2015 06:01:54 +0000
+(MainThread) Processing file: 481 of 872
+(MainThread) Thu, 26 Feb 2015 06:02:45 +0000
+(MainThread) Processing file: 482 of 872
+(MainThread) Thu, 26 Feb 2015 06:03:30 +0000
+(MainThread) Processing file: 483 of 872
+(MainThread) Thu, 26 Feb 2015 06:04:09 +0000
+(MainThread) Processing file: 484 of 872
+(MainThread) Thu, 26 Feb 2015 06:04:59 +0000
+(MainThread) Processing file: 485 of 872
+(MainThread) Thu, 26 Feb 2015 06:05:37 +0000
+(MainThread) Processing file: 486 of 872
+(MainThread) Thu, 26 Feb 2015 06:06:32 +0000
+(MainThread) Processing file: 487 of 872
+(MainThread) Thu, 26 Feb 2015 06:07:27 +0000
+(MainThread) Processing file: 488 of 872
+(MainThread) Thu, 26 Feb 2015 06:08:25 +0000
+(MainThread) Processing file: 489 of 872
+(MainThread) Thu, 26 Feb 2015 06:09:24 +0000
+(MainThread) Processing file: 490 of 872
+(MainThread) Thu, 26 Feb 2015 06:10:11 +0000
+(MainThread) Processing file: 491 of 872
+(MainThread) Thu, 26 Feb 2015 06:10:52 +0000
+(MainThread) Processing file: 492 of 872
+(MainThread) Thu, 26 Feb 2015 06:11:41 +0000
+(MainThread) Processing file: 493 of 872
+(MainThread) Thu, 26 Feb 2015 06:12:35 +0000
+(MainThread) Processing file: 494 of 872
+(MainThread) Thu, 26 Feb 2015 06:13:21 +0000
+(MainThread) Processing file: 495 of 872
+(MainThread) Thu, 26 Feb 2015 06:14:18 +0000
+(MainThread) Processing file: 496 of 872
+(MainThread) Thu, 26 Feb 2015 06:15:08 +0000
+(MainThread) Processing file: 497 of 872
+(MainThread) Thu, 26 Feb 2015 06:16:04 +0000
+(MainThread) Processing file: 498 of 872
+(MainThread) Thu, 26 Feb 2015 06:16:48 +0000
+(MainThread) Processing file: 499 of 872
+(MainThread) Thu, 26 Feb 2015 06:17:38 +0000
+(MainThread) Processing file: 500 of 872
+(MainThread) Thu, 26 Feb 2015 06:18:35 +0000
+(MainThread) Processing file: 501 of 872
+(MainThread) Thu, 26 Feb 2015 06:19:29 +0000
+(MainThread) Processing file: 502 of 872
+(MainThread) Thu, 26 Feb 2015 06:20:21 +0000
+(MainThread) Processing file: 503 of 872
+(MainThread) Thu, 26 Feb 2015 06:21:22 +0000
+(MainThread) Processing file: 504 of 872
+(MainThread) Thu, 26 Feb 2015 06:22:13 +0000
+(MainThread) Processing file: 505 of 872
+(MainThread) Thu, 26 Feb 2015 06:23:08 +0000
+(MainThread) Processing file: 506 of 872
+(MainThread) Thu, 26 Feb 2015 06:23:43 +0000
+(MainThread) Processing file: 507 of 872
+(MainThread) Thu, 26 Feb 2015 06:24:33 +0000
+(MainThread) Processing file: 508 of 872
+(MainThread) Thu, 26 Feb 2015 06:25:24 +0000
+(MainThread) Processing file: 509 of 872
+(MainThread) Thu, 26 Feb 2015 06:26:11 +0000
+(MainThread) Processing file: 510 of 872
+(MainThread) Thu, 26 Feb 2015 06:27:01 +0000
+(MainThread) Processing file: 511 of 872
+(MainThread) Thu, 26 Feb 2015 06:27:49 +0000
+(MainThread) Processing file: 512 of 872
+(MainThread) Thu, 26 Feb 2015 06:28:35 +0000
+(MainThread) Processing file: 513 of 872
+(MainThread) Thu, 26 Feb 2015 06:29:21 +0000
+(MainThread) Processing file: 514 of 872
+(MainThread) Thu, 26 Feb 2015 06:30:07 +0000
+(MainThread) Processing file: 515 of 872
+(MainThread) Thu, 26 Feb 2015 06:30:54 +0000
+(MainThread) Processing file: 516 of 872
+(MainThread) Thu, 26 Feb 2015 06:31:50 +0000
+(MainThread) Processing file: 517 of 872
+(MainThread) Thu, 26 Feb 2015 06:32:52 +0000
+(MainThread) Processing file: 518 of 872
+(MainThread) Thu, 26 Feb 2015 06:33:49 +0000
+(MainThread) Processing file: 519 of 872
+(MainThread) Thu, 26 Feb 2015 06:34:53 +0000
+(MainThread) Processing file: 520 of 872
+(MainThread) Thu, 26 Feb 2015 06:35:47 +0000
+(MainThread) Processing file: 521 of 872
+(MainThread) Thu, 26 Feb 2015 06:36:46 +0000
+(MainThread) Processing file: 522 of 872
+(MainThread) Thu, 26 Feb 2015 06:37:45 +0000
+(MainThread) Processing file: 523 of 872
+(MainThread) Thu, 26 Feb 2015 06:38:42 +0000
+(MainThread) Processing file: 524 of 872
+(MainThread) Thu, 26 Feb 2015 06:39:38 +0000
+(MainThread) Processing file: 525 of 872
+(MainThread) Thu, 26 Feb 2015 06:40:32 +0000
+(MainThread) Processing file: 526 of 872
+(MainThread) Thu, 26 Feb 2015 06:41:16 +0000
+(MainThread) Processing file: 527 of 872
+(MainThread) Thu, 26 Feb 2015 06:41:57 +0000
+(MainThread) Processing file: 528 of 872
+(MainThread) Thu, 26 Feb 2015 06:42:36 +0000
+(MainThread) Processing file: 529 of 872
+(MainThread) Thu, 26 Feb 2015 06:43:25 +0000
+(MainThread) Processing file: 530 of 872
+(MainThread) Thu, 26 Feb 2015 06:44:05 +0000
+(MainThread) Processing file: 531 of 872
+(MainThread) Thu, 26 Feb 2015 06:44:43 +0000
+(MainThread) Processing file: 532 of 872
+(MainThread) Thu, 26 Feb 2015 06:45:22 +0000
+(MainThread) Processing file: 533 of 872
+(MainThread) Thu, 26 Feb 2015 06:46:14 +0000
+(MainThread) Processing file: 534 of 872
+(MainThread) Thu, 26 Feb 2015 06:47:08 +0000
+(MainThread) Processing file: 535 of 872
+(MainThread) Thu, 26 Feb 2015 06:47:51 +0000
+(MainThread) Processing file: 536 of 872
+(MainThread) Thu, 26 Feb 2015 06:48:51 +0000
+(MainThread) Processing file: 537 of 872
+(MainThread) Thu, 26 Feb 2015 06:49:31 +0000
+(MainThread) Processing file: 538 of 872
+(MainThread) Thu, 26 Feb 2015 06:50:20 +0000
+(MainThread) Processing file: 539 of 872
+(MainThread) Thu, 26 Feb 2015 06:51:14 +0000
+(MainThread) Processing file: 540 of 872
+(MainThread) Thu, 26 Feb 2015 06:52:03 +0000
+(MainThread) Processing file: 541 of 872
+(MainThread) Thu, 26 Feb 2015 06:52:54 +0000
+(MainThread) Processing file: 542 of 872
+(MainThread) Thu, 26 Feb 2015 06:53:51 +0000
+(MainThread) Processing file: 543 of 872
+(MainThread) Thu, 26 Feb 2015 06:54:41 +0000
+(MainThread) Processing file: 544 of 872
+(MainThread) Thu, 26 Feb 2015 06:55:42 +0000
+(MainThread) Processing file: 545 of 872
+(MainThread) Thu, 26 Feb 2015 06:56:35 +0000
+(MainThread) Processing file: 546 of 872
+(MainThread) Thu, 26 Feb 2015 06:57:31 +0000
+(MainThread) Processing file: 547 of 872
+(MainThread) Thu, 26 Feb 2015 06:58:22 +0000
+(MainThread) Processing file: 548 of 872
+(MainThread) Thu, 26 Feb 2015 06:59:13 +0000
+(MainThread) Processing file: 549 of 872
+(MainThread) Thu, 26 Feb 2015 07:00:13 +0000
+(MainThread) Processing file: 550 of 872
+(MainThread) Thu, 26 Feb 2015 07:01:10 +0000
+(MainThread) Processing file: 551 of 872
+(MainThread) Thu, 26 Feb 2015 07:01:56 +0000
+(MainThread) Processing file: 552 of 872
+(MainThread) Thu, 26 Feb 2015 07:02:50 +0000
+(MainThread) Processing file: 553 of 872
+(MainThread) Thu, 26 Feb 2015 07:03:31 +0000
+(MainThread) Processing file: 554 of 872
+(MainThread) Thu, 26 Feb 2015 07:04:24 +0000
+(MainThread) Processing file: 555 of 872
+(MainThread) Thu, 26 Feb 2015 07:05:11 +0000
+(MainThread) Processing file: 556 of 872
+(MainThread) Thu, 26 Feb 2015 07:06:02 +0000
+(MainThread) Processing file: 557 of 872
+(MainThread) Thu, 26 Feb 2015 07:06:57 +0000
+(MainThread) Processing file: 558 of 872
+(MainThread) Thu, 26 Feb 2015 07:07:50 +0000
+(MainThread) Processing file: 559 of 872
+(MainThread) Thu, 26 Feb 2015 07:08:45 +0000
+(MainThread) Processing file: 560 of 872
+(MainThread) Thu, 26 Feb 2015 07:09:23 +0000
+(MainThread) Processing file: 561 of 872
+(MainThread) Thu, 26 Feb 2015 07:10:16 +0000
+(MainThread) Processing file: 562 of 872
+(MainThread) Thu, 26 Feb 2015 07:10:55 +0000
+(MainThread) Processing file: 563 of 872
+(MainThread) Thu, 26 Feb 2015 07:11:50 +0000
+(MainThread) Processing file: 564 of 872
+(MainThread) Thu, 26 Feb 2015 07:12:45 +0000
+(MainThread) Processing file: 565 of 872
+(MainThread) Thu, 26 Feb 2015 07:13:43 +0000
+(MainThread) Processing file: 566 of 872
+(MainThread) Thu, 26 Feb 2015 07:14:24 +0000
+(MainThread) Processing file: 567 of 872
+(MainThread) Thu, 26 Feb 2015 07:15:13 +0000
+(MainThread) Processing file: 568 of 872
+(MainThread) Thu, 26 Feb 2015 07:16:00 +0000
+(MainThread) Processing file: 569 of 872
+(MainThread) Thu, 26 Feb 2015 07:16:57 +0000
+(MainThread) Processing file: 570 of 872
+(MainThread) Thu, 26 Feb 2015 07:17:59 +0000
+(MainThread) Processing file: 571 of 872
+(MainThread) Thu, 26 Feb 2015 07:18:55 +0000
+(MainThread) Processing file: 572 of 872
+(MainThread) Thu, 26 Feb 2015 07:19:46 +0000
+(MainThread) Processing file: 573 of 872
+(MainThread) Thu, 26 Feb 2015 07:20:31 +0000
+(MainThread) Processing file: 574 of 872
+(MainThread) Thu, 26 Feb 2015 07:21:16 +0000
+(MainThread) Processing file: 575 of 872
+(MainThread) Thu, 26 Feb 2015 07:22:08 +0000
+(MainThread) Processing file: 576 of 872
+(MainThread) Thu, 26 Feb 2015 07:22:49 +0000
+(MainThread) Processing file: 577 of 872
+(MainThread) Thu, 26 Feb 2015 07:23:35 +0000
+(MainThread) Processing file: 578 of 872
+(MainThread) Thu, 26 Feb 2015 07:24:13 +0000
+(MainThread) Processing file: 579 of 872
+(MainThread) Thu, 26 Feb 2015 07:24:53 +0000
+(MainThread) Processing file: 580 of 872
+(MainThread) Thu, 26 Feb 2015 07:25:47 +0000
+(MainThread) Processing file: 581 of 872
+(MainThread) Thu, 26 Feb 2015 07:26:36 +0000
+(MainThread) Processing file: 582 of 872
+(MainThread) Thu, 26 Feb 2015 07:27:21 +0000
+(MainThread) Processing file: 583 of 872
+(MainThread) Thu, 26 Feb 2015 07:28:18 +0000
+(MainThread) Processing file: 584 of 872
+(MainThread) Thu, 26 Feb 2015 07:28:59 +0000
+(MainThread) Processing file: 585 of 872
+(MainThread) Thu, 26 Feb 2015 07:29:52 +0000
+(MainThread) Processing file: 586 of 872
+(MainThread) Thu, 26 Feb 2015 07:30:40 +0000
+(MainThread) Processing file: 587 of 872
+(MainThread) Thu, 26 Feb 2015 07:31:21 +0000
+(MainThread) Processing file: 588 of 872
+(MainThread) Thu, 26 Feb 2015 07:32:17 +0000
+(MainThread) Processing file: 589 of 872
+(MainThread) Thu, 26 Feb 2015 07:32:57 +0000
+(MainThread) Processing file: 590 of 872
+(MainThread) Thu, 26 Feb 2015 07:33:55 +0000
+(MainThread) Processing file: 591 of 872
+(MainThread) Thu, 26 Feb 2015 07:34:36 +0000
+(MainThread) Processing file: 592 of 872
+(MainThread) Thu, 26 Feb 2015 07:35:28 +0000
+(MainThread) Processing file: 593 of 872
+(MainThread) Thu, 26 Feb 2015 07:36:20 +0000
+(MainThread) Processing file: 594 of 872
+(MainThread) Thu, 26 Feb 2015 07:37:21 +0000
+(MainThread) Processing file: 595 of 872
+(MainThread) Thu, 26 Feb 2015 07:38:10 +0000
+(MainThread) Processing file: 596 of 872
+(MainThread) Thu, 26 Feb 2015 07:39:07 +0000
+(MainThread) Processing file: 597 of 872
+(MainThread) Thu, 26 Feb 2015 07:39:59 +0000
+(MainThread) Processing file: 598 of 872
+(MainThread) Thu, 26 Feb 2015 07:40:46 +0000
+(MainThread) Processing file: 599 of 872
+(MainThread) Thu, 26 Feb 2015 07:41:36 +0000
+(MainThread) Processing file: 600 of 872
+(MainThread) Thu, 26 Feb 2015 07:42:34 +0000
+(MainThread) Processing file: 601 of 872
+(MainThread) Thu, 26 Feb 2015 07:43:22 +0000
+(MainThread) Processing file: 602 of 872
+(MainThread) Thu, 26 Feb 2015 07:44:10 +0000
+(MainThread) Processing file: 603 of 872
+(MainThread) Thu, 26 Feb 2015 07:44:58 +0000
+(MainThread) Processing file: 604 of 872
+(MainThread) Thu, 26 Feb 2015 07:45:49 +0000
+(MainThread) Processing file: 605 of 872
+(MainThread) Thu, 26 Feb 2015 07:46:39 +0000
+(MainThread) Processing file: 606 of 872
+(MainThread) Thu, 26 Feb 2015 07:47:30 +0000
+(MainThread) Processing file: 607 of 872
+(MainThread) Thu, 26 Feb 2015 07:48:25 +0000
+(MainThread) Processing file: 608 of 872
+(MainThread) Thu, 26 Feb 2015 07:49:19 +0000
+(MainThread) Processing file: 609 of 872
+(MainThread) Thu, 26 Feb 2015 07:50:11 +0000
+(MainThread) Processing file: 610 of 872
+(MainThread) Thu, 26 Feb 2015 07:51:12 +0000
+(MainThread) Processing file: 611 of 872
+(MainThread) Thu, 26 Feb 2015 07:52:05 +0000
+(MainThread) Processing file: 612 of 872
+(MainThread) Thu, 26 Feb 2015 07:52:49 +0000
+(MainThread) Processing file: 613 of 872
+(MainThread) Thu, 26 Feb 2015 07:53:36 +0000
+(MainThread) Processing file: 614 of 872
+(MainThread) Thu, 26 Feb 2015 07:54:24 +0000
+(MainThread) Processing file: 615 of 872
+(MainThread) Thu, 26 Feb 2015 07:55:22 +0000
+(MainThread) Processing file: 616 of 872
+(MainThread) Thu, 26 Feb 2015 07:56:12 +0000
+(MainThread) Processing file: 617 of 872
+(MainThread) Thu, 26 Feb 2015 07:57:07 +0000
+(MainThread) Processing file: 618 of 872
+(MainThread) Thu, 26 Feb 2015 07:57:54 +0000
+(MainThread) Processing file: 619 of 872
+(MainThread) Thu, 26 Feb 2015 07:58:33 +0000
+(MainThread) Processing file: 620 of 872
+(MainThread) Thu, 26 Feb 2015 07:59:36 +0000
+(MainThread) Processing file: 621 of 872
+(MainThread) Thu, 26 Feb 2015 08:00:32 +0000
+(MainThread) Processing file: 622 of 872
+(MainThread) Thu, 26 Feb 2015 08:01:19 +0000
+(MainThread) Processing file: 623 of 872
+(MainThread) Thu, 26 Feb 2015 08:02:13 +0000
+(MainThread) Processing file: 624 of 872
+(MainThread) Thu, 26 Feb 2015 08:02:56 +0000
+(MainThread) Processing file: 625 of 872
+(MainThread) Thu, 26 Feb 2015 08:03:35 +0000
+(MainThread) Processing file: 626 of 872
+(MainThread) Thu, 26 Feb 2015 08:04:30 +0000
+(MainThread) Processing file: 627 of 872
+(MainThread) Thu, 26 Feb 2015 08:05:25 +0000
+(MainThread) Processing file: 628 of 872
+(MainThread) Thu, 26 Feb 2015 08:06:12 +0000
+(MainThread) Processing file: 629 of 872
+(MainThread) Thu, 26 Feb 2015 08:07:07 +0000
+(MainThread) Processing file: 630 of 872
+(MainThread) Thu, 26 Feb 2015 08:07:47 +0000
+(MainThread) Processing file: 631 of 872
+(MainThread) Thu, 26 Feb 2015 08:08:34 +0000
+(MainThread) Processing file: 632 of 872
+(MainThread) Thu, 26 Feb 2015 08:09:23 +0000
+(MainThread) Processing file: 633 of 872
+(MainThread) Thu, 26 Feb 2015 08:10:24 +0000
+(MainThread) Processing file: 634 of 872
+(MainThread) Thu, 26 Feb 2015 08:11:20 +0000
+(MainThread) Processing file: 635 of 872
+(MainThread) Thu, 26 Feb 2015 08:12:17 +0000
+(MainThread) Processing file: 636 of 872
+(MainThread) Thu, 26 Feb 2015 08:13:16 +0000
+(MainThread) Processing file: 637 of 872
+(MainThread) Thu, 26 Feb 2015 08:14:15 +0000
+(MainThread) Processing file: 638 of 872
+(MainThread) Thu, 26 Feb 2015 08:15:21 +0000
+(MainThread) Processing file: 639 of 872
+(MainThread) Thu, 26 Feb 2015 08:16:13 +0000
+(MainThread) Processing file: 640 of 872
+(MainThread) Thu, 26 Feb 2015 08:17:15 +0000
+(MainThread) Processing file: 641 of 872
+(MainThread) Thu, 26 Feb 2015 08:18:00 +0000
+(MainThread) Processing file: 642 of 872
+(MainThread) Thu, 26 Feb 2015 08:18:57 +0000
+(MainThread) Processing file: 643 of 872
+(MainThread) Thu, 26 Feb 2015 08:19:53 +0000
+(MainThread) Processing file: 644 of 872
+(MainThread) Thu, 26 Feb 2015 08:20:44 +0000
+(MainThread) Processing file: 645 of 872
+(MainThread) Thu, 26 Feb 2015 08:21:37 +0000
+(MainThread) Processing file: 646 of 872
+(MainThread) Thu, 26 Feb 2015 08:22:30 +0000
+(MainThread) Processing file: 647 of 872
+(MainThread) Thu, 26 Feb 2015 08:23:24 +0000
+(MainThread) Processing file: 648 of 872
+(MainThread) Thu, 26 Feb 2015 08:24:26 +0000
+(MainThread) Processing file: 649 of 872
+(MainThread) Thu, 26 Feb 2015 08:25:15 +0000
+(MainThread) Processing file: 650 of 872
+(MainThread) Thu, 26 Feb 2015 08:26:05 +0000
+(MainThread) Processing file: 651 of 872
+(MainThread) Thu, 26 Feb 2015 08:27:01 +0000
+(MainThread) Processing file: 652 of 872
+(MainThread) Thu, 26 Feb 2015 08:27:55 +0000
+(MainThread) Processing file: 653 of 872
+(MainThread) Thu, 26 Feb 2015 08:28:43 +0000
+(MainThread) Processing file: 654 of 872
+(MainThread) Thu, 26 Feb 2015 08:29:38 +0000
+(MainThread) Processing file: 655 of 872
+(MainThread) Thu, 26 Feb 2015 08:30:28 +0000
+(MainThread) Processing file: 656 of 872
+(MainThread) Thu, 26 Feb 2015 08:31:18 +0000
+(MainThread) Processing file: 657 of 872
+(MainThread) Thu, 26 Feb 2015 08:32:14 +0000
+(MainThread) Processing file: 658 of 872
+(MainThread) Thu, 26 Feb 2015 08:33:09 +0000
+(MainThread) Processing file: 659 of 872
+(MainThread) Thu, 26 Feb 2015 08:34:00 +0000
+(MainThread) Processing file: 660 of 872
+(MainThread) Thu, 26 Feb 2015 08:35:02 +0000
+(MainThread) Processing file: 661 of 872
+(MainThread) Thu, 26 Feb 2015 08:35:59 +0000
+(MainThread) Processing file: 662 of 872
+(MainThread) Thu, 26 Feb 2015 08:36:59 +0000
+(MainThread) Processing file: 663 of 872
+(MainThread) Thu, 26 Feb 2015 08:37:53 +0000
+(MainThread) Processing file: 664 of 872
+(MainThread) Thu, 26 Feb 2015 08:38:51 +0000
+(MainThread) Processing file: 665 of 872
+(MainThread) Thu, 26 Feb 2015 08:39:45 +0000
+(MainThread) Processing file: 666 of 872
+(MainThread) Thu, 26 Feb 2015 08:40:38 +0000
+(MainThread) Processing file: 667 of 872
+(MainThread) Thu, 26 Feb 2015 08:41:34 +0000
+(MainThread) Processing file: 668 of 872
+(MainThread) Thu, 26 Feb 2015 08:42:33 +0000
+(MainThread) Processing file: 669 of 872
+(MainThread) Thu, 26 Feb 2015 08:43:20 +0000
+(MainThread) Processing file: 670 of 872
+(MainThread) Thu, 26 Feb 2015 08:44:19 +0000
+(MainThread) Processing file: 671 of 872
+(MainThread) Thu, 26 Feb 2015 08:45:17 +0000
+(MainThread) Processing file: 672 of 872
+(MainThread) Thu, 26 Feb 2015 08:45:57 +0000
+(MainThread) Processing file: 673 of 872
+(MainThread) Thu, 26 Feb 2015 08:46:50 +0000
+(MainThread) Processing file: 674 of 872
+(MainThread) Thu, 26 Feb 2015 08:47:38 +0000
+(MainThread) Processing file: 675 of 872
+(MainThread) Thu, 26 Feb 2015 08:48:36 +0000
+(MainThread) Processing file: 676 of 872
+(MainThread) Thu, 26 Feb 2015 08:49:29 +0000
+(MainThread) Processing file: 677 of 872
+(MainThread) Thu, 26 Feb 2015 08:50:15 +0000
+(MainThread) Processing file: 678 of 872
+(MainThread) Thu, 26 Feb 2015 08:51:11 +0000
+(MainThread) Processing file: 679 of 872
+(MainThread) Thu, 26 Feb 2015 08:51:57 +0000
+(MainThread) Processing file: 680 of 872
+(MainThread) Thu, 26 Feb 2015 08:52:38 +0000
+(MainThread) Processing file: 681 of 872
+(MainThread) Thu, 26 Feb 2015 08:53:30 +0000
+(MainThread) Processing file: 682 of 872
+(MainThread) Thu, 26 Feb 2015 08:54:19 +0000
+(MainThread) Processing file: 683 of 872
+(MainThread) Thu, 26 Feb 2015 08:55:01 +0000
+(MainThread) Processing file: 684 of 872
+(MainThread) Thu, 26 Feb 2015 08:56:01 +0000
+(MainThread) Processing file: 685 of 872
+(MainThread) Thu, 26 Feb 2015 08:56:39 +0000
+(MainThread) Processing file: 686 of 872
+(MainThread) Thu, 26 Feb 2015 08:57:27 +0000
+(MainThread) Processing file: 687 of 872
+(MainThread) Thu, 26 Feb 2015 08:58:20 +0000
+(MainThread) Processing file: 688 of 872
+(MainThread) Thu, 26 Feb 2015 08:59:07 +0000
+(MainThread) Processing file: 689 of 872
+(MainThread) Thu, 26 Feb 2015 09:00:00 +0000
+(MainThread) Processing file: 690 of 872
+(MainThread) Thu, 26 Feb 2015 09:00:52 +0000
+(MainThread) Processing file: 691 of 872
+(MainThread) Thu, 26 Feb 2015 09:01:54 +0000
+(MainThread) Processing file: 692 of 872
+(MainThread) Thu, 26 Feb 2015 09:02:41 +0000
+(MainThread) Processing file: 693 of 872
+(MainThread) Thu, 26 Feb 2015 09:03:28 +0000
+(MainThread) Processing file: 694 of 872
+(MainThread) Thu, 26 Feb 2015 09:04:18 +0000
+(MainThread) Processing file: 695 of 872
+(MainThread) Thu, 26 Feb 2015 09:05:00 +0000
+(MainThread) Processing file: 696 of 872
+(MainThread) Thu, 26 Feb 2015 09:05:47 +0000
+(MainThread) Processing file: 697 of 872
+(MainThread) Thu, 26 Feb 2015 09:06:48 +0000
+(MainThread) Processing file: 698 of 872
+(MainThread) Thu, 26 Feb 2015 09:07:26 +0000
+(MainThread) Processing file: 699 of 872
+(MainThread) Thu, 26 Feb 2015 09:08:26 +0000
+(MainThread) Processing file: 700 of 872
+(MainThread) Thu, 26 Feb 2015 09:09:22 +0000
+(MainThread) Processing file: 701 of 872
+(MainThread) Thu, 26 Feb 2015 09:10:16 +0000
+(MainThread) Processing file: 702 of 872
+(MainThread) Thu, 26 Feb 2015 09:11:04 +0000
+(MainThread) Processing file: 703 of 872
+(MainThread) Thu, 26 Feb 2015 09:11:53 +0000
+(MainThread) Processing file: 704 of 872
+(MainThread) Thu, 26 Feb 2015 09:12:42 +0000
+(MainThread) Processing file: 705 of 872
+(MainThread) Thu, 26 Feb 2015 09:13:31 +0000
+(MainThread) Processing file: 706 of 872
+(MainThread) Thu, 26 Feb 2015 09:14:07 +0000
+(MainThread) Processing file: 707 of 872
+(MainThread) Thu, 26 Feb 2015 09:15:06 +0000
+(MainThread) Processing file: 708 of 872
+(MainThread) Thu, 26 Feb 2015 09:15:54 +0000
+(MainThread) Processing file: 709 of 872
+(MainThread) Thu, 26 Feb 2015 09:16:41 +0000
+(MainThread) Processing file: 710 of 872
+(MainThread) Thu, 26 Feb 2015 09:17:27 +0000
+(MainThread) Processing file: 711 of 872
+(MainThread) Thu, 26 Feb 2015 09:18:15 +0000
+(MainThread) Processing file: 712 of 872
+(MainThread) Thu, 26 Feb 2015 09:19:02 +0000
+(MainThread) Processing file: 713 of 872
+(MainThread) Thu, 26 Feb 2015 09:19:52 +0000
+(MainThread) Processing file: 714 of 872
+(MainThread) Thu, 26 Feb 2015 09:20:33 +0000
+(MainThread) Processing file: 715 of 872
+(MainThread) Thu, 26 Feb 2015 09:21:28 +0000
+(MainThread) Processing file: 716 of 872
+(MainThread) Thu, 26 Feb 2015 09:22:20 +0000
+(MainThread) Processing file: 717 of 872
+(MainThread) Thu, 26 Feb 2015 09:23:17 +0000
+(MainThread) Processing file: 718 of 872
+(MainThread) Thu, 26 Feb 2015 09:24:11 +0000
+(MainThread) Processing file: 719 of 872
+(MainThread) Thu, 26 Feb 2015 09:25:04 +0000
+(MainThread) Processing file: 720 of 872
+(MainThread) Thu, 26 Feb 2015 09:25:50 +0000
+(MainThread) Processing file: 721 of 872
+(MainThread) Thu, 26 Feb 2015 09:26:32 +0000
+(MainThread) Processing file: 722 of 872
+(MainThread) Thu, 26 Feb 2015 09:27:26 +0000
+(MainThread) Processing file: 723 of 872
+(MainThread) Thu, 26 Feb 2015 09:28:25 +0000
+(MainThread) Processing file: 724 of 872
+(MainThread) Thu, 26 Feb 2015 09:29:16 +0000
+(MainThread) Processing file: 725 of 872
+(MainThread) Thu, 26 Feb 2015 09:30:12 +0000
+(MainThread) Processing file: 726 of 872
+(MainThread) Thu, 26 Feb 2015 09:31:08 +0000
+(MainThread) Processing file: 727 of 872
+(MainThread) Thu, 26 Feb 2015 09:32:01 +0000
+(MainThread) Processing file: 728 of 872
+(MainThread) Thu, 26 Feb 2015 09:32:49 +0000
+(MainThread) Processing file: 729 of 872
+(MainThread) Thu, 26 Feb 2015 09:33:31 +0000
+(MainThread) Processing file: 730 of 872
+(MainThread) Thu, 26 Feb 2015 09:34:11 +0000
+(MainThread) Processing file: 731 of 872
+(MainThread) Thu, 26 Feb 2015 09:35:13 +0000
+(MainThread) Processing file: 732 of 872
+(MainThread) Thu, 26 Feb 2015 09:36:09 +0000
+(MainThread) Processing file: 733 of 872
+(MainThread) Thu, 26 Feb 2015 09:37:04 +0000
+(MainThread) Processing file: 734 of 872
+(MainThread) Thu, 26 Feb 2015 09:37:54 +0000
+(MainThread) Processing file: 735 of 872
+(MainThread) Thu, 26 Feb 2015 09:38:52 +0000
+(MainThread) Processing file: 736 of 872
+(MainThread) Thu, 26 Feb 2015 09:39:42 +0000
+(MainThread) Processing file: 737 of 872
+(MainThread) Thu, 26 Feb 2015 09:40:38 +0000
+(MainThread) Processing file: 738 of 872
+(MainThread) Thu, 26 Feb 2015 09:41:17 +0000
+(MainThread) Processing file: 739 of 872
+(MainThread) Thu, 26 Feb 2015 09:42:12 +0000
+(MainThread) Processing file: 740 of 872
+(MainThread) Thu, 26 Feb 2015 09:43:07 +0000
+(MainThread) Processing file: 741 of 872
+(MainThread) Thu, 26 Feb 2015 09:43:50 +0000
+(MainThread) Processing file: 742 of 872
+(MainThread) Thu, 26 Feb 2015 09:44:39 +0000
+(MainThread) Processing file: 743 of 872
+(MainThread) Thu, 26 Feb 2015 09:45:35 +0000
+(MainThread) Processing file: 744 of 872
+(MainThread) Thu, 26 Feb 2015 09:46:32 +0000
+(MainThread) Processing file: 745 of 872
+(MainThread) Thu, 26 Feb 2015 09:47:21 +0000
+(MainThread) Processing file: 746 of 872
+(MainThread) Thu, 26 Feb 2015 09:48:02 +0000
+(MainThread) Processing file: 747 of 872
+(MainThread) Thu, 26 Feb 2015 09:48:49 +0000
+(MainThread) Processing file: 748 of 872
+(MainThread) Thu, 26 Feb 2015 09:49:41 +0000
+(MainThread) Processing file: 749 of 872
+(MainThread) Thu, 26 Feb 2015 09:50:33 +0000
+(MainThread) Processing file: 750 of 872
+(MainThread) Thu, 26 Feb 2015 09:51:31 +0000
+(MainThread) Processing file: 751 of 872
+(MainThread) Thu, 26 Feb 2015 09:52:25 +0000
+(MainThread) Processing file: 752 of 872
+(MainThread) Thu, 26 Feb 2015 09:53:20 +0000
+(MainThread) Processing file: 753 of 872
+(MainThread) Thu, 26 Feb 2015 09:54:20 +0000
+(MainThread) Processing file: 754 of 872
+(MainThread) Thu, 26 Feb 2015 09:55:16 +0000
+(MainThread) Processing file: 755 of 872
+(MainThread) Thu, 26 Feb 2015 09:56:14 +0000
+(MainThread) Processing file: 756 of 872
+(MainThread) Thu, 26 Feb 2015 09:57:12 +0000
+(MainThread) Processing file: 757 of 872
+(MainThread) Thu, 26 Feb 2015 09:58:09 +0000
+(MainThread) Processing file: 758 of 872
+(MainThread) Thu, 26 Feb 2015 09:59:05 +0000
+(MainThread) Processing file: 759 of 872
+(MainThread) Thu, 26 Feb 2015 10:00:02 +0000
+(MainThread) Processing file: 760 of 872
+(MainThread) Thu, 26 Feb 2015 10:01:00 +0000
+(MainThread) Processing file: 761 of 872
+(MainThread) Thu, 26 Feb 2015 10:01:38 +0000
+(MainThread) Processing file: 762 of 872
+(MainThread) Thu, 26 Feb 2015 10:02:25 +0000
+(MainThread) Processing file: 763 of 872
+(MainThread) Thu, 26 Feb 2015 10:03:05 +0000
+(MainThread) Processing file: 764 of 872
+(MainThread) Thu, 26 Feb 2015 10:04:06 +0000
+(MainThread) Processing file: 765 of 872
+(MainThread) Thu, 26 Feb 2015 10:04:55 +0000
+(MainThread) Processing file: 766 of 872
+(MainThread) Thu, 26 Feb 2015 10:05:37 +0000
+(MainThread) Processing file: 767 of 872
+(MainThread) Thu, 26 Feb 2015 10:06:26 +0000
+(MainThread) Processing file: 768 of 872
+(MainThread) Thu, 26 Feb 2015 10:07:18 +0000
+(MainThread) Processing file: 769 of 872
+(MainThread) Thu, 26 Feb 2015 10:08:09 +0000
+(MainThread) Processing file: 770 of 872
+(MainThread) Thu, 26 Feb 2015 10:09:07 +0000
+(MainThread) Processing file: 771 of 872
+(MainThread) Thu, 26 Feb 2015 10:09:49 +0000
+(MainThread) Processing file: 772 of 872
+(MainThread) Thu, 26 Feb 2015 10:10:43 +0000
+(MainThread) Processing file: 773 of 872
+(MainThread) Thu, 26 Feb 2015 10:11:30 +0000
+(MainThread) Processing file: 774 of 872
+(MainThread) Thu, 26 Feb 2015 10:12:23 +0000
+(MainThread) Processing file: 775 of 872
+(MainThread) Thu, 26 Feb 2015 10:13:11 +0000
+(MainThread) Processing file: 776 of 872
+(MainThread) Thu, 26 Feb 2015 10:14:07 +0000
+(MainThread) Processing file: 777 of 872
+(MainThread) Thu, 26 Feb 2015 10:14:51 +0000
+(MainThread) Processing file: 778 of 872
+(MainThread) Thu, 26 Feb 2015 10:15:40 +0000
+(MainThread) Processing file: 779 of 872
+(MainThread) Thu, 26 Feb 2015 10:16:27 +0000
+(MainThread) Processing file: 780 of 872
+(MainThread) Thu, 26 Feb 2015 10:17:04 +0000
+(MainThread) Processing file: 781 of 872
+(MainThread) Thu, 26 Feb 2015 10:17:57 +0000
+(MainThread) Processing file: 782 of 872
+(MainThread) Thu, 26 Feb 2015 10:18:55 +0000
+(MainThread) Processing file: 783 of 872
+(MainThread) Thu, 26 Feb 2015 10:19:51 +0000
+(MainThread) Processing file: 784 of 872
+(MainThread) Thu, 26 Feb 2015 10:20:30 +0000
+(MainThread) Processing file: 785 of 872
+(MainThread) Thu, 26 Feb 2015 10:21:23 +0000
+(MainThread) Processing file: 786 of 872
+(MainThread) Thu, 26 Feb 2015 10:22:07 +0000
+(MainThread) Processing file: 787 of 872
+(MainThread) Thu, 26 Feb 2015 10:22:47 +0000
+(MainThread) Processing file: 788 of 872
+(MainThread) Thu, 26 Feb 2015 10:23:41 +0000
+(MainThread) Processing file: 789 of 872
+(MainThread) Thu, 26 Feb 2015 10:24:35 +0000
+(MainThread) Processing file: 790 of 872
+(MainThread) Thu, 26 Feb 2015 10:25:31 +0000
+(MainThread) Processing file: 791 of 872
+(MainThread) Thu, 26 Feb 2015 10:26:10 +0000
+(MainThread) Processing file: 792 of 872
+(MainThread) Thu, 26 Feb 2015 10:27:01 +0000
+(MainThread) Processing file: 793 of 872
+(MainThread) Thu, 26 Feb 2015 10:27:48 +0000
+(MainThread) Processing file: 794 of 872
+(MainThread) Thu, 26 Feb 2015 10:28:45 +0000
+(MainThread) Processing file: 795 of 872
+(MainThread) Thu, 26 Feb 2015 10:29:40 +0000
+(MainThread) Processing file: 796 of 872
+(MainThread) Thu, 26 Feb 2015 10:30:31 +0000
+(MainThread) Processing file: 797 of 872
+(MainThread) Thu, 26 Feb 2015 10:31:24 +0000
+(MainThread) Processing file: 798 of 872
+(MainThread) Thu, 26 Feb 2015 10:32:06 +0000
+(MainThread) Processing file: 799 of 872
+(MainThread) Thu, 26 Feb 2015 10:32:47 +0000
+(MainThread) Processing file: 800 of 872
+(MainThread) Thu, 26 Feb 2015 10:33:39 +0000
+(MainThread) Processing file: 801 of 872
+(MainThread) Thu, 26 Feb 2015 10:34:31 +0000
+(MainThread) Processing file: 802 of 872
+(MainThread) Thu, 26 Feb 2015 10:35:23 +0000
+(MainThread) Processing file: 803 of 872
+(MainThread) Thu, 26 Feb 2015 10:36:20 +0000
+(MainThread) Processing file: 804 of 872
+(MainThread) Thu, 26 Feb 2015 10:37:14 +0000
+(MainThread) Processing file: 805 of 872
+(MainThread) Thu, 26 Feb 2015 10:38:03 +0000
+(MainThread) Processing file: 806 of 872
+(MainThread) Thu, 26 Feb 2015 10:38:56 +0000
+(MainThread) Processing file: 807 of 872
+(MainThread) Thu, 26 Feb 2015 10:39:52 +0000
+(MainThread) Processing file: 808 of 872
+(MainThread) Thu, 26 Feb 2015 10:40:45 +0000
+(MainThread) Processing file: 809 of 872
+(MainThread) Thu, 26 Feb 2015 10:41:37 +0000
+(MainThread) Processing file: 810 of 872
+(MainThread) Thu, 26 Feb 2015 10:42:27 +0000
+(MainThread) Processing file: 811 of 872
+(MainThread) Thu, 26 Feb 2015 10:43:20 +0000
+(MainThread) Processing file: 812 of 872
+(MainThread) Thu, 26 Feb 2015 10:44:10 +0000
+(MainThread) Processing file: 813 of 872
+(MainThread) Thu, 26 Feb 2015 10:45:01 +0000
+(MainThread) Processing file: 814 of 872
+(MainThread) Thu, 26 Feb 2015 10:45:47 +0000
+(MainThread) Processing file: 815 of 872
+(MainThread) Thu, 26 Feb 2015 10:46:36 +0000
+(MainThread) Processing file: 816 of 872
+(MainThread) Thu, 26 Feb 2015 10:47:26 +0000
+(MainThread) Processing file: 817 of 872
+(MainThread) Thu, 26 Feb 2015 10:48:17 +0000
+(MainThread) Processing file: 818 of 872
+(MainThread) Thu, 26 Feb 2015 10:48:56 +0000
+(MainThread) Processing file: 819 of 872
+(MainThread) Thu, 26 Feb 2015 10:49:36 +0000
+(MainThread) Processing file: 820 of 872
+(MainThread) Thu, 26 Feb 2015 10:50:32 +0000
+(MainThread) Processing file: 821 of 872
+(MainThread) Thu, 26 Feb 2015 10:51:15 +0000
+(MainThread) Processing file: 822 of 872
+(MainThread) Thu, 26 Feb 2015 10:52:11 +0000
+(MainThread) Processing file: 823 of 872
+(MainThread) Thu, 26 Feb 2015 10:52:51 +0000
+(MainThread) Processing file: 824 of 872
+(MainThread) Thu, 26 Feb 2015 10:53:47 +0000
+(MainThread) Processing file: 825 of 872
+(MainThread) Thu, 26 Feb 2015 10:54:39 +0000
+(MainThread) Processing file: 826 of 872
+(MainThread) Thu, 26 Feb 2015 10:55:27 +0000
+(MainThread) Processing file: 827 of 872
+(MainThread) Thu, 26 Feb 2015 10:56:20 +0000
+(MainThread) Processing file: 828 of 872
+(MainThread) Thu, 26 Feb 2015 10:57:14 +0000
+(MainThread) Processing file: 829 of 872
+(MainThread) Thu, 26 Feb 2015 10:57:57 +0000
+(MainThread) Processing file: 830 of 872
+(MainThread) Thu, 26 Feb 2015 10:58:48 +0000
+(MainThread) Processing file: 831 of 872
+(MainThread) Thu, 26 Feb 2015 10:59:45 +0000
+(MainThread) Processing file: 832 of 872
+(MainThread) Thu, 26 Feb 2015 11:00:37 +0000
+(MainThread) Processing file: 833 of 872
+(MainThread) Thu, 26 Feb 2015 11:01:31 +0000
+(MainThread) Processing file: 834 of 872
+(MainThread) Thu, 26 Feb 2015 11:02:17 +0000
+(MainThread) Processing file: 835 of 872
+(MainThread) Thu, 26 Feb 2015 11:03:08 +0000
+(MainThread) Processing file: 836 of 872
+(MainThread) Thu, 26 Feb 2015 11:03:46 +0000
+(MainThread) Processing file: 837 of 872
+(MainThread) Thu, 26 Feb 2015 11:04:32 +0000
+(MainThread) Processing file: 838 of 872
+(MainThread) Thu, 26 Feb 2015 11:05:24 +0000
+(MainThread) Processing file: 839 of 872
+(MainThread) Thu, 26 Feb 2015 11:06:17 +0000
+(MainThread) Processing file: 840 of 872
+(MainThread) Thu, 26 Feb 2015 11:07:13 +0000
+(MainThread) Processing file: 841 of 872
+(MainThread) Thu, 26 Feb 2015 11:08:07 +0000
+(MainThread) Processing file: 842 of 872
+(MainThread) Thu, 26 Feb 2015 11:08:57 +0000
+(MainThread) Processing file: 843 of 872
+(MainThread) Thu, 26 Feb 2015 11:09:57 +0000
+(MainThread) Processing file: 844 of 872
+(MainThread) Thu, 26 Feb 2015 11:10:36 +0000
+(MainThread) Processing file: 845 of 872
+(MainThread) Thu, 26 Feb 2015 11:11:26 +0000
+(MainThread) Processing file: 846 of 872
+(MainThread) Thu, 26 Feb 2015 11:12:08 +0000
+(MainThread) Processing file: 847 of 872
+(MainThread) Thu, 26 Feb 2015 11:13:07 +0000
+(MainThread) Processing file: 848 of 872
+(MainThread) Thu, 26 Feb 2015 11:14:07 +0000
+(MainThread) Processing file: 849 of 872
+(MainThread) Thu, 26 Feb 2015 11:15:12 +0000
+(MainThread) Processing file: 850 of 872
+(MainThread) Thu, 26 Feb 2015 11:15:51 +0000
+(MainThread) Processing file: 851 of 872
+(MainThread) Thu, 26 Feb 2015 11:16:42 +0000
+(MainThread) Processing file: 852 of 872
+(MainThread) Thu, 26 Feb 2015 11:17:27 +0000
+(MainThread) Processing file: 853 of 872
+(MainThread) Thu, 26 Feb 2015 11:18:17 +0000
+(MainThread) Processing file: 854 of 872
+(MainThread) Thu, 26 Feb 2015 11:19:15 +0000
+(MainThread) Processing file: 855 of 872
+(MainThread) Thu, 26 Feb 2015 11:20:13 +0000
+(MainThread) Processing file: 856 of 872
+(MainThread) Thu, 26 Feb 2015 11:21:16 +0000
+(MainThread) Processing file: 857 of 872
+(MainThread) Thu, 26 Feb 2015 11:22:05 +0000
+(MainThread) Processing file: 858 of 872
+(MainThread) Thu, 26 Feb 2015 11:22:55 +0000
+(MainThread) Processing file: 859 of 872
+(MainThread) Thu, 26 Feb 2015 11:23:50 +0000
+(MainThread) Processing file: 860 of 872
+(MainThread) Thu, 26 Feb 2015 11:24:44 +0000
+(MainThread) Processing file: 861 of 872
+(MainThread) Thu, 26 Feb 2015 11:25:40 +0000
+(MainThread) Processing file: 862 of 872
+(MainThread) Thu, 26 Feb 2015 11:26:30 +0000
+(MainThread) Processing file: 863 of 872
+(MainThread) Thu, 26 Feb 2015 11:27:31 +0000
+(MainThread) Processing file: 864 of 872
+(MainThread) Thu, 26 Feb 2015 11:28:22 +0000
+(MainThread) Processing file: 865 of 872
+(MainThread) Thu, 26 Feb 2015 11:29:17 +0000
+(MainThread) Processing file: 866 of 872
+(MainThread) Thu, 26 Feb 2015 11:30:16 +0000
+(MainThread) Processing file: 867 of 872
+(MainThread) Thu, 26 Feb 2015 11:30:58 +0000
+(MainThread) Processing file: 868 of 872
+(MainThread) Thu, 26 Feb 2015 11:31:55 +0000
+(MainThread) Processing file: 869 of 872
+(MainThread) Thu, 26 Feb 2015 11:32:45 +0000
+(MainThread) Processing file: 870 of 872
+(MainThread) Thu, 26 Feb 2015 11:33:37 +0000
+(MainThread) Processing file: 871 of 872
+(MainThread) Thu, 26 Feb 2015 11:34:36 +0000
+(MainThread) Processing file: 872 of 872
+(MainThread) Thu, 26 Feb 2015 11:35:24 +0000
+(MainThread) Done Processing Files

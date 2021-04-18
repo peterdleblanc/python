@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    {% load staticfiles %}
+    <title>My Site</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/static/css/blog.css" type="text/css"/>
+    <meta name="viewport content = " width-device-width, initial-scale=1.0">
+</head>
+<body class="body">
+    <header class = "mainHead">
+        <img src="/static/img/python.jpg" width="150" height="150"><h2>Powered by Python</h2>
+        <nav><ul>
+            <li class = 'active'><a href="/home/home">Home</a></li>
+            <li class = 'active'><a href="/blog/">Blog</a></li>
+            <li class = 'active'><a href="/blog/latestnews">Latest News</a></li>
+            <li class = 'active'><a href="/blog/archives">Archive</a></li>
+        </ul></nav>
+    </header>
+
+    <aside class="sideInfo">
+        <article>
+            <h3>Recent News</h3>
+            {% for post in object_list %}
+                <p>{{ post.date|date:"Y-m-d" }}<a href="/blog/{{post.id}}">{{ post.title }}</a> </p>
+            {% endfor %}
+        </article>
+    </aside>
+
+    <div class="mainContent">
+        <div class = "content">
+            <artical class="typicalArtical">
+                <header>
+                    <h3><a href="#" title="latest post">Lastest post link</a></h3>
+                </header>
+                <footer>
+                    <p class="postInfo">posted January 21st 2099</p>
+                </footer>
+                <content>
+
+                    {% block content %}
+                    {% endblock %}
+
+                </content>
+            </artical>
+        </div>
+    </div>
+
+    <footer class="mainFooter">
+        <p> Developed by Peter LeBlanc</p>
+    </footer>
+</body>
+</html>
